@@ -1,13 +1,25 @@
 import io
+import json
 import tempfile
 import unittest
 from datetime import datetime
 from pathlib import Path
 from contextlib import redirect_stdout
+from unittest.mock import patch
 
-from media_organizer.cli import collect_suspicious_report_entries, main, resolve_preview_root
+from media_organizer.cli import (
+    collect_google_photos_matches,
+    collect_google_photos_received,
+    collect_google_photos_summary,
+    collect_google_photos_sidecar_gaps,
+    collect_mtime_summary_groups,
+    collect_suspicious_report_entries,
+    inspect_google_photos_folder,
+    main,
+    resolve_preview_root,
+)
 from media_organizer.config import Roots
-from media_organizer.scanner import build_scan_report, infer_date, plan_destination
+from media_organizer.scanner import build_file_record, build_scan_report, infer_date, plan_destination
 
 
 class ScannerTests(unittest.TestCase):
@@ -59,6 +71,7 @@ class ScannerTests(unittest.TestCase):
         dated_tree_path = pictures_root / "2000" / "09" / "20" / "Cliff in Clouds.jpg"
         compact_dated_folder_path = pictures_root / "201003" / "Joy and Ima.JPG"
         album_path = pictures_root / "imports" / "Family Trip" / "IMG_0001.jpg"
+        jonel_camera_path = pictures_root / "Pictures from ates camera" / "121_0705" / "IMG_0596.JPG"
 
         self.assertEqual(
             plan_destination(dated_tree_path, "pictures", "image", "2000-09-20", pictures_root),
@@ -72,6 +85,58 @@ class ScannerTests(unittest.TestCase):
             plan_destination(album_path, "pictures", "image", "2020-01-01", pictures_root),
             "Library/2020/2020-01-01_Family-Trip/IMG_0001.jpg",
         )
+        self.assertEqual(
+            plan_destination(jonel_camera_path, "pictures", "image", "2013-07-04", pictures_root),
+            "Shared/Jonel/2013/2013-07-04_Jonel/IMG_0596.JPG",
+        )
+
+    def test_plan_destination_routes_jonel_to_shared_library(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        jonel_path = pictures_root / "Jonel" / "DSC01283.JPG"
+
+        self.assertEqual(
+            plan_destination(jonel_path, "pictures", "image", "2015-06-22", pictures_root),
+            "Shared/Jonel/2015/2015-06-22_Jonel/DSC01283.JPG",
+        )
+
+    def test_plan_destination_routes_samyra_to_shared_library(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        samyra_path = pictures_root / "Samyras 16" / "IMG_1178.JPG"
+
+        self.assertEqual(
+            plan_destination(samyra_path, "pictures", "image", "2014-09-05", pictures_root),
+            "Shared/Samyra/2014/2014-09-05_Samyra/IMG_1178.JPG",
+        )
+
+    def test_build_file_record_routes_nanay80_items_to_shared_folder(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            target = pictures / "nanay80" / "436363125_806662541380645_2610630878209441441_n.jpg"
+            target.parent.mkdir(parents=True)
+            pictures.mkdir(exist_ok=True)
+            target.write_bytes(b"image-bytes")
+
+            record = build_file_record(target, root_type="pictures", root_path=pictures, hash_media=False)
+
+            self.assertEqual(
+                record.proposed_relative_destination,
+                "Shared/nanayCora80th/436363125_806662541380645_2610630878209441441_n.jpg",
+            )
+
+    def test_build_file_record_routes_nanay80_unknown_files_to_shared_folder(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            target = pictures / "nanay80" / "d1.pdf"
+            target.parent.mkdir(parents=True)
+            pictures.mkdir(exist_ok=True)
+            target.write_bytes(b"pdf-bytes")
+
+            record = build_file_record(target, root_type="pictures", root_path=pictures, hash_media=False)
+
+            self.assertEqual(record.category, "unknown")
+            self.assertEqual(record.proposed_relative_destination, "Shared/nanayCora80th/d1.pdf")
 
     def test_infer_date_prefers_folder_structure_before_mtime(self) -> None:
         pictures_root = Path("/library/Pictures")
@@ -99,6 +164,80 @@ class ScannerTests(unittest.TestCase):
 
         self.assertEqual(inferred_date, "2010-06-13")
         self.assertEqual(date_source, "path")
+
+    def test_infer_date_uses_date_prefixed_folder_names(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        path = pictures_root / "Photos" / "2008" / "2008-04-20--18.53.11" / "DSCF1286.JPG"
+
+        inferred_date, date_source = infer_date(path, pictures_root, 1640995200)
+
+        self.assertEqual(inferred_date, "2008-04-20")
+        self.assertEqual(date_source, "path")
+
+    def test_infer_date_uses_named_year_bucket_folders(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        path = pictures_root / "google-takeout" / "Takeout" / "Google Photos" / "Photos from 2014" / "MOVIE.m4v"
+
+        inferred_date, date_source = infer_date(path, pictures_root, 1775001600)
+
+        self.assertEqual(inferred_date, "2014-01-01")
+        self.assertEqual(date_source, "path")
+
+    def test_infer_date_uses_year_and_month_name_folders(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        path = pictures_root / "Photos" / "2007" / "Jun" / "DSCF0720.JPG"
+
+        inferred_date, date_source = infer_date(path, pictures_root, 1194048000)
+
+        self.assertEqual(inferred_date, "2007-06-01")
+        self.assertEqual(date_source, "path")
+
+    def test_infer_date_uses_ates_camera_folder_dates_for_2013(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        path = pictures_root / "Pictures from ates camera" / "121_0705" / "IMG_0596.JPG"
+
+        inferred_date, date_source = infer_date(path, pictures_root, 1372982400)
+
+        self.assertEqual(inferred_date, "2013-07-05")
+        self.assertEqual(date_source, "path")
+
+    def test_infer_date_uses_ates_camera_folder_dates_for_2014(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        path = pictures_root / "Pictures from ates camera" / "200_0523" / "IMG_0440.JPG"
+
+        inferred_date, date_source = infer_date(path, pictures_root, 1400803200)
+
+        self.assertEqual(inferred_date, "2014-05-23")
+        self.assertEqual(date_source, "path")
+
+    def test_infer_date_uses_year_prefix_for_numeric_sequence_filenames(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        path = pictures_root / "morePics" / "200600001.jpg"
+
+        inferred_date, date_source = infer_date(path, pictures_root, 1165622400)
+
+        self.assertEqual(inferred_date, "2006-01-01")
+        self.assertEqual(date_source, "filename")
+
+    def test_infer_date_uses_exif_metadata_for_images(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        path = pictures_root / "IMG_0001.jpg"
+
+        class FakeImage:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, exc_type, exc, tb):
+                return False
+
+            def getexif(self):
+                return {36867: "2014:09:05 05:44:58"}
+
+        with patch("media_organizer.scanner.Image.open", return_value=FakeImage()):
+            inferred_date, date_source = infer_date(path, pictures_root, 0)
+
+        self.assertEqual(inferred_date, "2014-09-05")
+        self.assertEqual(date_source, "metadata")
 
     def test_infer_date_uses_epoch_timestamp_in_filename(self) -> None:
         pictures_root = Path("/library/Pictures")
@@ -217,6 +356,637 @@ class ScannerTests(unittest.TestCase):
         }
 
         self.assertEqual(collect_suspicious_report_entries(report_data), [])
+
+    def test_collect_mtime_summary_groups_groups_by_folder_and_pattern(self) -> None:
+        report_data = {
+            "files": [
+                {
+                    "path": "/library/Pictures/Jonel/DSC01283.JPG",
+                    "category": "image",
+                    "date_source": "mtime",
+                },
+                {
+                    "path": "/library/Pictures/Jonel/DSC01284.JPG",
+                    "category": "image",
+                    "date_source": "mtime",
+                },
+                {
+                    "path": "/library/Pictures/Jonel/IMG_0001.JPG",
+                    "category": "image",
+                    "date_source": "mtime",
+                },
+                {
+                    "path": "/library/Pictures/Jonel/notes.txt",
+                    "category": "unknown",
+                    "date_source": "mtime",
+                },
+                {
+                    "path": "/library/Pictures/Trips/DSC05555.JPG",
+                    "category": "image",
+                    "date_source": "path",
+                },
+            ]
+        }
+
+        groups = collect_mtime_summary_groups(report_data)
+
+        self.assertEqual(len(groups), 2)
+        self.assertEqual(groups[0]["folder"], "/library/Pictures/Jonel")
+        self.assertEqual(groups[0]["pattern"], "DSC<digits>.JPG")
+        self.assertEqual(groups[0]["count"], 2)
+        self.assertEqual(groups[0]["sample"], "DSC01283.JPG")
+
+    def test_collect_mtime_summary_groups_ignores_direct_shared_overrides(self) -> None:
+        report_data = {
+            "files": [
+                {
+                    "path": "/library/Pictures/nanay80/436363125_806662541380645_2610630878209441441_n.jpg",
+                    "category": "image",
+                    "date_source": "mtime",
+                    "proposed_relative_destination": "Shared/nanayCora80th/436363125_806662541380645_2610630878209441441_n.jpg",
+                }
+            ]
+        }
+
+        self.assertEqual(collect_mtime_summary_groups(report_data), [])
+
+    def test_mtime_summary_command_prints_grouped_patterns(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            report_path = temp_path / "scan.json"
+            report_path.write_text(
+                """
+{
+  "files": [
+    {
+      "path": "/library/Pictures/Jonel/DSC01283.JPG",
+      "category": "image",
+      "date_source": "mtime"
+    },
+    {
+      "path": "/library/Pictures/Jonel/DSC01284.JPG",
+      "category": "image",
+      "date_source": "mtime"
+    },
+    {
+      "path": "/library/Pictures/Jonel/IMG_0001.JPG",
+      "category": "image",
+      "date_source": "mtime"
+    }
+  ]
+}
+                """.strip(),
+                encoding="utf-8",
+            )
+
+            output = io.StringIO()
+            with redirect_stdout(output):
+                exit_code = main(["mtime-summary", "--report", str(report_path), "--limit", "5"])
+
+            self.assertEqual(exit_code, 0)
+            self.assertIn("Found 2 grouped mtime patterns across 3 files", output.getvalue())
+            self.assertIn("folder=/library/Pictures/Jonel | pattern=DSC<digits>.JPG", output.getvalue())
+
+    def test_collect_google_photos_summary_groups_takeout_folders(self) -> None:
+        report_data = {
+            "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+            "files": [
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/received_1.jpeg",
+                    "category": "image",
+                    "date_source": "path",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1-edited.jpg",
+                    "category": "image",
+                    "date_source": "filename",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1.jpg.supplemental-metadata.json",
+                    "category": "sidecar",
+                    "date_source": "filename",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/20210419_165459.jpg",
+                    "category": "image",
+                    "date_source": "filename",
+                },
+            ],
+        }
+
+        summaries = collect_google_photos_summary(report_data)
+
+        self.assertEqual(len(summaries), 2)
+        self.assertEqual(summaries[0]["folder"], "Photos from 2021")
+        self.assertEqual(summaries[0]["media"], 2)
+        self.assertEqual(summaries[0]["sidecars"], 1)
+        self.assertEqual(summaries[0]["edited"], 1)
+        self.assertEqual(summaries[0]["received"], 1)
+        self.assertEqual(summaries[0]["path"], 1)
+        self.assertEqual(summaries[0]["filename"], 1)
+
+    def test_google_photos_summary_command_prints_folder_summary(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            report_path = temp_path / "scan.json"
+            report_path.write_text(
+                """
+{
+  "roots": {
+    "pictures": "/library/Pictures",
+    "videos": "/library/Videos"
+  },
+  "files": [
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/received_1.jpeg",
+      "category": "image",
+      "date_source": "path"
+    },
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1-edited.jpg",
+      "category": "image",
+      "date_source": "filename"
+    },
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1.jpg.supplemental-metadata.json",
+      "category": "sidecar",
+      "date_source": "filename"
+    }
+  ]
+}
+                """.strip(),
+                encoding="utf-8",
+            )
+
+            output = io.StringIO()
+            with redirect_stdout(output):
+                exit_code = main(["google-photos-summary", "--report", str(report_path), "--limit", "5"])
+
+            self.assertEqual(exit_code, 0)
+            self.assertIn("Found 1 Google Photos folders", output.getvalue())
+            self.assertIn("Photos from 2021 | media=2 sidecars=1 edited=1 received=1", output.getvalue())
+
+    def test_inspect_google_photos_folder_groups_edited_pairs_and_sidecars(self) -> None:
+        report_data = {
+            "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+            "files": [
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_1-edited.jpg",
+                    "category": "image",
+                    "date_source": "filename",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_1.jpg",
+                    "category": "image",
+                    "date_source": "filename",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_1.jpg.supplemental-metada.json",
+                    "category": "sidecar",
+                    "date_source": "filename",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/received_2.jpeg",
+                    "category": "image",
+                    "date_source": "path",
+                },
+            ],
+        }
+
+        summary = inspect_google_photos_folder(report_data, "Photos from 2014")
+
+        self.assertIsNotNone(summary)
+        self.assertEqual(summary["media"], 3)
+        self.assertEqual(summary["sidecars"], 1)
+        self.assertEqual(summary["edited"], 1)
+        self.assertEqual(summary["received"], 1)
+        self.assertEqual(summary["groups"][0]["kind"], "edited-pair")
+        self.assertEqual(summary["groups"][0]["name"], "IMG_1.jpg")
+
+    def test_google_photos_folder_command_prints_group_details(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            report_path = temp_path / "scan.json"
+            report_path.write_text(
+                """
+{
+  "roots": {
+    "pictures": "/library/Pictures",
+    "videos": "/library/Videos"
+  },
+  "files": [
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_1-edited.jpg",
+      "category": "image",
+      "date_source": "filename"
+    },
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_1.jpg",
+      "category": "image",
+      "date_source": "filename"
+    },
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_1.jpg.supplemental-metada.json",
+      "category": "sidecar",
+      "date_source": "filename"
+    }
+  ]
+}
+                """.strip(),
+                encoding="utf-8",
+            )
+
+            output = io.StringIO()
+            with redirect_stdout(output):
+                exit_code = main(
+                    [
+                        "google-photos-folder",
+                        "--report",
+                        str(report_path),
+                        "--folder",
+                        "Photos from 2014",
+                        "--limit",
+                        "5",
+                    ]
+                )
+
+            self.assertEqual(exit_code, 0)
+            self.assertIn("Photos from 2014 | media=2 sidecars=1 edited=1", output.getvalue())
+            self.assertIn("edited-pair | count=2 sidecars=1 name=IMG_1.jpg", output.getvalue())
+
+    def test_collect_google_photos_received_groups_by_folder(self) -> None:
+        report_data = {
+            "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+            "files": [
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/received_1.jpeg",
+                    "category": "image",
+                    "date_source": "path",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/received_1.jpeg.supplemental-met.json",
+                    "category": "sidecar",
+                    "date_source": "path",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/received_2.jpeg",
+                    "category": "image",
+                    "date_source": "mtime",
+                },
+            ],
+        }
+
+        items = collect_google_photos_received(report_data)
+
+        self.assertEqual(len(items), 2)
+        self.assertEqual(items[0]["folder"], "Photos from 2021")
+        self.assertEqual(items[0]["sidecars"], 1)
+        self.assertEqual(items[1]["folder"], "Jonel 26")
+
+    def test_collect_google_photos_sidecar_gaps_finds_unmatched_sidecars(self) -> None:
+        report_data = {
+            "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+            "files": [
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_1.jpg.supplemental-metada.json",
+                    "category": "sidecar",
+                    "date_source": "filename",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_2.jpg",
+                    "category": "image",
+                    "date_source": "filename",
+                },
+            ],
+        }
+
+        items = collect_google_photos_sidecar_gaps(report_data)
+
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["folder"], "Photos from 2014")
+        self.assertEqual(items[0]["name"], "IMG_1.jpg")
+
+    def test_collect_google_photos_matches_compares_against_rest_of_library(self) -> None:
+        report_data = {
+            "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+            "files": [
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1-edited.jpg",
+                    "category": "image",
+                    "inferred_date": "2021-04-19",
+                },
+                {
+                    "path": "/library/Pictures/imports/Album/IMG_1.jpg",
+                    "category": "image",
+                    "inferred_date": "2021-04-19",
+                },
+            ],
+        }
+
+        items = collect_google_photos_matches(report_data)
+
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["name"], "IMG_1.jpg")
+        self.assertEqual(items[0]["date"], "2021-04-19")
+
+    def test_collect_google_photos_matches_can_filter_by_date_and_rest_folder(self) -> None:
+        report_data = {
+            "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+            "files": [
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1-edited.jpg",
+                    "category": "image",
+                    "inferred_date": "2021-04-19",
+                },
+                {
+                    "path": "/library/Pictures/imports/Album/IMG_1.jpg",
+                    "category": "image",
+                    "inferred_date": "2021-04-19",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2020/IMG_2-edited.jpg",
+                    "category": "image",
+                    "inferred_date": "2020-01-01",
+                },
+                {
+                    "path": "/library/Pictures/elsewhere/IMG_2.jpg",
+                    "category": "image",
+                    "inferred_date": "2020-01-01",
+                },
+            ],
+        }
+
+        items = collect_google_photos_matches(
+            report_data,
+            dates=["2021-04-19"],
+            rest_folder_contains="/library/Pictures/imports",
+        )
+
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["name"], "IMG_1.jpg")
+
+    def test_google_photos_received_command_prints_folder_rows(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            report_path = temp_path / "scan.json"
+            report_path.write_text(
+                """
+{
+  "roots": {
+    "pictures": "/library/Pictures",
+    "videos": "/library/Videos"
+  },
+  "files": [
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/received_1.jpeg",
+      "category": "image",
+      "date_source": "path"
+    }
+  ]
+}
+                """.strip(),
+                encoding="utf-8",
+            )
+
+            output = io.StringIO()
+            with redirect_stdout(output):
+                exit_code = main(["google-photos-received", "--report", str(report_path), "--limit", "5"])
+
+            self.assertEqual(exit_code, 0)
+            self.assertIn("Found 1 Google Photos folders with received_* items", output.getvalue())
+            self.assertIn("Photos from 2021 | media=1 sidecars=0", output.getvalue())
+
+    def test_google_photos_sidecar_gaps_command_prints_gap_rows(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            report_path = temp_path / "scan.json"
+            report_path.write_text(
+                """
+{
+  "roots": {
+    "pictures": "/library/Pictures",
+    "videos": "/library/Videos"
+  },
+  "files": [
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_1.jpg.supplemental-metada.json",
+      "category": "sidecar",
+      "date_source": "filename"
+    }
+  ]
+}
+                """.strip(),
+                encoding="utf-8",
+            )
+
+            output = io.StringIO()
+            with redirect_stdout(output):
+                exit_code = main(["google-photos-sidecar-gaps", "--report", str(report_path), "--limit", "5"])
+
+            self.assertEqual(exit_code, 0)
+            self.assertIn("Found 1 sidecar-only Google Photos groups", output.getvalue())
+            self.assertIn("Photos from 2014 | sidecars=1 name=IMG_1.jpg", output.getvalue())
+
+    def test_google_photos_compare_command_prints_match_rows(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            report_path = temp_path / "scan.json"
+            report_path.write_text(
+                """
+{
+  "roots": {
+    "pictures": "/library/Pictures",
+    "videos": "/library/Videos"
+  },
+  "files": [
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1-edited.jpg",
+      "category": "image",
+      "inferred_date": "2021-04-19"
+    },
+    {
+      "path": "/library/Pictures/imports/Album/IMG_1.jpg",
+      "category": "image",
+      "inferred_date": "2021-04-19"
+    }
+  ]
+}
+                """.strip(),
+                encoding="utf-8",
+            )
+
+            output = io.StringIO()
+            with redirect_stdout(output):
+                exit_code = main(["google-photos-compare", "--report", str(report_path), "--limit", "5"])
+
+            self.assertEqual(exit_code, 0)
+            self.assertIn("Found 1 Google Photos match groups", output.getvalue())
+            self.assertIn("2021-04-19 | IMG_1.jpg | google=1 rest=1", output.getvalue())
+
+    def test_google_photos_compare_command_accepts_filters(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            report_path = temp_path / "scan.json"
+            report_path.write_text(
+                """
+{
+  "roots": {
+    "pictures": "/library/Pictures",
+    "videos": "/library/Videos"
+  },
+  "files": [
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1-edited.jpg",
+      "category": "image",
+      "inferred_date": "2021-04-19"
+    },
+    {
+      "path": "/library/Pictures/imports/Album/IMG_1.jpg",
+      "category": "image",
+      "inferred_date": "2021-04-19"
+    },
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2020/IMG_2-edited.jpg",
+      "category": "image",
+      "inferred_date": "2020-01-01"
+    },
+    {
+      "path": "/library/Pictures/elsewhere/IMG_2.jpg",
+      "category": "image",
+      "inferred_date": "2020-01-01"
+    }
+  ]
+}
+                """.strip(),
+                encoding="utf-8",
+            )
+
+            output = io.StringIO()
+            with redirect_stdout(output):
+                exit_code = main(
+                    [
+                        "google-photos-compare",
+                        "--report",
+                        str(report_path),
+                        "--date",
+                        "2021-04-19",
+                        "--rest-folder-contains",
+                        "/library/Pictures/imports",
+                        "--limit",
+                        "5",
+                    ]
+                )
+
+            self.assertEqual(exit_code, 0)
+            self.assertIn("Found 1 Google Photos match groups", output.getvalue())
+            self.assertIn("2021-04-19 | IMG_1.jpg | google=1 rest=1", output.getvalue())
+
+    def test_google_photos_compare_command_can_write_json_output(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            report_path = temp_path / "scan.json"
+            output_path = temp_path / "matches.json"
+            report_path.write_text(
+                """
+{
+  "roots": {
+    "pictures": "/library/Pictures",
+    "videos": "/library/Videos"
+  },
+  "files": [
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1-edited.jpg",
+      "category": "image",
+      "inferred_date": "2021-04-19"
+    },
+    {
+      "path": "/library/Pictures/imports/Album/IMG_1.jpg",
+      "category": "image",
+      "inferred_date": "2021-04-19"
+    }
+  ]
+}
+                """.strip(),
+                encoding="utf-8",
+            )
+
+            output = io.StringIO()
+            with redirect_stdout(output):
+                exit_code = main(
+                    [
+                        "google-photos-compare",
+                        "--report",
+                        str(report_path),
+                        "--output",
+                        str(output_path),
+                    ]
+                )
+
+            self.assertEqual(exit_code, 0)
+            self.assertIn("Wrote 1 Google Photos match groups", output.getvalue())
+
+            written = json.loads(output_path.read_text(encoding="utf-8"))
+            self.assertEqual(written["match_count"], 1)
+            self.assertEqual(written["matches"][0]["name"], "IMG_1.jpg")
+
+    def test_final_review_package_command_writes_bundle_files(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            report_path = temp_path / "scan.json"
+            output_dir = temp_path / "review"
+            report_path.write_text(
+                """
+{
+  "summary": {
+    "total_files": 2,
+    "images": 1,
+    "videos": 0,
+    "sidecars": 1,
+    "caches": 0,
+    "unknown": 0
+  },
+  "roots": {
+    "pictures": "/library/Pictures",
+    "videos": "/library/Videos"
+  },
+  "files": [
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1-edited.jpg",
+      "category": "image",
+      "inferred_date": "2021-04-19",
+      "date_source": "filename",
+      "proposed_relative_destination": "Library/2021/2021-04-19_Photos-from-2021/IMG_1-edited.jpg"
+    },
+    {
+      "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1.jpg.supplemental-metada.json",
+      "category": "sidecar",
+      "inferred_date": "2021-04-19",
+      "date_source": "filename",
+      "proposed_relative_destination": "Exports/google-takeout/Takeout/Google Photos/Photos from 2021/IMG_1.jpg.supplemental-metada.json"
+    }
+  ]
+}
+                """.strip(),
+                encoding="utf-8",
+            )
+
+            output = io.StringIO()
+            with redirect_stdout(output):
+                exit_code = main(
+                    [
+                        "final-review-package",
+                        "--report",
+                        str(report_path),
+                        "--output-dir",
+                        str(output_dir),
+                    ]
+                )
+
+            self.assertEqual(exit_code, 0)
+            self.assertIn("Wrote final review package", output.getvalue())
+            self.assertTrue((output_dir / "README.md").exists())
+            self.assertTrue((output_dir / "google-photos-summary.json").exists())
+            self.assertTrue((output_dir / "google-photos-2014-review.json").exists())
 
 
 if __name__ == "__main__":

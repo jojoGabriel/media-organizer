@@ -6,6 +6,11 @@ from datetime import date, datetime
 from pathlib import Path
 from typing import DefaultDict, Dict, Iterable, List, Optional, Tuple
 
+try:
+    from PIL import Image
+except ImportError:  # pragma: no cover - optional dependency at runtime
+    Image = None
+
 from media_organizer.config import (
     CACHE_DIRECTORY_NAMES,
     IMAGE_EXTENSIONS,
@@ -22,8 +27,36 @@ DATE_PATTERNS = (
     re.compile(r"(?<!\d)(20\d{2}|19\d{2})[-_]?([01]\d)[-_]?([0-3]\d)(?!\d)"),
     re.compile(r"(?<!\d)(20\d{2}|19\d{2})[-_]?([01]\d)(?!\d)"),
 )
+FOLDER_DATE_PREFIX_PATTERN = re.compile(r"^(20\d{2}|19\d{2})-(\d{2})-(\d{2})(?:\D|$)")
+NAMED_YEAR_BUCKET_PATTERN = re.compile(r"^photos from ((?:20|19)\d{2})$", re.IGNORECASE)
+ATES_CAMERA_FOLDER_PATTERN = re.compile(r"^\d{3}_(\d{2})(\d{2})(?:\s+-\s+copy)?$", re.IGNORECASE)
 EPOCH_TS_PATTERN = re.compile(r"(?<!\d)(\d{10}|\d{13})(?!\d)")
+YEAR_PREFIXED_SEQUENCE_PATTERN = re.compile(r"^(20\d{2}|19\d{2})\d{4,}$")
+EXIF_DATETIME_PATTERN = re.compile(r"(20\d{2}|19\d{2}):(\d{2}):(\d{2})[ T](\d{2}):(\d{2}):(\d{2})")
 MIN_FOLDER_INFERRED_YEAR = 1990
+MONTH_NAME_TO_NUMBER = {
+    "jan": "01",
+    "feb": "02",
+    "mar": "03",
+    "apr": "04",
+    "may": "05",
+    "jun": "06",
+    "jul": "07",
+    "aug": "08",
+    "sep": "09",
+    "sept": "09",
+    "oct": "10",
+    "nov": "11",
+    "dec": "12",
+}
+SOURCE_LABEL_ALIASES = {
+    "jonel": "Jonel",
+    "pictures from ates camera": "Jonel",
+    "samyras 16": "Samyra",
+}
+SPECIAL_DESTINATION_FOLDERS = {
+    "nanay80": Path("Shared") / "nanayCora80th",
+}
 WEAK_SOURCE_LABEL_PATTERNS = (
     re.compile(r"^\d{1,2}$"),
     re.compile(r"^(19|20)\d{2}$"),
@@ -86,6 +119,7 @@ def build_file_record(path: Path, root_type: str, root_path: Path, hash_media: b
     stat = path.stat()
     category = classify_path(path, root_type=root_type)
     inferred_date, date_source = infer_date(path, root_path, stat.st_mtime)
+    special_destination = derive_special_destination(path, root_path)
 
     record = FileRecord(
         path=str(path),
@@ -99,7 +133,12 @@ def build_file_record(path: Path, root_type: str, root_path: Path, hash_media: b
         notes=[],
     )
 
-    if category in ("image", "video", "project_video", "screen_recording"):
+    if special_destination is not None:
+        if hash_media:
+            if category in ("image", "video", "project_video", "screen_recording"):
+                record.sha256 = hash_file(path)
+        record.proposed_relative_destination = special_destination
+    elif category in ("image", "video", "project_video", "screen_recording"):
         if hash_media:
             record.sha256 = hash_file(path)
         record.proposed_relative_destination = plan_destination(path, root_type, category, inferred_date, root_path)
@@ -170,6 +209,14 @@ def infer_date(path: Path, root_path: Path, modified_ts: float) -> Tuple[Optiona
     if epoch_date:
         return epoch_date, "filename"
 
+    year_only_date = infer_year_only_date_from_name(name)
+    if year_only_date:
+        return year_only_date, "filename"
+
+    exif_date = infer_exif_date(path)
+    if exif_date:
+        return exif_date, "metadata"
+
     relative_parent = get_relative_parent_parts(path, root_path)
     folder_date = infer_date_from_parts(relative_parent)
     if folder_date:
@@ -187,6 +234,25 @@ def get_relative_parent_parts(path: Path, root_path: Path) -> Tuple[str, ...]:
 
 
 def infer_date_from_parts(parts: Tuple[str, ...]) -> Optional[str]:
+    candidate = build_date_from_ates_camera_parts(parts)
+    if candidate:
+        return candidate
+
+    for part in parts:
+        candidate = build_date_from_prefixed_part(part)
+        if candidate:
+            return candidate
+
+    for part in parts:
+        candidate = build_date_from_named_year_bucket(part)
+        if candidate:
+            return candidate
+
+    for index in range(len(parts) - 1):
+        candidate = build_date_from_year_and_month_name(parts[index], parts[index + 1])
+        if candidate:
+            return candidate
+
     for part in parts:
         candidate = build_date_from_compact_part(part)
         if candidate:
@@ -203,6 +269,50 @@ def infer_date_from_parts(parts: Tuple[str, ...]) -> Optional[str]:
             return candidate
 
     return None
+
+
+def build_date_from_ates_camera_parts(parts: Tuple[str, ...]) -> Optional[str]:
+    for index in range(len(parts) - 1):
+        parent = parts[index].strip().lower()
+        child = parts[index + 1].strip()
+        if parent != "pictures from ates camera":
+            continue
+
+        match = ATES_CAMERA_FOLDER_PATTERN.match(child)
+        if not match:
+            continue
+
+        month, day = match.groups()
+        month_value = int(month)
+        year = "2013" if month_value >= 6 else "2014"
+        return build_date_from_parts(year, month, day)
+
+    return None
+
+
+def build_date_from_prefixed_part(part: str) -> Optional[str]:
+    match = FOLDER_DATE_PREFIX_PATTERN.match(part)
+    if not match:
+        return None
+
+    year, month, day = match.groups()
+    return build_date_from_parts(year, month, day)
+
+
+def build_date_from_named_year_bucket(part: str) -> Optional[str]:
+    match = NAMED_YEAR_BUCKET_PATTERN.match(part)
+    if not match:
+        return None
+
+    return build_date_from_parts(match.group(1), "01", "01")
+
+
+def build_date_from_year_and_month_name(year_part: str, month_part: str) -> Optional[str]:
+    month_number = MONTH_NAME_TO_NUMBER.get(month_part.strip().lower())
+    if not month_number:
+        return None
+
+    return build_date_from_parts(year_part, month_number, "01")
 
 
 def build_date_from_parts(year_part: str, month_part: str, day_part: Optional[str]) -> Optional[str]:
@@ -255,6 +365,45 @@ def infer_epoch_date_from_name(name: str) -> Optional[str]:
         return None
 
     return inferred.isoformat()
+
+
+def infer_year_only_date_from_name(name: str) -> Optional[str]:
+    match = YEAR_PREFIXED_SEQUENCE_PATTERN.match(name)
+    if not match:
+        return None
+
+    return build_date_from_parts(match.group(1), "01", "01")
+
+
+def infer_exif_date(path: Path) -> Optional[str]:
+    if Image is None or path.suffix.lower() not in IMAGE_EXTENSIONS:
+        return None
+
+    try:
+        with Image.open(path) as image_handle:
+            exif = image_handle.getexif()
+    except (OSError, ValueError, SyntaxError):
+        return None
+
+    if not exif:
+        return None
+
+    for tag in (36867, 36868, 306):
+        value = exif.get(tag)
+        if not value:
+            continue
+
+        match = EXIF_DATETIME_PATTERN.search(str(value))
+        if not match:
+            continue
+
+        year, month, day, _, _, _ = match.groups()
+        try:
+            return date(int(year), int(month), int(day)).isoformat()
+        except ValueError:
+            continue
+
+    return None
 
 
 def hash_file(path: Path) -> str:
@@ -336,6 +485,7 @@ def plan_destination(
 ) -> str:
     relative = path.relative_to(root_path)
     source_label = derive_source_label(relative, root_path)
+    destination_root = derive_destination_root(source_label)
     date_value = inferred_date or "unknown-date"
     year = date_value[:4] if len(date_value) >= 4 else "unknown"
 
@@ -348,7 +498,7 @@ def plan_destination(
     if category == "project_video":
         return str(Path("Projects") / relative)
     if category in ("image", "video"):
-        return str(Path("Library") / year / "{0}_{1}".format(date_value, source_label) / path.name)
+        return str(Path(destination_root) / year / "{0}_{1}".format(date_value, source_label) / path.name)
     return str(relative)
 
 
@@ -363,10 +513,44 @@ def derive_source_label(relative_path: Path, root_path: Path) -> str:
         return sanitize_label(root_path.name)
 
     for part in reversed(parent.parts):
+        aliased_label = get_source_label_alias(part)
+        if aliased_label:
+            return aliased_label
+
+    for part in reversed(parent.parts):
         if not is_weak_source_label(part):
             return sanitize_label(part)
 
     return sanitize_label(root_path.name)
+
+
+def get_source_label_alias(value: str) -> Optional[str]:
+    return SOURCE_LABEL_ALIASES.get(value.strip().lower())
+
+
+def derive_destination_root(source_label: str) -> str:
+    if source_label == "Jonel":
+        return str(Path("Shared") / "Jonel")
+    if source_label == "Samyra":
+        return str(Path("Shared") / "Samyra")
+    return "Library"
+
+
+def derive_special_destination(path: Path, root_path: Path) -> Optional[str]:
+    try:
+        relative = path.relative_to(root_path)
+    except ValueError:
+        return None
+
+    if not relative.parts:
+        return None
+
+    destination_root = SPECIAL_DESTINATION_FOLDERS.get(relative.parts[0].strip().lower())
+    if destination_root is None:
+        return None
+
+    remainder = Path(*relative.parts[1:]) if len(relative.parts) > 1 else Path(path.name)
+    return str(destination_root / remainder)
 
 
 def is_weak_source_label(value: str) -> bool:

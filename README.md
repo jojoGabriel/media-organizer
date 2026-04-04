@@ -59,4 +59,8 @@ before adding a future move/apply phase.
   where possible.
 - Cache folders such as `.wdmc` are classified separately so they do not pollute
   the permanent library plan.
-
+- Review helpers:
+  - `preview` inspects proposed destinations for specific files
+  - `suspicious-report` prints suspicious destination rows from a saved report
+  - `mtime-summary` groups remaining `mtime`-dated media by folder and filename
+    pattern so ambiguous batches are easier to review
