@@ -1,5 +1,6 @@
 import io
 import json
+import subprocess
 import tempfile
 import unittest
 from datetime import datetime
@@ -65,6 +66,54 @@ class ScannerTests(unittest.TestCase):
             "Projects/PleasantHarmony/cut.mp4",
         )
 
+    def test_build_file_record_routes_project_images_under_projects(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            videos = temp_path / "Videos"
+            target = videos / "PleasantHarmony" / "logo.png"
+            target.parent.mkdir(parents=True)
+            pictures.mkdir()
+            videos.mkdir(exist_ok=True)
+            target.write_bytes(b"image-bytes")
+
+            record = build_file_record(target, root_type="videos", root_path=videos, hash_media=False)
+
+            self.assertEqual(record.category, "image")
+            self.assertEqual(record.proposed_relative_destination, "Projects/PleasantHarmony/logo.png")
+
+    def test_build_file_record_routes_project_unknown_files_under_projects(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            videos = temp_path / "Videos"
+            target = videos / "PleasantHarmony" / "session.kdenlive"
+            target.parent.mkdir(parents=True)
+            pictures.mkdir()
+            videos.mkdir(exist_ok=True)
+            target.write_bytes(b"project-file")
+
+            record = build_file_record(target, root_type="videos", root_path=videos, hash_media=False)
+
+            self.assertEqual(record.category, "unknown")
+            self.assertEqual(record.proposed_relative_destination, "Projects/PleasantHarmony/session.kdenlive")
+
+    def test_build_file_record_routes_project_cache_files_to_app_caches(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            videos = temp_path / "Videos"
+            target = videos / "PleasantHarmony" / ".wdmc" / "thumb.jpg"
+            target.parent.mkdir(parents=True)
+            pictures.mkdir()
+            videos.mkdir(exist_ok=True)
+            target.write_bytes(b"cache-bytes")
+
+            record = build_file_record(target, root_type="videos", root_path=videos, hash_media=False)
+
+            self.assertEqual(record.category, "cache")
+            self.assertEqual(record.proposed_relative_destination, "App-Caches/PleasantHarmony/.wdmc/thumb.jpg")
+
     def test_plan_destination_uses_meaningful_source_label(self) -> None:
         pictures_root = Path("/library/Pictures")
 
@@ -106,6 +155,24 @@ class ScannerTests(unittest.TestCase):
         self.assertEqual(
             plan_destination(samyra_path, "pictures", "image", "2014-09-05", pictures_root),
             "Shared/Samyra/2014/2014-09-05_Samyra/IMG_1178.JPG",
+        )
+
+    def test_plan_destination_routes_ceu_to_shared_library(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        ceu_path = pictures_root / "ceu" / "grad1.jpg"
+
+        self.assertEqual(
+            plan_destination(ceu_path, "pictures", "image", "2016-05-10", pictures_root),
+            "Shared/CEU/2016/2016-05-10_CEU/grad1.jpg",
+        )
+
+    def test_plan_destination_routes_tito_osias_to_shared_library(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        tito_osias_path = pictures_root / "Tito Osias" / "IMG_0001.JPG"
+
+        self.assertEqual(
+            plan_destination(tito_osias_path, "pictures", "image", "2012-08-14", pictures_root),
+            "Shared/Tito-Osias/2012/2012-08-14_Tito-Osias/IMG_0001.JPG",
         )
 
     def test_build_file_record_routes_nanay80_items_to_shared_folder(self) -> None:
@@ -238,6 +305,58 @@ class ScannerTests(unittest.TestCase):
 
         self.assertEqual(inferred_date, "2014-09-05")
         self.assertEqual(date_source, "metadata")
+
+    def test_infer_date_uses_embedded_video_metadata(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        path = pictures_root / "MVI_0739.MOV"
+        probe_output = json.dumps(
+            {
+                "format": {"tags": {"creation_time": "2014-06-28T16:17:15.000000Z"}},
+                "streams": [{"tags": {"handler_name": "VideoHandler"}}],
+            }
+        )
+
+        with patch(
+            "media_organizer.scanner.subprocess.run",
+            return_value=subprocess.CompletedProcess(args=["ffprobe"], returncode=0, stdout=probe_output),
+        ):
+            inferred_date, date_source = infer_date(path, pictures_root, 0)
+
+        self.assertEqual(inferred_date, "2014-06-28")
+        self.assertEqual(date_source, "metadata")
+
+    def test_infer_date_uses_quicktime_creationdate_metadata_for_videos(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        path = pictures_root / "MVI_0739.MOV"
+        probe_output = json.dumps(
+            {
+                "format": {"tags": {"com.apple.quicktime.creationdate": "2014-06-28T11:17:15-0500"}},
+                "streams": [],
+            }
+        )
+
+        with patch(
+            "media_organizer.scanner.subprocess.run",
+            return_value=subprocess.CompletedProcess(args=["ffprobe"], returncode=0, stdout=probe_output),
+        ):
+            inferred_date, date_source = infer_date(path, pictures_root, 0)
+
+        self.assertEqual(inferred_date, "2014-06-28")
+        self.assertEqual(date_source, "metadata")
+
+    def test_infer_date_falls_back_when_video_metadata_probe_fails(self) -> None:
+        pictures_root = Path("/library/Pictures")
+        path = pictures_root / "summer2014" / "MVI_0739.MOV"
+        modified_ts = 1403950634
+
+        with patch(
+            "media_organizer.scanner.subprocess.run",
+            side_effect=subprocess.CalledProcessError(returncode=1, cmd=["ffprobe"]),
+        ):
+            inferred_date, date_source = infer_date(path, pictures_root, modified_ts)
+
+        self.assertEqual(inferred_date, "2014-06-28")
+        self.assertEqual(date_source, "mtime")
 
     def test_infer_date_uses_epoch_timestamp_in_filename(self) -> None:
         pictures_root = Path("/library/Pictures")

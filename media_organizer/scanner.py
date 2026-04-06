@@ -1,6 +1,7 @@
 import hashlib
 import json
 import re
+import subprocess
 from collections import defaultdict
 from datetime import date, datetime
 from pathlib import Path
@@ -33,6 +34,7 @@ ATES_CAMERA_FOLDER_PATTERN = re.compile(r"^\d{3}_(\d{2})(\d{2})(?:\s+-\s+copy)?$
 EPOCH_TS_PATTERN = re.compile(r"(?<!\d)(\d{10}|\d{13})(?!\d)")
 YEAR_PREFIXED_SEQUENCE_PATTERN = re.compile(r"^(20\d{2}|19\d{2})\d{4,}$")
 EXIF_DATETIME_PATTERN = re.compile(r"(20\d{2}|19\d{2}):(\d{2}):(\d{2})[ T](\d{2}):(\d{2}):(\d{2})")
+ISO_DATETIME_PATTERN = re.compile(r"(20\d{2}|19\d{2})-(\d{2})-(\d{2})(?:[ T]\d{2}:\d{2}:\d{2})?")
 MIN_FOLDER_INFERRED_YEAR = 1990
 MONTH_NAME_TO_NUMBER = {
     "jan": "01",
@@ -53,6 +55,8 @@ SOURCE_LABEL_ALIASES = {
     "jonel": "Jonel",
     "pictures from ates camera": "Jonel",
     "samyras 16": "Samyra",
+    "ceu": "CEU",
+    "tito osias": "Tito-Osias",
 }
 SPECIAL_DESTINATION_FOLDERS = {
     "nanay80": Path("Shared") / "nanayCora80th",
@@ -120,6 +124,7 @@ def build_file_record(path: Path, root_type: str, root_path: Path, hash_media: b
     category = classify_path(path, root_type=root_type)
     inferred_date, date_source = infer_date(path, root_path, stat.st_mtime)
     special_destination = derive_special_destination(path, root_path)
+    project_destination = derive_project_destination(path, root_type, root_path)
 
     record = FileRecord(
         path=str(path),
@@ -138,11 +143,16 @@ def build_file_record(path: Path, root_type: str, root_path: Path, hash_media: b
             if category in ("image", "video", "project_video", "screen_recording"):
                 record.sha256 = hash_file(path)
         record.proposed_relative_destination = special_destination
+    elif category in ("sidecar", "cache"):
+        record.proposed_relative_destination = plan_destination(path, root_type, category, inferred_date, root_path)
+    elif project_destination is not None:
+        if hash_media:
+            if category in ("image", "video", "project_video", "screen_recording"):
+                record.sha256 = hash_file(path)
+        record.proposed_relative_destination = project_destination
     elif category in ("image", "video", "project_video", "screen_recording"):
         if hash_media:
             record.sha256 = hash_file(path)
-        record.proposed_relative_destination = plan_destination(path, root_type, category, inferred_date, root_path)
-    elif category in ("sidecar", "cache"):
         record.proposed_relative_destination = plan_destination(path, root_type, category, inferred_date, root_path)
     else:
         record.proposed_relative_destination = None
@@ -213,9 +223,9 @@ def infer_date(path: Path, root_path: Path, modified_ts: float) -> Tuple[Optiona
     if year_only_date:
         return year_only_date, "filename"
 
-    exif_date = infer_exif_date(path)
-    if exif_date:
-        return exif_date, "metadata"
+    metadata_date = infer_embedded_metadata_date(path)
+    if metadata_date:
+        return metadata_date, "metadata"
 
     relative_parent = get_relative_parent_parts(path, root_path)
     folder_date = infer_date_from_parts(relative_parent)
@@ -375,6 +385,14 @@ def infer_year_only_date_from_name(name: str) -> Optional[str]:
     return build_date_from_parts(match.group(1), "01", "01")
 
 
+def infer_embedded_metadata_date(path: Path) -> Optional[str]:
+    image_metadata_date = infer_exif_date(path)
+    if image_metadata_date:
+        return image_metadata_date
+
+    return infer_video_metadata_date(path)
+
+
 def infer_exif_date(path: Path) -> Optional[str]:
     if Image is None or path.suffix.lower() not in IMAGE_EXTENSIONS:
         return None
@@ -393,15 +411,73 @@ def infer_exif_date(path: Path) -> Optional[str]:
         if not value:
             continue
 
-        match = EXIF_DATETIME_PATTERN.search(str(value))
-        if not match:
-            continue
+        inferred = extract_date_from_metadata_value(str(value))
+        if inferred:
+            return inferred
 
+    return None
+
+
+def infer_video_metadata_date(path: Path) -> Optional[str]:
+    if path.suffix.lower() not in VIDEO_EXTENSIONS:
+        return None
+
+    try:
+        result = subprocess.run(
+            [
+                "ffprobe",
+                "-v",
+                "error",
+                "-print_format",
+                "json",
+                "-show_entries",
+                "format_tags:stream_tags",
+                str(path),
+            ],
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+    except (FileNotFoundError, PermissionError, subprocess.CalledProcessError, subprocess.TimeoutExpired):
+        return None
+
+    try:
+        probe_data = json.loads(result.stdout or "{}")
+    except json.JSONDecodeError:
+        return None
+
+    format_tags = probe_data.get("format", {}).get("tags", {})
+    candidate_values = list(format_tags.values())
+
+    for stream in probe_data.get("streams", []):
+        candidate_values.extend(stream.get("tags", {}).values())
+
+    for value in candidate_values:
+        if not value:
+            continue
+        inferred = extract_date_from_metadata_value(str(value))
+        if inferred:
+            return inferred
+
+    return None
+
+
+def extract_date_from_metadata_value(raw_value: str) -> Optional[str]:
+    match = EXIF_DATETIME_PATTERN.search(raw_value)
+    if match:
         year, month, day, _, _, _ = match.groups()
         try:
             return date(int(year), int(month), int(day)).isoformat()
         except ValueError:
-            continue
+            return None
+
+    iso_match = ISO_DATETIME_PATTERN.search(raw_value)
+    if iso_match:
+        year, month, day = iso_match.groups()
+        try:
+            return date(int(year), int(month), int(day)).isoformat()
+        except ValueError:
+            return None
 
     return None
 
@@ -533,6 +609,10 @@ def derive_destination_root(source_label: str) -> str:
         return str(Path("Shared") / "Jonel")
     if source_label == "Samyra":
         return str(Path("Shared") / "Samyra")
+    if source_label == "CEU":
+        return str(Path("Shared") / "CEU")
+    if source_label == "Tito-Osias":
+        return str(Path("Shared") / "Tito-Osias")
     return "Library"
 
 
@@ -551,6 +631,21 @@ def derive_special_destination(path: Path, root_path: Path) -> Optional[str]:
 
     remainder = Path(*relative.parts[1:]) if len(relative.parts) > 1 else Path(path.name)
     return str(destination_root / remainder)
+
+
+def derive_project_destination(path: Path, root_type: str, root_path: Path) -> Optional[str]:
+    if root_type != "videos":
+        return None
+
+    try:
+        relative = path.relative_to(root_path)
+    except ValueError:
+        return None
+
+    if not any(part.strip().lower() in PROJECT_DIRECTORY_NAMES for part in relative.parts):
+        return None
+
+    return str(Path("Projects") / relative)
 
 
 def is_weak_source_label(value: str) -> bool:
