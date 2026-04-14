@@ -1,0 +1,16 @@
+{
+  "source_report": "reports/scan-hash-v21.json",
+  "generated_at": "2026-04-05T20:52:38Z",
+  "scan_generated_at": "2026-04-05T20:36:59Z",
+  "duplicate_group_count": 2056,
+  "duplicate_file_count": 4213,
+  "groups_with_review_tags": 1851,
+  "groups_with_conflicting_destinations": 2031,
+  "groups_with_three_or_more_files": 95,
+  "review_tag_counts": {
+    "bad_1903_bucket": 4,
+    "google_takeout": 617,
+    "morePics": 144,
+    "photos_root": 1232
+  }
+}

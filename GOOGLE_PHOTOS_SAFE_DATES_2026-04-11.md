@@ -120,10 +120,47 @@ folders. Edited files, `received_*`, and `metadata.json` still stay deferred.
 
 - `2021-04-19`: `5`
 
+`Weekend in Fish Creek` plain subset:
+
+- `2014-07-19`: `17`
+
+Still deferred there:
+
+- all `-edited` variants
+- `metadata.json`
+
+Keep in that folder:
+
+- `IMG_20140719_165758-SMILE.jpg`
+- `IMG_20140719_190437-MOTION.gif`
+
+`Wednesday morning in Chicago` plain subset:
+
+- `2014-05-28`: `19`
+
+Still deferred there:
+
+- all `-edited` variants
+- `metadata.json`
+
+`Trip to Los Angeles and Anaheim` plain subset:
+
+- `2014-06-21`: `18`
+- `2014-06-22`: `1`
+- `2014-06-23`: `10`
+
+Still deferred there:
+
+- all `-edited` variants
+- `metadata.json`
+
 Manifests:
 
 - [google-takeout-conditional-pass-memories-together-plain.txt](/home/gabriel/Projects/media-organizer/reports/google-takeout-conditional-pass-memories-together-plain.txt)
 - [google-takeout-conditional-pass-jonel-26-plain.txt](/home/gabriel/Projects/media-organizer/reports/google-takeout-conditional-pass-jonel-26-plain.txt)
+- [google-takeout-conditional-pass-weekend-in-fish-creek-plain.txt](/home/gabriel/Projects/media-organizer/reports/google-takeout-conditional-pass-weekend-in-fish-creek-plain.txt)
+- [google-takeout-conditional-pass-wednesday-morning-in-chicago-plain.txt](/home/gabriel/Projects/media-organizer/reports/google-takeout-conditional-pass-wednesday-morning-in-chicago-plain.txt)
+- [google-takeout-conditional-pass-trip-to-los-angeles-and-anaheim-plain.txt](/home/gabriel/Projects/media-organizer/reports/google-takeout-conditional-pass-trip-to-los-angeles-and-anaheim-plain.txt)
 
 ## Small Exact Date Buckets
 

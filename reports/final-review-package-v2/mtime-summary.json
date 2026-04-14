@@ -1,0 +1,718 @@
+{
+  "groups": [
+    {
+      "folder": "/home/gabriel/Pictures/summer2014",
+      "pattern": "MVI_<digits>.MOV",
+      "count": 92,
+      "sample": "MVI_0733.MOV"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Kali",
+      "pattern": "Panantukan Silat Level <digits>.mp<digits>",
+      "count": 10,
+      "sample": "Panantukan Silat Level 1.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos",
+      "pattern": "IMG_<digits>.MOV",
+      "count": 8,
+      "sample": "IMG_1457.MOV"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Samyras 16",
+      "pattern": "MVI_<digits>.MOV",
+      "count": 7,
+      "sample": "MVI_1202.MOV"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Pictures from ates camera",
+      "pattern": "MVI_<digits>.MOV",
+      "count": 5,
+      "sample": "MVI_0514.MOV"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Pro <digits>_<digits>.png",
+      "count": 5,
+      "sample": "Pro 14_29.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/1903/12/31",
+      "pattern": "VIDEO_<digits>.mp<digits>",
+      "count": 4,
+      "sample": "VIDEO_070.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Kali",
+      "pattern": "Hammer Defense Level <digits>.mp<digits>",
+      "count": 4,
+      "sample": "Hammer Defense Level 1.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/JJ1999",
+      "pattern": "JJ<digits>.mp<digits>",
+      "count": 3,
+      "sample": "JJ1.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26",
+      "pattern": "received_<digits>.jpeg",
+      "count": 2,
+      "sample": "received_265835921918004.jpeg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/morePics",
+      "pattern": "j<digits>.jpg",
+      "count": 2,
+      "sample": "j01.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/morePics",
+      "pattern": "Lola <digits>.jpg",
+      "count": 2,
+      "sample": "Lola 000529.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/nasa",
+      "pattern": "STSCI-J-p<digits>a-<digits>px.jpg",
+      "count": 2,
+      "sample": "STSCI-J-p22031a-4000px.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Photos",
+      "pattern": "dscf<digits>-<digits>.jpg",
+      "count": 2,
+      "sample": "dscf4994-0.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Jam <digits>_<digits>-<digits>.png",
+      "count": 2,
+      "sample": "Jam 5_7-8.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Lam <digits>_<digits>-<digits>.png",
+      "count": 2,
+      "sample": "Lam 3_25-27.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos",
+      "pattern": "cs<digits>w-project<digits>.mp<digits>",
+      "count": 2,
+      "sample": "cs50w-project0.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Kali",
+      "pattern": "Halleck Single Stick <digits>.mp<digits>",
+      "count": 2,
+      "sample": "Halleck Single Stick 1.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm",
+      "pattern": "pexels-pixabay-<digits>.jpg",
+      "count": 2,
+      "sample": "pexels-pixabay-290660.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures",
+      "pattern": "joy.png",
+      "count": 1,
+      "sample": "joy.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures",
+      "pattern": "NayTay.png",
+      "count": 1,
+      "sample": "NayTay.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "beed<digits>a.jpg",
+      "count": 1,
+      "sample": "beed2a.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "bukid.jpg",
+      "count": 1,
+      "sample": "bukid.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "classroom.jpg",
+      "count": 1,
+      "sample": "classroom.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "denver.jpg",
+      "count": 1,
+      "sample": "denver.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "grad<digits>.jpg",
+      "count": 1,
+      "sample": "grad1.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "myla.jpg",
+      "count": 1,
+      "sample": "myla.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "nayon.jpg",
+      "count": 1,
+      "sample": "nayon.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "nayonStairs.jpg",
+      "count": 1,
+      "sample": "nayonStairs.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "nearDorm.jpg",
+      "count": 1,
+      "sample": "nearDorm.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "practiceTeaching.jpg",
+      "count": 1,
+      "sample": "practiceTeaching.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "practiceTeaching<digits>.jpg",
+      "count": 1,
+      "sample": "practiceTeaching2.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "streetKids.jpg",
+      "count": 1,
+      "sample": "streetKids.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "tagaytay.jpg",
+      "count": 1,
+      "sample": "tagaytay.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "withcecil.jpg",
+      "count": 1,
+      "sample": "withcecil.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "withmyla.jpg",
+      "count": 1,
+      "sample": "withmyla.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "airsquat.gif",
+      "count": 1,
+      "sample": "airsquat.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "bicyclecrunch.gif",
+      "count": 1,
+      "sample": "bicyclecrunch.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "bridge.gif",
+      "count": 1,
+      "sample": "bridge.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "burpee.gif",
+      "count": 1,
+      "sample": "burpee.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "cleayandcurtsey.gif",
+      "count": 1,
+      "sample": "cleayandcurtsey.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "jumpingjack.gif",
+      "count": 1,
+      "sample": "jumpingjack.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "jumpingrope.gif",
+      "count": 1,
+      "sample": "jumpingrope.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "lateralsquat.gif",
+      "count": 1,
+      "sample": "lateralsquat.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "pikepushup.gif",
+      "count": 1,
+      "sample": "pikepushup.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "pushup.gif",
+      "count": 1,
+      "sample": "pushup.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "russiantwist.gif",
+      "count": 1,
+      "sample": "russiantwist.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1",
+      "pattern": "tricepdip.gif",
+      "count": 1,
+      "sample": "tricepdip.gif"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough",
+      "pattern": "video-f<digits>a<digits>fed<digits>a<digits>cd<digits>f<digits>b<digits>bb<digits>f<digits>b<digits>.mp<digits>",
+      "count": 1,
+      "sample": "video-f1863057a47fed78295a68cd0f01b8bb2f39b8754.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/googleEarth",
+      "pattern": "joy house.png",
+      "count": 1,
+      "sample": "joy house.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/morePics",
+      "pattern": "Gary and Mom.jpg",
+      "count": 1,
+      "sample": "Gary and Mom.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/morePics",
+      "pattern": "Lola <digits> Back.jpg",
+      "count": 1,
+      "sample": "Lola 081099 Back.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/morePics",
+      "pattern": "Lola <digits> Front.jpg",
+      "count": 1,
+      "sample": "Lola 081099 Front.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/nasa",
+      "pattern": "hubble_cgcg<digits>-<digits>_potw<digits>a.jpg",
+      "count": 1,
+      "sample": "hubble_cgcg396-2_potw2227a.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/nasa",
+      "pattern": "potw<digits>a.jpeg",
+      "count": 1,
+      "sample": "potw1249a.jpeg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/nasa",
+      "pattern": "potw<digits>a.jpg",
+      "count": 1,
+      "sample": "potw1441a.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/nasa",
+      "pattern": "STSCI-J-p<digits>b-<digits>px.jpg",
+      "count": 1,
+      "sample": "STSCI-J-p22033b-4000px.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/nasa",
+      "pattern": "STSCI-J-p<digits>f-Crop-<digits>px.jpg",
+      "count": 1,
+      "sample": "STSCI-J-p22034f-Crop-4000px.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Pexels",
+      "pattern": "pexels-cottonbro-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-cottonbro-5876759.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Photos",
+      "pattern": "impo ige.jpg",
+      "count": 1,
+      "sample": "impo ige.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Photos",
+      "pattern": "inang luisa.jpg",
+      "count": 1,
+      "sample": "inang luisa.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Photos",
+      "pattern": "ingkong dianong.jpg",
+      "count": 1,
+      "sample": "ingkong dianong.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Photos",
+      "pattern": "tatang gelacio.jpg",
+      "count": 1,
+      "sample": "tatang gelacio.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Photos/2007/Beng",
+      "pattern": "VIDEO_<digits>.mp<digits>",
+      "count": 1,
+      "sample": "VIDEO_070.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Screenshots",
+      "pattern": "problem.jpg",
+      "count": 1,
+      "sample": "problem.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Screenshots",
+      "pattern": "Screenshot (<digits>).png",
+      "count": 1,
+      "sample": "Screenshot (1).png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "<digits> Cor <digits>_<digits>-<digits>.png",
+      "count": 1,
+      "sample": "1 Cor 13_4-7.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "<digits> The <digits>_<digits>.png",
+      "count": 1,
+      "sample": "1 The 5_14.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "<digits> Tim <digits>_<digits>-<digits>.png",
+      "count": 1,
+      "sample": "2 Tim 2_23-25.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Ecc <digits>_<digits>-<digits>.png",
+      "count": 1,
+      "sample": "Ecc 7_8-9.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Eph <digits>_<digits>-<digits>.png",
+      "count": 1,
+      "sample": "Eph 4_1-3.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Galatians <digits>_<digits>-<digits>.png",
+      "count": 1,
+      "sample": "Galatians 5_22-23.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Gen <digits>_<digits>-<digits>.png",
+      "count": 1,
+      "sample": "Gen 26_15-22.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Heb <digits>_<digits>-<digits>.png",
+      "count": 1,
+      "sample": "Heb 6_14-16.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Isa <digits>_<digits>.png",
+      "count": 1,
+      "sample": "Isa 30_18.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Pro <digits>_<digits> AMP.png",
+      "count": 1,
+      "sample": "Pro 25_15 AMP.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Psa <digits>_<digits>-<digits>.png",
+      "count": 1,
+      "sample": "Psa 40_1-2.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Psa <digits>_<digits>.png",
+      "count": 1,
+      "sample": "Psa 40_1.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Psalm <digits>_<digits>-<digits>.png",
+      "count": 1,
+      "sample": "Psalm 37_7-9.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "Rom <digits>_<digits>.png",
+      "count": 1,
+      "sample": "Rom 12_12.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/temp",
+      "pattern": "UC.png",
+      "count": 1,
+      "sample": "UC.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Wallpapers",
+      "pattern": "lola<digits>.jpg",
+      "count": 1,
+      "sample": "lola1.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/Wallpapers",
+      "pattern": "NayTay.png",
+      "count": 1,
+      "sample": "NayTay.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos",
+      "pattern": "Magic Movie-<digits>k<digits>.mov",
+      "count": 1,
+      "sample": "Magic Movie-4k30.mov"
+    },
+    {
+      "folder": "/home/gabriel/Videos/digitalDiary",
+      "pattern": "jahna singing at jcs pre wedding party.m<digits>v",
+      "count": 1,
+      "sample": "jahna singing at jcs pre wedding party.m4v"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Kali",
+      "pattern": "Filipino Sumbrada.mp<digits>",
+      "count": 1,
+      "sample": "Filipino Sumbrada.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Kali",
+      "pattern": "Halleck - Stick and Knife <digits>.mp<digits>",
+      "count": 1,
+      "sample": "Halleck - Stick and Knife 1.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Kali",
+      "pattern": "Halleck Double Stick <digits>.mp<digits>",
+      "count": 1,
+      "sample": "Halleck Double Stick 1.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Kali",
+      "pattern": "Knife Attack <digits>.mp<digits>",
+      "count": 1,
+      "sample": "Knife Attack 1.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "gd-<digits>.png",
+      "count": 1,
+      "sample": "gd-0051.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "JG.png",
+      "count": 1,
+      "sample": "JG.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "JoJoy.png",
+      "count": 1,
+      "sample": "JoJoy.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "logo.png",
+      "count": 1,
+      "sample": "logo.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "pexels-charlotte-may-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-charlotte-may-5965926.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "pexels-pixabay-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-pixabay-53435.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "Untitled <digits>.jpg",
+      "count": 1,
+      "sample": "Untitled 2.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/Hymns",
+      "pattern": "hymns.m<digits>v",
+      "count": 1,
+      "sample": "hymns.m4v"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/Hymns",
+      "pattern": "hymns.mp<digits>",
+      "count": 1,
+      "sample": "hymns.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/Hymns",
+      "pattern": "hymns.webm",
+      "count": 1,
+      "sample": "hymns.webm"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/Hymns",
+      "pattern": "production ID_<digits> (<digits>) (<digits>) (<digits>).mkv",
+      "count": 1,
+      "sample": "production ID_4440821 (1) (1) (1).mkv"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/Hymns",
+      "pattern": "production ID_<digits> (<digits>) (<digits>).mkv",
+      "count": 1,
+      "sample": "production ID_4440821 (1) (1).mkv"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/Hymns",
+      "pattern": "production ID_<digits> (<digits>).mkv",
+      "count": 1,
+      "sample": "production ID_4440821 (1).mkv"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/Hymns",
+      "pattern": "production ID_<digits>.mkv",
+      "count": 1,
+      "sample": "production ID_4440821.mkv"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/Hymns",
+      "pattern": "production ID_<digits>.mp<digits>",
+      "count": 1,
+      "sample": "production ID_4440821.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/RM221115A",
+      "pattern": "pexels-markus-spiske-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-markus-spiske-92658.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/RM221115A",
+      "pattern": "Untitled Project.m<digits>v",
+      "count": 1,
+      "sample": "Untitled Project.m4v"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/RM221115A",
+      "pattern": "Untitled Project.mp<digits>",
+      "count": 1,
+      "sample": "Untitled Project.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/RM221115A/thumbnail",
+      "pattern": "TYT<digits>UGPV<digits>C.png",
+      "count": 1,
+      "sample": "TYT5UGPV9C.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/RM221115A/thumbnail",
+      "pattern": "Untitled document.png",
+      "count": 1,
+      "sample": "Untitled document.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm",
+      "pattern": "pexels-brent-keane-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-brent-keane-1751731.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm",
+      "pattern": "pexels-north-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-north-1407322.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm",
+      "pattern": "pexels-picjumbocom-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-picjumbocom-225230.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Tutorial",
+      "pattern": "YTsub.mp<digits>",
+      "count": 1,
+      "sample": "YTsub.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Tutorial/installAnaconda",
+      "pattern": "DAUP#<digits>.gif",
+      "count": 1,
+      "sample": "DAUP#01.gif"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Tutorial/installAnaconda",
+      "pattern": "DAUP#<digits>.png",
+      "count": 1,
+      "sample": "DAUP#01.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Tutorial/installAnaconda",
+      "pattern": "DAUP.png",
+      "count": 1,
+      "sample": "DAUP.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Tutorial/installAnaconda",
+      "pattern": "download.png",
+      "count": 1,
+      "sample": "download.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Tutorial/installAnaconda",
+      "pattern": "installAnaconda.mp<digits>",
+      "count": 1,
+      "sample": "installAnaconda.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Tutorial/installAnaconda",
+      "pattern": "instructions.gif",
+      "count": 1,
+      "sample": "instructions.gif"
+    }
+  ]
+}

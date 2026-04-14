@@ -1,0 +1,1971 @@
+{
+  "entries": [
+    {
+      "path": "/home/gabriel/Pictures/1903/12/31/VIDEO_070.mp4",
+      "destination": "Library/2007/2007-10-08_Pictures/VIDEO_070.mp4",
+      "inferred_date": "2007-10-08",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/1903/12/31/VIDEO_076.mp4",
+      "destination": "Library/2007/2007-10-26_Pictures/VIDEO_076.mp4",
+      "inferred_date": "2007-10-26",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/1903/12/31/VIDEO_077.mp4",
+      "destination": "Library/2007/2007-10-26_Pictures/VIDEO_077.mp4",
+      "inferred_date": "2007-10-26",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/1903/12/31/VIDEO_078.mp4",
+      "destination": "Library/2007/2007-10-26_Pictures/VIDEO_078.mp4",
+      "inferred_date": "2007-10-26",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/NayTay.png",
+      "destination": "Library/2020/2020-04-12_Pictures/NayTay.png",
+      "inferred_date": "2020-04-12",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Pexels/pexels-cottonbro-5876759.jpg",
+      "destination": "Library/2022/2022-01-12_Pexels/pexels-cottonbro-5876759.jpg",
+      "inferred_date": "2022-01-12",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/Beng/VIDEO_070.mp4",
+      "destination": "Library/2007/2007-10-08_Beng/VIDEO_070.mp4",
+      "inferred_date": "2007-10-08",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/dscf4994-0.jpg",
+      "destination": "Library/1979/1979-12-31_Pictures/dscf4994-0.jpg",
+      "inferred_date": "1979-12-31",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/dscf4994-1.jpg",
+      "destination": "Library/1979/1979-12-31_Pictures/dscf4994-1.jpg",
+      "inferred_date": "1979-12-31",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/impo ige.jpg",
+      "destination": "Library/2009/2009-01-25_Pictures/impo ige.jpg",
+      "inferred_date": "2009-01-25",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/inang luisa.jpg",
+      "destination": "Library/2009/2009-01-25_Pictures/inang luisa.jpg",
+      "inferred_date": "2009-01-25",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/ingkong dianong.jpg",
+      "destination": "Library/2009/2009-01-25_Pictures/ingkong dianong.jpg",
+      "inferred_date": "2009-01-25",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/tatang gelacio.jpg",
+      "destination": "Library/2009/2009-01-25_Pictures/tatang gelacio.jpg",
+      "inferred_date": "2009-01-25",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Screenshots/Screenshot (1).png",
+      "destination": "Library/2014/2014-06-17_Screenshots/Screenshot (1).png",
+      "inferred_date": "2014-06-17",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Screenshots/problem.jpg",
+      "destination": "Library/2014/2014-06-17_Screenshots/problem.jpg",
+      "inferred_date": "2014-06-17",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Wallpapers/NayTay.png",
+      "destination": "Library/2020/2020-04-12_Wallpapers/NayTay.png",
+      "inferred_date": "2020-04-12",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Wallpapers/lola1.jpg",
+      "destination": "Library/2015/2015-06-27_Wallpapers/lola1.jpg",
+      "inferred_date": "2015-06-27",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/beed2a.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/beed2a.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/bukid.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/bukid.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/classroom.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/classroom.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/denver.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/denver.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/grad1.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/grad1.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/myla.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/myla.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/nayon.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/nayon.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/nayonStairs.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/nayonStairs.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/nearDorm.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/nearDorm.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/practiceTeaching.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/practiceTeaching.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/practiceTeaching2.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/practiceTeaching2.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/streetKids.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/streetKids.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/tagaytay.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/tagaytay.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/withcecil.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/withcecil.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/ceu/withmyla.jpg",
+      "destination": "Library/2016/2016-05-10_ceu/withmyla.jpg",
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/received_265835921918004.jpeg",
+      "destination": "Library/2026/2026-04-01_Jonel-26/received_265835921918004.jpeg",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/received_894992108014883.jpeg",
+      "destination": "Library/2026/2026-04-01_Jonel-26/received_894992108014883.jpeg",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/airsquat.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/airsquat.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/bicyclecrunch.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/bicyclecrunch.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/bridge.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/bridge.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/burpee.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/burpee.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/cleayandcurtsey.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/cleayandcurtsey.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/jumpingjack.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/jumpingjack.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/jumpingrope.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/jumpingrope.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/lateralsquat.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/lateralsquat.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/pikepushup.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/pikepushup.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/pushup.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/pushup.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/russiantwist.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/russiantwist.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/T3 (Total  Tabata Training) Series 1/tricepdip.gif",
+      "destination": "Library/2026/2026-04-01_T3-Total-Tabata-Training-Series-1/tricepdip.gif",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/video-f1863057a47fed78295a68cd0f01b8bb2f39b8754.mp4",
+      "destination": "Library/2026/2026-04-01_Weekend-in-Niagara-Falls-and-Scarborough/video-f1863057a47fed78295a68cd0f01b8bb2f39b8754.mp4",
+      "inferred_date": "2026-04-01",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/googleEarth/joy house.png",
+      "destination": "Library/2021/2021-07-14_googleEarth/joy house.png",
+      "inferred_date": "2021-07-14",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/joy.png",
+      "destination": "Library/2016/2016-06-10_Pictures/joy.png",
+      "inferred_date": "2016-06-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/Gary and Mom.jpg",
+      "destination": "Library/2011/2011-07-16_morePics/Gary and Mom.jpg",
+      "inferred_date": "2011-07-16",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/Lola 000529.jpg",
+      "destination": "Library/2012/2012-03-19_morePics/Lola 000529.jpg",
+      "inferred_date": "2012-03-19",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/Lola 081099 Back.jpg",
+      "destination": "Library/2011/2011-07-10_morePics/Lola 081099 Back.jpg",
+      "inferred_date": "2011-07-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/Lola 081099 Front.jpg",
+      "destination": "Library/2011/2011-07-10_morePics/Lola 081099 Front.jpg",
+      "inferred_date": "2011-07-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/Lola 082299.jpg",
+      "destination": "Library/2012/2012-03-19_morePics/Lola 082299.jpg",
+      "inferred_date": "2012-03-19",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/j01.jpg",
+      "destination": "Library/2011/2011-07-18_morePics/j01.jpg",
+      "inferred_date": "2011-07-18",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/j02.jpg",
+      "destination": "Library/2011/2011-07-18_morePics/j02.jpg",
+      "inferred_date": "2011-07-18",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nasa/STSCI-J-p22031a-4000px.jpg",
+      "destination": "Library/2022/2022-07-13_nasa/STSCI-J-p22031a-4000px.jpg",
+      "inferred_date": "2022-07-13",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nasa/STSCI-J-p22033b-4000px.jpg",
+      "destination": "Library/2022/2022-07-17_nasa/STSCI-J-p22033b-4000px.jpg",
+      "inferred_date": "2022-07-17",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nasa/STSCI-J-p22034f-Crop-4000px.jpg",
+      "destination": "Library/2022/2022-07-17_nasa/STSCI-J-p22034f-Crop-4000px.jpg",
+      "inferred_date": "2022-07-17",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nasa/STSCI-J-p22035a-4000px.jpg",
+      "destination": "Library/2022/2022-07-17_nasa/STSCI-J-p22035a-4000px.jpg",
+      "inferred_date": "2022-07-17",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nasa/hubble_cgcg396-2_potw2227a.jpg",
+      "destination": "Library/2022/2022-07-17_nasa/hubble_cgcg396-2_potw2227a.jpg",
+      "inferred_date": "2022-07-17",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nasa/potw1249a.jpeg",
+      "destination": "Library/2022/2022-07-17_nasa/potw1249a.jpeg",
+      "inferred_date": "2022-07-17",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nasa/potw1441a.jpg",
+      "destination": "Library/2022/2022-07-17_nasa/potw1441a.jpg",
+      "inferred_date": "2022-07-17",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0733.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0733.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0736.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0736.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0737.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0737.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0738.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0738.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0739.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0739.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0740.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0740.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0741.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0741.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0742.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0742.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0743.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0743.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0744.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0744.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0745.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0745.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0746.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0746.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0747.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0747.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0748.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0748.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0749.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0749.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0750.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0750.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0752.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0752.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0753.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0753.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0754.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0754.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0755.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0755.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0756.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0756.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0757.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0757.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0758.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0758.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0759.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0759.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0760.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0760.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0761.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0761.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0762.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0762.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0763.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0763.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0764.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0764.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0765.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0765.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0766.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0766.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0767.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0767.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0768.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0768.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0769.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0769.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0770.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0770.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0771.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0771.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0772.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0772.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0773.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0773.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0774.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0774.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0775.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0775.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0777.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0777.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0778.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0778.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0779.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0779.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0780.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0780.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0781.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0781.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0782.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0782.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0783.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0783.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0784.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0784.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0785.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0785.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0786.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0786.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0787.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0787.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0788.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0788.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0789.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0789.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0790.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0790.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0791.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0791.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0792.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0792.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0793.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0793.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0794.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0794.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0795.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0795.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0797.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0797.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0799.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0799.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0800.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0800.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0801.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0801.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0802.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0802.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0805.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0805.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0806.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0806.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0813.MOV",
+      "destination": "Library/2014/2014-06-28_summer2014/MVI_0813.MOV",
+      "inferred_date": "2014-06-28",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0826.MOV",
+      "destination": "Library/2014/2014-06-29_summer2014/MVI_0826.MOV",
+      "inferred_date": "2014-06-29",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0836.MOV",
+      "destination": "Library/2014/2014-07-02_summer2014/MVI_0836.MOV",
+      "inferred_date": "2014-07-02",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0849.MOV",
+      "destination": "Library/2014/2014-07-03_summer2014/MVI_0849.MOV",
+      "inferred_date": "2014-07-03",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0866.MOV",
+      "destination": "Library/2014/2014-07-09_summer2014/MVI_0866.MOV",
+      "inferred_date": "2014-07-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0869.MOV",
+      "destination": "Library/2014/2014-07-09_summer2014/MVI_0869.MOV",
+      "inferred_date": "2014-07-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0870.MOV",
+      "destination": "Library/2014/2014-07-09_summer2014/MVI_0870.MOV",
+      "inferred_date": "2014-07-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0876.MOV",
+      "destination": "Library/2014/2014-07-09_summer2014/MVI_0876.MOV",
+      "inferred_date": "2014-07-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0877.MOV",
+      "destination": "Library/2014/2014-07-09_summer2014/MVI_0877.MOV",
+      "inferred_date": "2014-07-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0879.MOV",
+      "destination": "Library/2014/2014-07-09_summer2014/MVI_0879.MOV",
+      "inferred_date": "2014-07-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0887.MOV",
+      "destination": "Library/2014/2014-07-09_summer2014/MVI_0887.MOV",
+      "inferred_date": "2014-07-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0888.MOV",
+      "destination": "Library/2014/2014-07-09_summer2014/MVI_0888.MOV",
+      "inferred_date": "2014-07-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0892.MOV",
+      "destination": "Library/2014/2014-07-09_summer2014/MVI_0892.MOV",
+      "inferred_date": "2014-07-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0894.MOV",
+      "destination": "Library/2014/2014-07-09_summer2014/MVI_0894.MOV",
+      "inferred_date": "2014-07-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0913.MOV",
+      "destination": "Library/2014/2014-07-14_summer2014/MVI_0913.MOV",
+      "inferred_date": "2014-07-14",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0914.MOV",
+      "destination": "Library/2014/2014-07-14_summer2014/MVI_0914.MOV",
+      "inferred_date": "2014-07-14",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0915.MOV",
+      "destination": "Library/2014/2014-07-14_summer2014/MVI_0915.MOV",
+      "inferred_date": "2014-07-14",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0916.MOV",
+      "destination": "Library/2014/2014-07-14_summer2014/MVI_0916.MOV",
+      "inferred_date": "2014-07-14",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0917.MOV",
+      "destination": "Library/2014/2014-07-14_summer2014/MVI_0917.MOV",
+      "inferred_date": "2014-07-14",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0918.MOV",
+      "destination": "Library/2014/2014-07-14_summer2014/MVI_0918.MOV",
+      "inferred_date": "2014-07-14",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0919.MOV",
+      "destination": "Library/2014/2014-07-14_summer2014/MVI_0919.MOV",
+      "inferred_date": "2014-07-14",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0922.MOV",
+      "destination": "Library/2014/2014-07-14_summer2014/MVI_0922.MOV",
+      "inferred_date": "2014-07-14",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0923.MOV",
+      "destination": "Library/2014/2014-07-14_summer2014/MVI_0923.MOV",
+      "inferred_date": "2014-07-14",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0924.MOV",
+      "destination": "Library/2014/2014-07-16_summer2014/MVI_0924.MOV",
+      "inferred_date": "2014-07-16",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0928.MOV",
+      "destination": "Library/2014/2014-07-16_summer2014/MVI_0928.MOV",
+      "inferred_date": "2014-07-16",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0929.MOV",
+      "destination": "Library/2014/2014-07-16_summer2014/MVI_0929.MOV",
+      "inferred_date": "2014-07-16",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/1 Cor 13_4-7.png",
+      "destination": "Library/2016/2016-03-07_temp/1 Cor 13_4-7.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/1 The 5_14.png",
+      "destination": "Library/2016/2016-03-07_temp/1 The 5_14.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/2 Tim 2_23-25.png",
+      "destination": "Library/2016/2016-03-07_temp/2 Tim 2_23-25.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Ecc 7_8-9.png",
+      "destination": "Library/2016/2016-03-07_temp/Ecc 7_8-9.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Eph 4_1-3.png",
+      "destination": "Library/2016/2016-03-07_temp/Eph 4_1-3.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Galatians 5_22-23.png",
+      "destination": "Library/2016/2016-03-07_temp/Galatians 5_22-23.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Gen 26_15-22.png",
+      "destination": "Library/2016/2016-03-07_temp/Gen 26_15-22.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Heb 6_14-16.png",
+      "destination": "Library/2016/2016-03-07_temp/Heb 6_14-16.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Isa 30_18.png",
+      "destination": "Library/2016/2016-03-07_temp/Isa 30_18.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Jam 5_7-8.png",
+      "destination": "Library/2016/2016-03-07_temp/Jam 5_7-8.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Jam 5_9-11.png",
+      "destination": "Library/2016/2016-03-07_temp/Jam 5_9-11.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Lam 3_25-27.png",
+      "destination": "Library/2016/2016-03-08_temp/Lam 3_25-27.png",
+      "inferred_date": "2016-03-08",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Lam 3_26-27.png",
+      "destination": "Library/2016/2016-03-07_temp/Lam 3_26-27.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Pro 14_29.png",
+      "destination": "Library/2016/2016-03-07_temp/Pro 14_29.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Pro 15_18.png",
+      "destination": "Library/2016/2016-03-07_temp/Pro 15_18.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Pro 16_32.png",
+      "destination": "Library/2016/2016-03-07_temp/Pro 16_32.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Pro 19_11.png",
+      "destination": "Library/2016/2016-03-07_temp/Pro 19_11.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Pro 25_15 AMP.png",
+      "destination": "Library/2016/2016-03-08_temp/Pro 25_15 AMP.png",
+      "inferred_date": "2016-03-08",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Pro 25_15.png",
+      "destination": "Library/2016/2016-03-07_temp/Pro 25_15.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Psa 40_1-2.png",
+      "destination": "Library/2016/2016-03-08_temp/Psa 40_1-2.png",
+      "inferred_date": "2016-03-08",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Psa 40_1.png",
+      "destination": "Library/2016/2016-03-07_temp/Psa 40_1.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Psalm 37_7-9.png",
+      "destination": "Library/2016/2016-03-07_temp/Psalm 37_7-9.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/Rom 12_12.png",
+      "destination": "Library/2016/2016-03-07_temp/Rom 12_12.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/temp/UC.png",
+      "destination": "Library/2016/2016-03-07_temp/UC.png",
+      "inferred_date": "2016-03-07",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/IMG_1457.MOV",
+      "destination": "Library/2016/2016-11-02_Videos/IMG_1457.MOV",
+      "inferred_date": "2016-11-02",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/IMG_1458.MOV",
+      "destination": "Library/2016/2016-11-02_Videos/IMG_1458.MOV",
+      "inferred_date": "2016-11-02",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/IMG_1459.MOV",
+      "destination": "Library/2016/2016-11-02_Videos/IMG_1459.MOV",
+      "inferred_date": "2016-11-02",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/IMG_1480.MOV",
+      "destination": "Library/2016/2016-11-02_Videos/IMG_1480.MOV",
+      "inferred_date": "2016-11-02",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/IMG_1481.MOV",
+      "destination": "Library/2016/2016-11-02_Videos/IMG_1481.MOV",
+      "inferred_date": "2016-11-02",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/IMG_1482.MOV",
+      "destination": "Library/2016/2016-11-02_Videos/IMG_1482.MOV",
+      "inferred_date": "2016-11-02",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/IMG_1483.MOV",
+      "destination": "Library/2016/2016-11-02_Videos/IMG_1483.MOV",
+      "inferred_date": "2016-11-02",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/IMG_1485.MOV",
+      "destination": "Library/2016/2016-11-02_Videos/IMG_1485.MOV",
+      "inferred_date": "2016-11-02",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/JJ1999/JJ1.mp4",
+      "destination": "Library/2022/2022-11-09_JJ1999/JJ1.mp4",
+      "inferred_date": "2022-11-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/JJ1999/JJ2.mp4",
+      "destination": "Library/2022/2022-11-09_JJ1999/JJ2.mp4",
+      "inferred_date": "2022-11-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/JJ1999/JJ3.mp4",
+      "destination": "Library/2022/2022-11-09_JJ1999/JJ3.mp4",
+      "inferred_date": "2022-11-09",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Magic Movie-4k30.mov",
+      "destination": "Library/2024/2024-09-25_Videos/Magic Movie-4k30.mov",
+      "inferred_date": "2024-09-25",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/JG.png",
+      "destination": "Library/2022/2022-01-13_PleasantHarmony/JG.png",
+      "inferred_date": "2022-01-13",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/JoJoy.png",
+      "destination": "Library/2022/2022-01-13_PleasantHarmony/JoJoy.png",
+      "inferred_date": "2022-01-13",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/RM221115A/pexels-markus-spiske-92658.jpg",
+      "destination": "Library/2022/2022-01-15_RM221115A/pexels-markus-spiske-92658.jpg",
+      "inferred_date": "2022-01-15",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/RM221115A/thumbnail/TYT5UGPV9C.png",
+      "destination": "Library/2022/2022-01-15_thumbnail/TYT5UGPV9C.png",
+      "inferred_date": "2022-01-15",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/RM221115A/thumbnail/Untitled document.png",
+      "destination": "Library/2022/2022-01-18_thumbnail/Untitled document.png",
+      "inferred_date": "2022-01-18",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/Untitled 2.jpg",
+      "destination": "Library/2021/2021-12-24_PleasantHarmony/Untitled 2.jpg",
+      "inferred_date": "2021-12-24",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm/pexels-brent-keane-1751731.jpg",
+      "destination": "Library/2021/2021-12-24_UpliftingAcousticsLesfm/pexels-brent-keane-1751731.jpg",
+      "inferred_date": "2021-12-24",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm/pexels-north-1407322.jpg",
+      "destination": "Library/2021/2021-12-24_UpliftingAcousticsLesfm/pexels-north-1407322.jpg",
+      "inferred_date": "2021-12-24",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm/pexels-picjumbocom-225230.jpg",
+      "destination": "Library/2021/2021-12-24_UpliftingAcousticsLesfm/pexels-picjumbocom-225230.jpg",
+      "inferred_date": "2021-12-24",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm/pexels-pixabay-290660.jpg",
+      "destination": "Library/2021/2021-12-24_UpliftingAcousticsLesfm/pexels-pixabay-290660.jpg",
+      "inferred_date": "2021-12-24",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm/pexels-pixabay-33597.jpg",
+      "destination": "Library/2021/2021-12-24_UpliftingAcousticsLesfm/pexels-pixabay-33597.jpg",
+      "inferred_date": "2021-12-24",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/gd-0051.png",
+      "destination": "Library/2022/2022-01-15_PleasantHarmony/gd-0051.png",
+      "inferred_date": "2022-01-15",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/logo.png",
+      "destination": "Library/2022/2022-01-15_PleasantHarmony/logo.png",
+      "inferred_date": "2022-01-15",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/pexels-charlotte-may-5965926.jpg",
+      "destination": "Library/2021/2021-12-24_PleasantHarmony/pexels-charlotte-may-5965926.jpg",
+      "inferred_date": "2021-12-24",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/PleasantHarmony/pexels-pixabay-53435.jpg",
+      "destination": "Library/2021/2021-12-24_PleasantHarmony/pexels-pixabay-53435.jpg",
+      "inferred_date": "2021-12-24",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Tutorial/YTsub.mp4",
+      "destination": "Library/2021/2021-04-19_Tutorial/YTsub.mp4",
+      "inferred_date": "2021-04-19",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Tutorial/installAnaconda/DAUP#01.gif",
+      "destination": "Library/2021/2021-04-22_installAnaconda/DAUP#01.gif",
+      "inferred_date": "2021-04-22",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Tutorial/installAnaconda/DAUP#01.png",
+      "destination": "Library/2021/2021-04-22_installAnaconda/DAUP#01.png",
+      "inferred_date": "2021-04-22",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Tutorial/installAnaconda/DAUP.png",
+      "destination": "Library/2021/2021-04-18_installAnaconda/DAUP.png",
+      "inferred_date": "2021-04-18",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Tutorial/installAnaconda/download.png",
+      "destination": "Library/2021/2021-04-21_installAnaconda/download.png",
+      "inferred_date": "2021-04-21",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Tutorial/installAnaconda/installAnaconda.mp4",
+      "destination": "Library/2021/2021-04-22_installAnaconda/installAnaconda.mp4",
+      "inferred_date": "2021-04-22",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Tutorial/installAnaconda/instructions.gif",
+      "destination": "Library/2021/2021-04-22_installAnaconda/instructions.gif",
+      "inferred_date": "2021-04-22",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/cs50w-project0.mp4",
+      "destination": "Library/2019/2019-08-19_Videos/cs50w-project0.mp4",
+      "inferred_date": "2019-08-19",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/cs50w-project1.mp4",
+      "destination": "Library/2019/2019-09-16_Videos/cs50w-project1.mp4",
+      "inferred_date": "2019-09-16",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/digitalDiary/jahna singing at jcs pre wedding party.m4v",
+      "destination": "Library/2022/2022-04-13_digitalDiary/jahna singing at jcs pre wedding party.m4v",
+      "inferred_date": "2022-04-13",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    }
+  ]
+}
