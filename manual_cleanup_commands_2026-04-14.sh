@@ -6,12 +6,12 @@ set -euo pipefail
 #   APPLY=1 ./manual_cleanup_commands_2026-04-14.sh
 #
 # Files are moved into a quarantine tree instead of being deleted outright:
-#   $HOME/Pictures/.media-organizer-quarantine-2026-04-14
+#   $HOME/media-organizer-quarantine-2026-04-14
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPORTS_DIR="$SCRIPT_DIR/reports"
 GOOGLE_ROOT="$HOME/Pictures/google-takeout/Takeout/Google Photos"
-QUARANTINE_ROOT="$HOME/Pictures/.media-organizer-quarantine-2026-04-14"
+QUARANTINE_ROOT="$HOME/media-organizer-quarantine-2026-04-14"
 APPLY="${APPLY:-0}"
 
 run_mv() {
@@ -110,14 +110,33 @@ printf '# APPLY=%s\n' "$APPLY"
 printf '# QUARANTINE_ROOT=%s\n' "$QUARANTINE_ROOT"
 
 printf '\n# Google Takeout exact manifests\n'
+move_manifest_files "25th" "$REPORTS_DIR/google-takeout-safe-pass-25th.txt"
+move_manifest_files "Photos from 2013" "$REPORTS_DIR/google-takeout-safe-pass-photos-from-2013.txt"
 move_manifest_files "Photos from 2014" "$REPORTS_DIR/google-takeout-safe-pass-photos-from-2014-non-takeout-backed.txt"
+move_manifest_files "Failed Videos" "$REPORTS_DIR/google-takeout-safe-pass-failed-videos.txt"
+move_manifest_files "Untitled(4)" "$REPORTS_DIR/google-takeout-safe-pass-untitled-4.txt"
+move_manifest_files "Untitled(4)" "$REPORTS_DIR/google-takeout-safe-pass-untitled-4-edited.txt"
+move_manifest_files "Untitled" "$REPORTS_DIR/google-takeout-safe-pass-untitled.txt"
+move_manifest_files "Untitled(1)" "$REPORTS_DIR/google-takeout-safe-pass-untitled-1.txt"
+move_manifest_files "Untitled(2)" "$REPORTS_DIR/google-takeout-safe-pass-untitled-2.txt"
+move_manifest_files "Untitled(3)" "$REPORTS_DIR/google-takeout-safe-pass-untitled-3.txt"
 move_manifest_files "Photos from 2015" "$REPORTS_DIR/google-takeout-safe-pass-photos-from-2015.txt"
 move_manifest_files "Photos from 2016" "$REPORTS_DIR/google-takeout-safe-pass-photos-from-2016.txt"
+move_manifest_files "StarvedRock" "$REPORTS_DIR/google-takeout-safe-pass-starvedrock.txt"
 move_manifest_files "Jab" "$REPORTS_DIR/google-takeout-safe-pass-jab.txt"
 move_manifest_files "Jojo, Joy" "$REPORTS_DIR/google-takeout-safe-pass-jojo-joy.txt"
+move_manifest_files "Jonel 26" "$REPORTS_DIR/google-takeout-safe-pass-jonel-26-received.txt"
+move_manifest_files "Wednesday morning in Chicago" "$REPORTS_DIR/google-takeout-safe-pass-wednesday-morning-in-chicago-edited.txt"
+move_manifest_files "Trip to Los Angeles and Anaheim" "$REPORTS_DIR/google-takeout-safe-pass-trip-to-los-angeles-and-anaheim-edited.txt"
+move_manifest_files "Weekend in Fish Creek" "$REPORTS_DIR/google-takeout-safe-pass-weekend-in-fish-creek-edited.txt"
+move_manifest_files "Weekend in Niagara Falls and Scarborough" "$REPORTS_DIR/google-takeout-safe-pass-weekend-in-niagara-falls-and-scarborough-edited.txt"
+move_manifest_files "Memories together (5-23-2021)" "$REPORTS_DIR/google-takeout-safe-pass-memories-together-edited.txt"
 move_manifest_files "Memories together (5-23-2021)" "$REPORTS_DIR/google-takeout-conditional-pass-memories-together-plain.txt"
 move_manifest_files "Jonel 26" "$REPORTS_DIR/google-takeout-conditional-pass-jonel-26-plain.txt"
 move_manifest_files "Weekend in Fish Creek" "$REPORTS_DIR/google-takeout-conditional-pass-weekend-in-fish-creek-plain.txt"
+move_manifest_files "Weekend in Fish Creek" "$REPORTS_DIR/google-takeout-safe-pass-weekend-in-fish-creek-keep-overrides.txt"
+move_manifest_files "Weekend in Niagara Falls and Scarborough" "$REPORTS_DIR/google-takeout-conditional-pass-weekend-in-niagara-falls-and-scarborough-plain.txt"
+move_manifest_files "Weekend in Niagara Falls and Scarborough" "$REPORTS_DIR/google-takeout-safe-pass-weekend-in-niagara-falls-and-scarborough-overlay.txt"
 move_manifest_files "Wednesday morning in Chicago" "$REPORTS_DIR/google-takeout-conditional-pass-wednesday-morning-in-chicago-plain.txt"
 move_manifest_files "Trip to Los Angeles and Anaheim" "$REPORTS_DIR/google-takeout-conditional-pass-trip-to-los-angeles-and-anaheim-plain.txt"
 

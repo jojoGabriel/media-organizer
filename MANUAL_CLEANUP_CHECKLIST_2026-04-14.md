@@ -14,13 +14,32 @@ Use these source artifacts:
 - `GOOGLE_PHOTOS_SAFE_DATES_2026-04-11.md`
 - `SESSION_NOTES_2026-04-14.md`
 - `reports/google-takeout-safe-pass-photos-from-2014-non-takeout-backed.txt`
+- `reports/google-takeout-safe-pass-25th.txt`
+- `reports/google-takeout-safe-pass-photos-from-2013.txt`
+- `reports/google-takeout-safe-pass-failed-videos.txt`
+- `reports/google-takeout-safe-pass-untitled-4.txt`
+- `reports/google-takeout-safe-pass-untitled-4-edited.txt`
+- `reports/google-takeout-safe-pass-untitled.txt`
+- `reports/google-takeout-safe-pass-untitled-1.txt`
+- `reports/google-takeout-safe-pass-untitled-2.txt`
+- `reports/google-takeout-safe-pass-untitled-3.txt`
 - `reports/google-takeout-safe-pass-photos-from-2015.txt`
 - `reports/google-takeout-safe-pass-photos-from-2016.txt`
+- `reports/google-takeout-safe-pass-starvedrock.txt`
 - `reports/google-takeout-safe-pass-jab.txt`
 - `reports/google-takeout-safe-pass-jojo-joy.txt`
+- `reports/google-takeout-safe-pass-jonel-26-received.txt`
+- `reports/google-takeout-safe-pass-wednesday-morning-in-chicago-edited.txt`
+- `reports/google-takeout-safe-pass-trip-to-los-angeles-and-anaheim-edited.txt`
+- `reports/google-takeout-safe-pass-weekend-in-fish-creek-edited.txt`
+- `reports/google-takeout-safe-pass-weekend-in-niagara-falls-and-scarborough-edited.txt`
+- `reports/google-takeout-safe-pass-memories-together-edited.txt`
 - `reports/google-takeout-conditional-pass-memories-together-plain.txt`
 - `reports/google-takeout-conditional-pass-jonel-26-plain.txt`
 - `reports/google-takeout-conditional-pass-weekend-in-fish-creek-plain.txt`
+- `reports/google-takeout-safe-pass-weekend-in-fish-creek-keep-overrides.txt`
+- `reports/google-takeout-conditional-pass-weekend-in-niagara-falls-and-scarborough-plain.txt`
+- `reports/google-takeout-safe-pass-weekend-in-niagara-falls-and-scarborough-overlay.txt`
 - `reports/google-takeout-conditional-pass-wednesday-morning-in-chicago-plain.txt`
 - `reports/google-takeout-conditional-pass-trip-to-los-angeles-and-anaheim-plain.txt`
 - `reports/mackinac-safe-pass-plain.txt`
@@ -41,13 +60,32 @@ Process these by deleting or otherwise removing the Takeout-side duplicate
 copies named in each manifest:
 
 - `reports/google-takeout-safe-pass-photos-from-2014-non-takeout-backed.txt`
+- `reports/google-takeout-safe-pass-25th.txt`
+- `reports/google-takeout-safe-pass-photos-from-2013.txt`
+- `reports/google-takeout-safe-pass-failed-videos.txt`
+- `reports/google-takeout-safe-pass-untitled-4.txt`
+- `reports/google-takeout-safe-pass-untitled-4-edited.txt`
+- `reports/google-takeout-safe-pass-untitled.txt`
+- `reports/google-takeout-safe-pass-untitled-1.txt`
+- `reports/google-takeout-safe-pass-untitled-2.txt`
+- `reports/google-takeout-safe-pass-untitled-3.txt`
 - `reports/google-takeout-safe-pass-photos-from-2015.txt`
 - `reports/google-takeout-safe-pass-photos-from-2016.txt`
+- `reports/google-takeout-safe-pass-starvedrock.txt`
 - `reports/google-takeout-safe-pass-jab.txt`
 - `reports/google-takeout-safe-pass-jojo-joy.txt`
+- `reports/google-takeout-safe-pass-jonel-26-received.txt`
+- `reports/google-takeout-safe-pass-wednesday-morning-in-chicago-edited.txt`
+- `reports/google-takeout-safe-pass-trip-to-los-angeles-and-anaheim-edited.txt`
+- `reports/google-takeout-safe-pass-weekend-in-fish-creek-edited.txt`
+- `reports/google-takeout-safe-pass-weekend-in-niagara-falls-and-scarborough-edited.txt`
+- `reports/google-takeout-safe-pass-memories-together-edited.txt`
 - `reports/google-takeout-conditional-pass-memories-together-plain.txt`
 - `reports/google-takeout-conditional-pass-jonel-26-plain.txt`
 - `reports/google-takeout-conditional-pass-weekend-in-fish-creek-plain.txt`
+- `reports/google-takeout-safe-pass-weekend-in-fish-creek-keep-overrides.txt`
+- `reports/google-takeout-conditional-pass-weekend-in-niagara-falls-and-scarborough-plain.txt`
+- `reports/google-takeout-safe-pass-weekend-in-niagara-falls-and-scarborough-overlay.txt`
 - `reports/google-takeout-conditional-pass-wednesday-morning-in-chicago-plain.txt`
 - `reports/google-takeout-conditional-pass-trip-to-los-angeles-and-anaheim-plain.txt`
 
@@ -92,7 +130,7 @@ Do not act on these yet unless reviewed explicitly:
 ## Order Of Operations
 
 1. Execute the small exact Takeout manifests first.
-2. Execute the three new 2014 mixed-folder plain manifests.
+2. Execute the four reviewed mixed-folder plain manifests.
 3. Execute the other larger safe Takeout manifests.
 4. Execute the local non-Takeout duplicate cleanup candidates.
 5. Execute the `mackinac` exact manifest.
