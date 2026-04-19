@@ -1,8 +1,12 @@
 import argparse
+import hashlib
 import json
+import os
 import re
+import shutil
+from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Set, Tuple
 
 from media_organizer.config import Roots
 from media_organizer.scanner import build_file_record, build_scan_report, write_report
@@ -145,6 +149,66 @@ def build_parser() -> argparse.ArgumentParser:
     )
     review_package_parser.add_argument("--report", required=True, help="Path to an existing JSON scan report.")
     review_package_parser.add_argument("--output-dir", required=True, help="Directory to write the review bundle.")
+
+    apply_parser = subparsers.add_parser(
+        "apply",
+        help="Build a conservative move manifest from a scan report and optionally execute it.",
+    )
+    apply_parser.add_argument("--report", required=True, help="Path to an existing JSON scan report.")
+    apply_parser.add_argument("--dest-root", required=True, help="Destination root for applied moves.")
+    apply_parser.add_argument(
+        "--manifest",
+        help="Optional path to write the planned operations and skipped items as JSON.",
+    )
+    apply_parser.add_argument(
+        "--log",
+        help="Optional path to write apply results as JSON. Useful for executed runs.",
+    )
+    apply_parser.add_argument(
+        "--execute",
+        action="store_true",
+        help="Perform real moves. Without this flag the command is dry-run only.",
+    )
+    apply_parser.add_argument(
+        "--include-mtime",
+        action="store_true",
+        help="Include items whose inferred date came from mtime.",
+    )
+    apply_parser.add_argument(
+        "--include-duplicates",
+        action="store_true",
+        help="Include duplicate-group members.",
+    )
+    apply_parser.add_argument(
+        "--include-received",
+        action="store_true",
+        help="Include Google Photos received_* artifacts.",
+    )
+    apply_parser.add_argument(
+        "--include-google-takeout",
+        action="store_true",
+        help="Include all Google Takeout media and sidecars.",
+    )
+    apply_parser.add_argument(
+        "--include-unmatched-sidecars",
+        action="store_true",
+        help="Include unmatched sidecars or sidecars whose media target is excluded.",
+    )
+    apply_parser.add_argument(
+        "--include-unknown",
+        action="store_true",
+        help="Include files classified as unknown.",
+    )
+    apply_parser.add_argument(
+        "--include-caches",
+        action="store_true",
+        help="Include cache files that would otherwise route to App-Caches/.",
+    )
+    apply_parser.add_argument(
+        "--include-pleasantharmony",
+        action="store_true",
+        help="Include files routed under Projects/PleasantHarmony/.",
+    )
     return parser
 
 
@@ -336,6 +400,65 @@ def main(argv: Optional[list] = None) -> int:
         write_final_review_package(report_data, report_path, output_dir)
         print("Wrote final review package to {0}".format(output_dir))
         return 0
+
+    if args.command == "apply":
+        report_path = Path(args.report).expanduser()
+        report_data = json.loads(report_path.read_text(encoding="utf-8"))
+        dest_root = Path(args.dest_root).expanduser()
+        payload = build_apply_payload(
+            report_data=report_data,
+            report_path=report_path,
+            dest_root=dest_root,
+            include_mtime=args.include_mtime,
+            include_duplicates=args.include_duplicates,
+            include_received=args.include_received,
+            include_google_takeout=args.include_google_takeout,
+            include_unmatched_sidecars=args.include_unmatched_sidecars,
+            include_unknown=args.include_unknown,
+            include_caches=args.include_caches,
+            include_pleasantharmony=args.include_pleasantharmony,
+        )
+        if args.manifest:
+            write_json_output(Path(args.manifest).expanduser(), payload)
+
+        operations = payload["operations"]
+        skipped = payload["skipped"]
+        mode_label = "execute" if args.execute else "dry-run"
+        print(
+            "Built {0} apply operations and skipped {1} files from {2} ({3})".format(
+                len(operations),
+                len(skipped),
+                report_path,
+                mode_label,
+            )
+        )
+
+        if not args.execute:
+            for item in operations[:25]:
+                print("{0} -> {1}".format(item["source"], item["destination"]))
+            return 0
+
+        results = execute_apply_operations(operations)
+        success_count = sum(1 for item in results if item["status"] in {"moved", "already-present"})
+        print(
+            "Applied {0} operations successfully; {1} conflicts/errors".format(
+                success_count,
+                len(results) - success_count,
+            )
+        )
+        for item in results:
+            if item["status"] not in {"moved", "already-present"}:
+                print("{0} | {1} | {2}".format(item["status"], item["source"], item["message"]))
+        if args.log:
+            write_json_output(
+                Path(args.log).expanduser(),
+                {
+                    "report": str(report_path),
+                    "dest_root": str(dest_root),
+                    "results": results,
+                },
+            )
+        return 0 if all(item["status"] in {"moved", "already-present"} for item in results) else 1
 
     parser.error("Unknown command")
     return 2
@@ -637,6 +760,324 @@ def write_json_output(output_path: Path, payload: Dict[str, object]) -> None:
 def write_text_output(output_path: Path, text: str) -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(text, encoding="utf-8")
+
+
+def build_apply_payload(
+    report_data: Dict[str, object],
+    report_path: Path,
+    dest_root: Path,
+    include_mtime: bool = False,
+    include_duplicates: bool = False,
+    include_received: bool = False,
+    include_google_takeout: bool = False,
+    include_unmatched_sidecars: bool = False,
+    include_unknown: bool = False,
+    include_caches: bool = False,
+    include_pleasantharmony: bool = False,
+) -> Dict[str, object]:
+    files = [item for item in report_data.get("files", []) if isinstance(item, dict)]
+    selected_sources: Set[str] = set()
+    skipped: List[Dict[str, object]] = []
+
+    for file_record in files:
+        skip_reason = classify_apply_skip_reason(
+            file_record=file_record,
+            report_data=report_data,
+            include_mtime=include_mtime,
+            include_duplicates=include_duplicates,
+            include_received=include_received,
+            include_google_takeout=include_google_takeout,
+            include_unmatched_sidecars=include_unmatched_sidecars,
+            include_unknown=include_unknown,
+            include_caches=include_caches,
+            include_pleasantharmony=include_pleasantharmony,
+        )
+        if skip_reason is not None:
+            skipped.append(
+                {
+                    "path": file_record.get("path"),
+                    "reason": skip_reason,
+                }
+            )
+            continue
+        selected_sources.add(str(file_record["path"]))
+
+    operations: List[Dict[str, object]] = []
+    deferred_sidecars: List[Dict[str, object]] = []
+    for file_record in files:
+        source = str(file_record.get("path") or "")
+        if source not in selected_sources:
+            continue
+
+        destination_relative = str(file_record.get("proposed_relative_destination") or "")
+        if not destination_relative:
+            continue
+
+        if file_record.get("category") == "sidecar":
+            sidecar_for = file_record.get("sidecar_for")
+            if sidecar_for and str(sidecar_for) not in selected_sources and not include_unmatched_sidecars:
+                deferred_sidecars.append(
+                    {
+                        "path": source,
+                        "reason": "sidecar-target-not-selected",
+                    }
+                )
+                continue
+
+        operations.append(
+            {
+                "source": source,
+                "destination": str(dest_root / destination_relative),
+                "destination_relative": destination_relative,
+                "category": file_record.get("category"),
+                "size_bytes": file_record.get("size_bytes"),
+                "modified_at": file_record.get("modified_at"),
+                "sha256": file_record.get("sha256"),
+                "duplicate_group": file_record.get("duplicate_group"),
+                "date_source": file_record.get("date_source"),
+                "sidecar_for": file_record.get("sidecar_for"),
+            }
+        )
+
+    skipped.extend(deferred_sidecars)
+    operations.sort(
+        key=lambda item: (
+            1 if item.get("category") == "sidecar" else 0,
+            str(item["destination"]).lower(),
+            str(item["source"]).lower(),
+        )
+    )
+
+    return {
+        "report": str(report_path),
+        "dest_root": str(dest_root),
+        "operation_count": len(operations),
+        "skip_count": len(skipped),
+        "operations": operations,
+        "skipped": sorted(skipped, key=lambda item: (str(item["reason"]), str(item["path"]))),
+    }
+
+
+def classify_apply_skip_reason(
+    file_record: Dict[str, object],
+    report_data: Dict[str, object],
+    include_mtime: bool,
+    include_duplicates: bool,
+    include_received: bool,
+    include_google_takeout: bool,
+    include_unmatched_sidecars: bool,
+    include_unknown: bool,
+    include_caches: bool,
+    include_pleasantharmony: bool,
+) -> Optional[str]:
+    destination = str(file_record.get("proposed_relative_destination") or "")
+    if not destination:
+        return "no-destination"
+
+    category = str(file_record.get("category") or "")
+    if category == "cache" and not include_caches:
+        return "cache"
+    if category == "unknown" and not include_unknown:
+        return "unknown-category"
+
+    if file_record.get("date_source") == "mtime" and not include_mtime:
+        return "mtime-date"
+
+    if file_record.get("duplicate_group") and not include_duplicates:
+        return "duplicate-group"
+
+    if is_pleasantharmony_record(file_record) and not include_pleasantharmony:
+        return "pleasantharmony"
+
+    if is_google_takeout_record(file_record, report_data) and not include_google_takeout:
+        return "google-takeout"
+
+    if is_google_photos_received_record(file_record, report_data) and not include_received:
+        return "google-photos-received"
+
+    if category == "sidecar":
+        if not file_record.get("sidecar_for") and not include_unmatched_sidecars:
+            return "unmatched-sidecar"
+        if (
+            is_google_photos_sidecar_gap_record(file_record, report_data)
+            and not include_unmatched_sidecars
+        ):
+            return "google-photos-sidecar-gap"
+
+    return None
+
+
+def is_google_photos_received_record(file_record: Dict[str, object], report_data: Dict[str, object]) -> bool:
+    google_photos_root = get_google_photos_root(report_data)
+    if google_photos_root is None:
+        return False
+
+    record_path = Path(str(file_record.get("path") or ""))
+    try:
+        record_path.relative_to(google_photos_root)
+    except ValueError:
+        return False
+    return record_path.name.lower().startswith("received_")
+
+
+def is_google_takeout_record(file_record: Dict[str, object], report_data: Dict[str, object]) -> bool:
+    google_photos_root = get_google_photos_root(report_data)
+    if google_photos_root is None:
+        return False
+
+    record_path = Path(str(file_record.get("path") or ""))
+    try:
+        record_path.relative_to(google_photos_root)
+        return True
+    except ValueError:
+        return False
+
+
+def is_pleasantharmony_record(file_record: Dict[str, object]) -> bool:
+    destination = str(file_record.get("proposed_relative_destination") or "")
+    return destination.startswith("Projects/PleasantHarmony/")
+
+
+def is_google_photos_sidecar_gap_record(file_record: Dict[str, object], report_data: Dict[str, object]) -> bool:
+    if file_record.get("category") != "sidecar":
+        return False
+
+    google_photos_root = get_google_photos_root(report_data)
+    if google_photos_root is None:
+        return False
+
+    record_path = Path(str(file_record.get("path") or ""))
+    try:
+        relative = record_path.relative_to(google_photos_root)
+    except ValueError:
+        return False
+
+    if file_record.get("sidecar_for"):
+        return False
+
+    folder = relative.parts[0] if relative.parts else "."
+    expected_name = normalize_google_photos_group_name(record_path.name)
+    for candidate in report_data.get("files", []):
+        if not isinstance(candidate, dict):
+            continue
+        if candidate.get("category") not in {"image", "video", "project_video", "screen_recording"}:
+            continue
+        candidate_path = Path(str(candidate.get("path") or ""))
+        try:
+            candidate_relative = candidate_path.relative_to(google_photos_root)
+        except ValueError:
+            continue
+        candidate_folder = candidate_relative.parts[0] if candidate_relative.parts else "."
+        if candidate_folder != folder:
+            continue
+        if normalize_google_photos_group_name(candidate_path.name) == expected_name:
+            return False
+    return True
+
+
+def execute_apply_operations(operations: List[Dict[str, object]]) -> List[Dict[str, object]]:
+    results: List[Dict[str, object]] = []
+    for operation in operations:
+        source = Path(str(operation["source"]))
+        destination = Path(str(operation["destination"]))
+        try:
+            verify_source_matches_report(source, operation)
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            if destination.exists():
+                if files_match_for_apply(source, destination, operation):
+                    if source.resolve() != destination.resolve():
+                        source.unlink()
+                    results.append(
+                        {
+                            "source": str(source),
+                            "destination": str(destination),
+                            "status": "already-present",
+                            "message": "destination already contained matching content",
+                        }
+                    )
+                    continue
+                results.append(
+                    {
+                        "source": str(source),
+                        "destination": str(destination),
+                        "status": "conflict",
+                        "message": "destination exists with different content",
+                    }
+                )
+                continue
+
+            move_file_verified(source, destination)
+            results.append(
+                {
+                    "source": str(source),
+                    "destination": str(destination),
+                    "status": "moved",
+                    "message": "moved successfully",
+                }
+            )
+        except Exception as exc:
+            results.append(
+                {
+                    "source": str(source),
+                    "destination": str(destination),
+                    "status": "error",
+                    "message": str(exc),
+                }
+            )
+    return results
+
+
+def verify_source_matches_report(source: Path, operation: Dict[str, object]) -> None:
+    if not source.exists():
+        raise FileNotFoundError("source file no longer exists")
+
+    stat = source.stat()
+    expected_size = operation.get("size_bytes")
+    if expected_size is None or int(expected_size) != stat.st_size:
+        raise ValueError("source size no longer matches the saved report")
+
+    if str(operation.get("modified_at") or "") != datetime.fromtimestamp(stat.st_mtime).isoformat():
+        raise ValueError("source modified time no longer matches the saved report")
+
+
+def files_match_for_apply(source: Path, destination: Path, operation: Dict[str, object]) -> bool:
+    if source.stat().st_size != destination.stat().st_size:
+        return False
+
+    expected_hash = str(operation.get("sha256") or "")
+    if expected_hash:
+        return hash_path(destination) == expected_hash
+
+    return hash_path(source) == hash_path(destination)
+
+
+def hash_path(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def move_file_verified(source: Path, destination: Path) -> None:
+    source_stat = source.stat()
+    if same_filesystem(source, destination.parent):
+        os.replace(source, destination)
+        return
+
+    shutil.copy2(source, destination)
+    if source_stat.st_size != destination.stat().st_size:
+        raise ValueError("copied destination size does not match source")
+    if hash_path(source) != hash_path(destination):
+        raise ValueError("copied destination hash does not match source")
+    source.unlink()
+
+
+def same_filesystem(source: Path, destination_parent: Path) -> bool:
+    try:
+        return source.stat().st_dev == destination_parent.stat().st_dev
+    except FileNotFoundError:
+        return False
 
 
 def get_google_photos_root(report_data: Dict[str, object]) -> Optional[Path]:

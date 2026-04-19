@@ -20,6 +20,13 @@ This scaffold is designed for a mixed library like:
 
 The tool does **not** delete or move files yet.
 
+It now includes a conservative report-driven `apply` command that can build a
+move manifest and execute it, but it defaults to dry-run mode and excludes
+high-risk cases such as `mtime`-dated files, duplicate-group members,
+all Google Takeout media and sidecars, Google Photos `received_*` items,
+unmatched sidecars, cache files, `Projects/PleasantHarmony/...`, and unknown
+files unless you opt in explicitly.
+
 ## Quick start
 
 ```bash
@@ -51,6 +58,32 @@ That command scans both roots, hashes media files, and writes a JSON report with
 
 The current planner only generates proposed destinations. Review those plans
 before adding a future move/apply phase.
+
+## Conservative apply workflow
+
+Build a dry-run manifest first:
+
+```bash
+python3 -m media_organizer apply \
+  --report reports/scan-hash-v68.json \
+  --dest-root /path/to/organized-library \
+  --manifest reports/apply-manifest-v1.json
+```
+
+If the manifest looks correct, execute the same plan and capture a log:
+
+```bash
+python3 -m media_organizer apply \
+  --report reports/scan-hash-v68.json \
+  --dest-root /path/to/organized-library \
+  --manifest reports/apply-manifest-v1.json \
+  --log reports/apply-log-v1.json \
+  --execute
+```
+
+The apply phase verifies source size and `modified_at` against the saved report
+before moving anything, and it refuses to overwrite conflicting destination
+content.
 
 Some clearly non-chronological picture folders may route directly to
 `Reference/` instead of the dated `Library/` tree when the folder intent is

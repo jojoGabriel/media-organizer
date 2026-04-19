@@ -1,0 +1,4396 @@
+{
+  "groups": [
+    {
+      "folder": "25th",
+      "name": "20190520_173859.jpg",
+      "sidecars": 1,
+      "sample": "20190520_173859.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "25th",
+      "name": "20190520_173904.jpg",
+      "sidecars": 1,
+      "sample": "20190520_173904.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "25th",
+      "name": "20190520_174037.jpg",
+      "sidecars": 1,
+      "sample": "20190520_174037.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "25th",
+      "name": "20190520_174530.jpg",
+      "sidecars": 1,
+      "sample": "20190520_174530.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "25th",
+      "name": "20190520_180337.jpg",
+      "sidecars": 1,
+      "sample": "20190520_180337.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "25th",
+      "name": "20190520_180649.jpg",
+      "sidecars": 1,
+      "sample": "20190520_180649.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "25th",
+      "name": "20190520_181152.jpg",
+      "sidecars": 1,
+      "sample": "20190520_181152.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "25th",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20181003-194309_Chrome.jpg.suppleme.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20181003-194309_Chrome.jpg.suppleme.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20181107-181011_Twitter.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20181107-181011_Twitter.jpg.supplem.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20181109-190603_Amazon Shopping.jpg.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20181109-190603_Amazon Shopping.jpg.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20181112-172402_Twitter.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20181112-172402_Twitter.jpg.supplem.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20181113-174419_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20181113-174419_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20181119-195636_Twitter.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20181119-195636_Twitter.jpg.supplem.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20181121-102638_Twitter.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20181121-102638_Twitter.jpg.supplem.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20181201-075819_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20181201-075819_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20181214-190355_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20181214-190355_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20181228-084053_Twitter.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20181228-084053_Twitter.jpg.supplem.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20190204-183740_Twitter.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20190204-183740_Twitter.jpg.supplem.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20190518-072511_Brave.jpg.supplemen.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20190518-072511_Brave.jpg.supplemen.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20200924-110151_Twitter.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20200924-110151_Twitter.jpg.supplem.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210131-122335_Chrome.jpg.suppleme.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210131-122335_Chrome.jpg.suppleme.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210410-180031_DuckDuckGo.jpg.supp(1).json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210410-180031_DuckDuckGo.jpg.supp(1).json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210410-180031_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210410-180031_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210417-131343_YouTube.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210417-131343_YouTube.jpg.supplem.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210418-144345_Samsung Experience .json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210418-144345_Samsung Experience .json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210501-072558_Viber.jpg.supplemen.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210501-072558_Viber.jpg.supplemen.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210504-130309_Notion.jpg.suppleme.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210504-130309_Notion.jpg.suppleme.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210504-130319_Notion.jpg.suppleme.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210504-130319_Notion.jpg.suppleme.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210507-174509_Bible.jpg.supplemen(1).json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210507-174509_Bible.jpg.supplemen(1).json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210507-174509_Bible.jpg.supplemen.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210507-174509_Bible.jpg.supplemen.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210602-054953_Samsung Experience .json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210602-054953_Samsung Experience .json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210701-212732_Lithium.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210701-212732_Lithium.jpg.supplem.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210703-231310_Amazon Shopping.jpg.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210703-231310_Amazon Shopping.jpg.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210704-090746_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210704-090746_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210704-174404_Facebook.jpg.supple.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210704-174404_Facebook.jpg.supple.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210704-225138_Facebook.jpg.supple.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210704-225138_Facebook.jpg.supple.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210705-063918_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210705-063918_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210705-205359_Messages.jpg.supple.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210705-205359_Messages.jpg.supple.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210706-053701_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210706-053701_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210706-092022_Messenger.jpg.suppl(1).json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210706-092022_Messenger.jpg.suppl(1).json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210706-092022_Messenger.jpg.suppl.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210706-092022_Messenger.jpg.suppl.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210706-192006_Samsung Experience .json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210706-192006_Samsung Experience .json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210717-082056_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210717-082056_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210717-082129_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210717-082129_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210717-190221_Facebook.jpg.supple.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210717-190221_Facebook.jpg.supple.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210718-051538_LSB.jpg.supplementa(1).json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210718-051538_LSB.jpg.supplementa(1).json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210718-051538_LSB.jpg.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210718-051538_LSB.jpg.supplementa.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210718-051647_LSB.jpg.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210718-051647_LSB.jpg.supplementa.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210718-151301_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210718-151301_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Archive",
+      "name": "Screenshot_20210722-183619_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210722-183619_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Failed Videos",
+      "name": "VID_20140623_183751.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_183751.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165101665.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165101665.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165401576_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165401576_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165417292.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165417292.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165432132_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165432132_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165748298_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165748298_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165834213_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165834213_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165841577_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165841577_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165845963_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165845963_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165929770_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165929770_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165934237_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165934237_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165937389_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165937389_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165940186_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165940186_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165942665_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165942665_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165945190_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165945190_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_165947764_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_165947764_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_170002813_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_170002813_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_170020293_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_170020293_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_170033826_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_170033826_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_170050661_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_170050661_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211026_170122727_MP.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211026_170122727_MP.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211027_174059339.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211027_174059339.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211105_095041305.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211105_095041305.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211105_152810244.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211105_152810244.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211105_152945684.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211105_152945684.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211108_071440583.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211108_071440583.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211108_144319630.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211108_144319630.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211112_115942164.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211112_115942164.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211112_120408866.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211112_120408866.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "IMG_20211122_160250883.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211122_160250883.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jab",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Jojo, Joy",
+      "name": "IMG_20210929_185924959.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20210929_185924959.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jojo, Joy",
+      "name": "IMG_20211115_200144374.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20211115_200144374.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jojo, Joy",
+      "name": "IMG_20220515_102412484_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220515_102412484_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Jojo, Joy",
+      "name": "IMG_20220704_145351549.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220704_145351549.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Jojo, Joy",
+      "name": "IMG_20220704_145419719_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220704_145419719_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Jojo, Joy",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Jonel 26",
+      "name": "20210419_165459.jpg",
+      "sidecars": 1,
+      "sample": "20210419_165459.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Jonel 26",
+      "name": "20210419_170046.jpg",
+      "sidecars": 1,
+      "sample": "20210419_170046.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Jonel 26",
+      "name": "20210419_175244.jpg",
+      "sidecars": 1,
+      "sample": "20210419_175244.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Jonel 26",
+      "name": "20210419_175552.jpg",
+      "sidecars": 1,
+      "sample": "20210419_175552.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Jonel 26",
+      "name": "20210419_175627.jpg",
+      "sidecars": 1,
+      "sample": "20210419_175627.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Jonel 26",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Jonel 26",
+      "name": "received_265835921918004.jpeg",
+      "sidecars": 1,
+      "sample": "received_265835921918004.jpeg.supplemental-met.json"
+    },
+    {
+      "folder": "Jonel 26",
+      "name": "received_894992108014883.jpeg",
+      "sidecars": 1,
+      "sample": "received_894992108014883.jpeg.supplemental-met.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "20170529_182723.jpg",
+      "sidecars": 1,
+      "sample": "20170529_182723.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "20171225_110855.jpg",
+      "sidecars": 1,
+      "sample": "20171225_110855.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "20180418_192415.jpg",
+      "sidecars": 1,
+      "sample": "20180418_192415.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "20180528_112717.jpg",
+      "sidecars": 1,
+      "sample": "20180528_112717.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "20180804_163357.jpg",
+      "sidecars": 1,
+      "sample": "20180804_163357.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "20181128_163941.jpg",
+      "sidecars": 1,
+      "sample": "20181128_163941.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "20190309_164401.jpg",
+      "sidecars": 1,
+      "sample": "20190309_164401.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "20190520_181152.jpg",
+      "sidecars": 1,
+      "sample": "20190520_181152.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "20201231_195832.jpg",
+      "sidecars": 1,
+      "sample": "20201231_195832.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "20210131_144022.jpg",
+      "sidecars": 1,
+      "sample": "20210131_144022.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "20210521_180445.jpg",
+      "sidecars": 1,
+      "sample": "20210521_180445.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "IMG_20140615_105848.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140615_105848.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "IMG_20140719_142707.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_142707.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "IMG_20141214_114926.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20141214_114926.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "IMG_20160417_163349.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160417_163349.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Memories together (5-23-2021)",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "airsquat.gif",
+      "sidecars": 1,
+      "sample": "airsquat.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "AUTO_AWESOME_MOVIE_1_20131225_082808.mp4.suppl.json",
+      "sidecars": 1,
+      "sample": "AUTO_AWESOME_MOVIE_1_20131225_082808.mp4.suppl.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "bicyclecrunch.gif",
+      "sidecars": 1,
+      "sample": "bicyclecrunch.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "bridge.gif",
+      "sidecars": 1,
+      "sample": "bridge.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "burpee.gif",
+      "sidecars": 1,
+      "sample": "burpee.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "cleayandcurtsey.gif",
+      "sidecars": 1,
+      "sample": "cleayandcurtsey.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "IMG_20131224_200805460-TWINKLE.gif.supplementa.json",
+      "sidecars": 1,
+      "sample": "IMG_20131224_200805460-TWINKLE.gif.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "IMG_20131224_200831664-TWINKLE.gif.supplementa.json",
+      "sidecars": 1,
+      "sample": "IMG_20131224_200831664-TWINKLE.gif.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "IMG_20131224_200832086-TWINKLE.gif.supplementa.json",
+      "sidecars": 1,
+      "sample": "IMG_20131224_200832086-TWINKLE.gif.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "jumpingjack.gif",
+      "sidecars": 1,
+      "sample": "jumpingjack.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "jumpingrope.gif",
+      "sidecars": 1,
+      "sample": "jumpingrope.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "lateralsquat.gif",
+      "sidecars": 1,
+      "sample": "lateralsquat.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "pikepushup.gif",
+      "sidecars": 1,
+      "sample": "pikepushup.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "pushup.gif",
+      "sidecars": 1,
+      "sample": "pushup.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "russiantwist.gif",
+      "sidecars": 1,
+      "sample": "russiantwist.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "Screenshot_2013-12-29-19-56-48.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2013-12-29-19-56-48.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "tricepdip.gif",
+      "sidecars": 1,
+      "sample": "tricepdip.gif.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "VID_20131225_240656923.mp4",
+      "sidecars": 1,
+      "sample": "VID_20131225_240656923.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2013",
+      "name": "VID_20131225_240709540.mp4",
+      "sidecars": 1,
+      "sample": "VID_20131225_240709540.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-01bd9bcb6f16b2c485455d07be0d56a80205eb43.json",
+      "sidecars": 1,
+      "sample": "image-01bd9bcb6f16b2c485455d07be0d56a80205eb43.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-0af760968c6820f131c3b317966e950fa15dd696.json",
+      "sidecars": 1,
+      "sample": "image-0af760968c6820f131c3b317966e950fa15dd696.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-0ba7f8e018428b75eb55bb785f7928d76724e5fe.json",
+      "sidecars": 1,
+      "sample": "image-0ba7f8e018428b75eb55bb785f7928d76724e5fe.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-202cc24010934fa079c8c8b9f8be54d9551a63dd.json",
+      "sidecars": 1,
+      "sample": "image-202cc24010934fa079c8c8b9f8be54d9551a63dd.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-34e651b56b71dee756b1d31a8eb69c2d8357f94b.json",
+      "sidecars": 1,
+      "sample": "image-34e651b56b71dee756b1d31a8eb69c2d8357f94b.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-3e1d8149188dd4c70435380af9a643da008e26de.json",
+      "sidecars": 1,
+      "sample": "image-3e1d8149188dd4c70435380af9a643da008e26de.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-3e384a199f35a42b3409df5bbe28e2a932379532.json",
+      "sidecars": 1,
+      "sample": "image-3e384a199f35a42b3409df5bbe28e2a932379532.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-423ac7740d83c35e2cf5e70cc5b158b4863eeec2.json",
+      "sidecars": 1,
+      "sample": "image-423ac7740d83c35e2cf5e70cc5b158b4863eeec2.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-4fd5c9e95dddcf92e1a90ec45fb9fd784b7707fe.json",
+      "sidecars": 1,
+      "sample": "image-4fd5c9e95dddcf92e1a90ec45fb9fd784b7707fe.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-67c57c683f17ed6e74ab5091832b1dda951492a3.json",
+      "sidecars": 1,
+      "sample": "image-67c57c683f17ed6e74ab5091832b1dda951492a3.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-787b386de0bfa13e85d6d4eb899aa5ffff5f2434.json",
+      "sidecars": 1,
+      "sample": "image-787b386de0bfa13e85d6d4eb899aa5ffff5f2434.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-7c4be8becee3635e426be1f99dfd16b7b8670bed.json",
+      "sidecars": 1,
+      "sample": "image-7c4be8becee3635e426be1f99dfd16b7b8670bed.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-8bffd389bac52f174af2826e8e75e6884c5220cd.json",
+      "sidecars": 1,
+      "sample": "image-8bffd389bac52f174af2826e8e75e6884c5220cd.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-8d01f7af32245276ffa245ed29a0f9abafce8e45.json",
+      "sidecars": 1,
+      "sample": "image-8d01f7af32245276ffa245ed29a0f9abafce8e45.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-8da9616d0da2ea9aa4c68a89b18879dec0c25293.json",
+      "sidecars": 1,
+      "sample": "image-8da9616d0da2ea9aa4c68a89b18879dec0c25293.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-91ae3bb49ec6e5279034a6483bb2020a3727d522.json",
+      "sidecars": 1,
+      "sample": "image-91ae3bb49ec6e5279034a6483bb2020a3727d522.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-956bafc47f0b8dac9635e4f3c075a9cff4ebfa07.json",
+      "sidecars": 1,
+      "sample": "image-956bafc47f0b8dac9635e4f3c075a9cff4ebfa07.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-a072f4c68c4875683ce6f61819f67f88b24bed8c.json",
+      "sidecars": 1,
+      "sample": "image-a072f4c68c4875683ce6f61819f67f88b24bed8c.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-a9265ad03ea14dfdb9d7a162aa2bd377bb76feaf.json",
+      "sidecars": 1,
+      "sample": "image-a9265ad03ea14dfdb9d7a162aa2bd377bb76feaf.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-b2adfc7e15d4f6f419f0f6ccb78c303c2dac7423.json",
+      "sidecars": 1,
+      "sample": "image-b2adfc7e15d4f6f419f0f6ccb78c303c2dac7423.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-c11c6d72bd9eba5d04be4b9d3e87384868210f74.json",
+      "sidecars": 1,
+      "sample": "image-c11c6d72bd9eba5d04be4b9d3e87384868210f74.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-e92c4e3fdadac6f33c35a5b29fdb4a0526242c5b.json",
+      "sidecars": 1,
+      "sample": "image-e92c4e3fdadac6f33c35a5b29fdb4a0526242c5b.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "image-f6fa7db117ed2a08a70f7ebd2c5aa0dd15e089de.json",
+      "sidecars": 1,
+      "sample": "image-f6fa7db117ed2a08a70f7ebd2c5aa0dd15e089de.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-01-22-05-09-53.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-01-22-05-09-53.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-01-26-10-03-17.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-01-26-10-03-17.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-01-27-21-40-27.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-01-27-21-40-27.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-01-27-21-41-27.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-01-27-21-41-27.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-04-20-26-42.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-04-20-26-42.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-04-20-27-07.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-04-20-27-07.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-04-20-27-14.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-04-20-27-14.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-04-20-42-42.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-04-20-42-42.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-04-20-42-49.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-04-20-42-49.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-07-05-44-08.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-07-05-44-08.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-14-13-22-17.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-14-13-22-17.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-14-13-26-21.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-14-13-26-21.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-21-13-06-34.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-21-13-06-34.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-21-13-07-11.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-21-13-07-11.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-21-13-08-07.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-21-13-08-07.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-02-21-22-34-50.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-02-21-22-34-50.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-03-24-20-26-52.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-03-24-20-26-52.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-03-24-20-29-29.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-03-24-20-29-29.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-03-24-20-32-35.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-03-24-20-32-35.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-04-07-20-09-41.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-04-07-20-09-41.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-04-17-16-56-00.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-04-17-16-56-00.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-04-29-18-53-00.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-04-29-18-53-00.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-05-09-11-29-40.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-05-09-11-29-40.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-05-18-13-31-35.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-05-18-13-31-35.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-05-18-13-32-43.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-05-18-13-32-43.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-05-18-13-33-54.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-05-18-13-33-54.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-05-18-13-34-04.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-05-18-13-34-04.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-06-16-19-21-58.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-06-16-19-21-58.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-06-20-19-44-40.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-06-20-19-44-40.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-07-15-18-38-20.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-07-15-18-38-20.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-07-16-09-38-16.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-07-16-09-38-16.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-07-16-19-08-47.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-07-16-19-08-47.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-07-16-21-13-43.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-07-16-21-13-43.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-07-16-21-14-03.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-07-16-21-14-03.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-08-16-11-05-44.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-08-16-11-05-44.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-08-16-17-34-12.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-08-16-17-34-12.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-09-18-20-16-06.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-09-18-20-16-06.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-09-19-06-09-18.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-09-19-06-09-18.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-10-08-06-21-38.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-10-08-06-21-38.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-10-31-18-50-29.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-10-31-18-50-29.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-11-02-19-12-49.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-11-02-19-12-49.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-11-04-20-38-39.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-11-04-20-38-39.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-11-04-20-38-50.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-11-04-20-38-50.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-11-05-19-23-07.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-11-05-19-23-07.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-11-09-15-04-20.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-11-09-15-04-20.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-11-09-15-04-51.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-11-09-15-04-51.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-11-28-11-21-36.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-11-28-11-21-36.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "Screenshot_2014-12-04-05-05-53.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2014-12-04-05-05-53.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20131231_235823860.mp4",
+      "sidecars": 1,
+      "sample": "VID_20131231_235823860.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20131231_235957916.mp4",
+      "sidecars": 1,
+      "sample": "VID_20131231_235957916.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140419_132801454.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140419_132801454.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140511_160505871.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140511_160505871.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140511_160530345.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140511_160530345.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140511_160700136.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140511_160700136.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140528_133546238.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140528_133546238.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140528_134249071.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140528_134249071.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140528_151152432.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140528_151152432.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140530_210129.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140530_210129.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140531_154249.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140531_154249.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140531_210036.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140531_210036.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140531_210140.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140531_210140.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140623_171316.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_171316.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140623_171326.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_171326.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140623_183658.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_183658.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140623_183813.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_183813.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140623_183944.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_183944.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140623_184020.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_184020.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140623_184322.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_184322.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140623_184716.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_184716.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140623_184733.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_184733.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140830_124040.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140830_124040.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140830_124158.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140830_124158.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140830_124732.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140830_124732.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20140830_135738.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140830_135738.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20141109_090746.mp4",
+      "sidecars": 1,
+      "sample": "VID_20141109_090746.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20141109_090827.mp4",
+      "sidecars": 1,
+      "sample": "VID_20141109_090827.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20141109_091400010.mp4",
+      "sidecars": 1,
+      "sample": "VID_20141109_091400010.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "VID_20141115_114145.mp4",
+      "sidecars": 1,
+      "sample": "VID_20141115_114145.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "video-54c349138aceff8a35392d2b2df5ebae47af0ab8.json",
+      "sidecars": 1,
+      "sample": "video-54c349138aceff8a35392d2b2df5ebae47af0ab8.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "video-7988a1886dad922eca3b05e05d9440c7275a943d.json",
+      "sidecars": 1,
+      "sample": "video-7988a1886dad922eca3b05e05d9440c7275a943d.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "video-f1863057a47fed78295a68cd0f01b8bb2f39b875.json",
+      "sidecars": 1,
+      "sample": "video-f1863057a47fed78295a68cd0f01b8bb2f39b875.json"
+    },
+    {
+      "folder": "Photos from 2014",
+      "name": "what-color-shoes-to-wear-with-what-color-pants.json",
+      "sidecars": 1,
+      "sample": "what-color-shoes-to-wear-with-what-color-pants.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "image-0992bbf0b9c0301b9b6d4fb2f75cb1e2760583fc.json",
+      "sidecars": 1,
+      "sample": "image-0992bbf0b9c0301b9b6d4fb2f75cb1e2760583fc.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "image-94e7ad869b3b125b58d32ac74fdaa08283430381.json",
+      "sidecars": 1,
+      "sample": "image-94e7ad869b3b125b58d32ac74fdaa08283430381.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150907_165055208.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150907_165055208.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150907_165118054.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150907_165118054.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150907_165429774.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150907_165429774.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150907_165507635.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150907_165507635.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150907_165824535.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150907_165824535.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150907_170825514_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150907_170825514_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150907_170834181_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150907_170834181_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150924_174454387.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150924_174454387.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150924_174512851.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150924_174512851.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150924_174543660.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150924_174543660.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150925_162707045.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150925_162707045.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150925_163242228.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150925_163242228.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150925_165111070.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150925_165111070.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150925_165148265.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150925_165148265.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150925_165219452.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150925_165219452.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150927_130352200.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150927_130352200.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150927_130356357.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150927_130356357.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150927_130543646.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150927_130543646.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150927_130549836.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150927_130549836.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150928_201456946.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150928_201456946.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150928_201500263.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150928_201500263.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20150928_201505239.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20150928_201505239.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151003_121347185_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151003_121347185_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151003_121352986_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151003_121352986_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151003_122308376_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151003_122308376_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151003_125358.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151003_125358.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151003_125408.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151003_125408.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151025_114824440.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151025_114824440.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151026_163152783.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151026_163152783.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151030_135618349.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151030_135618349.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151030_135647046.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151030_135647046.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151112_084212934_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151112_084212934_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151130_125120552.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151130_125120552.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151130_201101627.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151130_201101627.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151205_175728922.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151205_175728922.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151205_180410.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151205_180410.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151205_181046.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151205_181046.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151205_181655.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151205_181655.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151205_181707.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151205_181707.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151205_181712.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151205_181712.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151224_175700236.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151224_175700236.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151224_192535.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151224_192535.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151224_192543.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151224_192543.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151224_234323516.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151224_234323516.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151224_234333553.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151224_234333553.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "IMG_20151224_234354133.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20151224_234354133.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "MUTE_20150418_220612.mp4",
+      "sidecars": 1,
+      "sample": "MUTE_20150418_220612.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "precision-nutrition-cost-of-getting-lean-infog.json",
+      "sidecars": 1,
+      "sample": "precision-nutrition-cost-of-getting-lean-infog.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-01-18-10-39-06.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-01-18-10-39-06.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-01-26-05-55-30.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-01-26-05-55-30.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-01-30-16-54-34.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-01-30-16-54-34.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-02-06-18-05-09.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-02-06-18-05-09.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-02-08-19-17-08.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-02-08-19-17-08.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-02-15-18-35-33.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-02-15-18-35-33.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-02-15-18-48-16.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-02-15-18-48-16.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-02-17-04-50-09.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-02-17-04-50-09.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-02-26-05-50-41.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-02-26-05-50-41.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-02-26-19-22-09.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-02-26-19-22-09.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-04-23-11-09-27.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-04-23-11-09-27.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "Screenshot_2015-04-23-11-09-52.png.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_2015-04-23-11-09-52.png.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "VID_20150315_100923.mp4",
+      "sidecars": 1,
+      "sample": "VID_20150315_100923.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "VID_20150322_144845.mp4",
+      "sidecars": 1,
+      "sample": "VID_20150322_144845.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "VID_20150405_173045983.mp4",
+      "sidecars": 1,
+      "sample": "VID_20150405_173045983.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "VID_20150405_174224616.mp4",
+      "sidecars": 1,
+      "sample": "VID_20150405_174224616.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "VID_20150418_170701013.mp4",
+      "sidecars": 1,
+      "sample": "VID_20150418_170701013.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2015",
+      "name": "VID_20150419_130338.mp4",
+      "sidecars": 1,
+      "sample": "VID_20150419_130338.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160101_001105.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160101_001105.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160101_001144.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160101_001144.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160101_001221.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160101_001221.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160101_001235.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160101_001235.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160214_172317.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160214_172317.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160322_092236.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160322_092236.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160322_092244.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160322_092244.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160322_092316.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160322_092316.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160322_095450.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160322_095450.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160322_095533.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160322_095533.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160322_163049.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160322_163049.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Photos from 2016",
+      "name": "IMG_20160330_163906866.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20160330_163906866.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Photos from 2017",
+      "name": "1508086390039_5049910-1508082886216_640x640.jp.json",
+      "sidecars": 1,
+      "sample": "1508086390039_5049910-1508082886216_640x640.jp.json"
+    },
+    {
+      "folder": "Photos from 2017",
+      "name": "IMG_20140213_163329951-COLLAGE.jpg.supplementa.json",
+      "sidecars": 1,
+      "sample": "IMG_20140213_163329951-COLLAGE.jpg.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2018",
+      "name": "Screenshot_20180902-130247_YouTube.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20180902-130247_YouTube.jpg.supplem.json"
+    },
+    {
+      "folder": "Photos from 2018",
+      "name": "Screenshot_20181007-144002_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20181007-144002_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2019",
+      "name": "IMG_20140101_182421928-COLLAGE.jpg.supplementa.json",
+      "sidecars": 1,
+      "sample": "IMG_20140101_182421928-COLLAGE.jpg.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2019",
+      "name": "Screenshot_20190608-202048_Twitter.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20190608-202048_Twitter.jpg.supplem.json"
+    },
+    {
+      "folder": "Photos from 2019",
+      "name": "Screenshot_20190617-114835_Twitter.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20190617-114835_Twitter.jpg.supplem.json"
+    },
+    {
+      "folder": "Photos from 2019",
+      "name": "Screenshot_20190622-081011_Bible Study.jpg.sup(1).json",
+      "sidecars": 1,
+      "sample": "Screenshot_20190622-081011_Bible Study.jpg.sup(1).json"
+    },
+    {
+      "folder": "Photos from 2019",
+      "name": "Screenshot_20190622-081011_Bible Study.jpg.sup.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20190622-081011_Bible Study.jpg.sup.json"
+    },
+    {
+      "folder": "Photos from 2019",
+      "name": "Screenshot_20190622-081209_Brave.jpg.supplemen.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20190622-081209_Brave.jpg.supplemen.json"
+    },
+    {
+      "folder": "Photos from 2019",
+      "name": "Screenshot_20190701-052005_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20190701-052005_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2020",
+      "name": "Screenshot_20201231-111001_Notion.jpg.suppleme.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20201231-111001_Notion.jpg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "84008c61-487c-4a45-828c-27167b4e6ae5.jpg.suppl.json",
+      "sidecars": 1,
+      "sample": "84008c61-487c-4a45-828c-27167b4e6ae5.jpg.suppl.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "IMG_20210913_092611633_BURST000_COVER_TOP.jpg..json",
+      "sidecars": 1,
+      "sample": "IMG_20210913_092611633_BURST000_COVER_TOP.jpg..json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "IMG_20210913_092611633_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20210913_092611633_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "IMG_20210925_133117446_BURST000_COVER_TOP.jpg..json",
+      "sidecars": 1,
+      "sample": "IMG_20210925_133117446_BURST000_COVER_TOP.jpg..json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "IMG_20210925_133117446_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20210925_133117446_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "IMG_20210925_142635559_BURST000_COVER_TOP.jpg..json",
+      "sidecars": 1,
+      "sample": "IMG_20210925_142635559_BURST000_COVER_TOP.jpg..json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "IMG_20210925_142635559_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20210925_142635559_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "IMG_20211115_165444486_BURST000_COVER_TOP.jpg..json",
+      "sidecars": 1,
+      "sample": "IMG_20211115_165444486_BURST000_COVER_TOP.jpg..json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "IMG_20211115_165444486_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20211115_165444486_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "rtc-snapshot-1235662449514409596.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-1235662449514409596.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "rtc-snapshot-1369160890413277950.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-1369160890413277950.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "rtc-snapshot-4124159291210874816.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-4124159291210874816.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "rtc-snapshot-5155676361161777037.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-5155676361161777037.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "rtc-snapshot-5620972176700955830.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-5620972176700955830.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "rtc-snapshot-6341706607205623828.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-6341706607205623828.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "rtc-snapshot-6476055752501445424.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-6476055752501445424.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "rtc-snapshot-7334663273045781034.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-7334663273045781034.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "rtc-snapshot-7840456019659621071.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-7840456019659621071.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "rtc-snapshot-7862304556827237755.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-7862304556827237755.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210129-060553_Messenger.jpg.suppl.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210129-060553_Messenger.jpg.suppl.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210130-082418_Messenger.jpg.suppl.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210130-082418_Messenger.jpg.suppl.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210507-123709_Messenger.jpg.suppl.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210507-123709_Messenger.jpg.suppl.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210516-161424_YouTube.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210516-161424_YouTube.jpg.supplem.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210704-174404_Facebook.jpg.supple.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210704-174404_Facebook.jpg.supple.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210704-225138_Facebook.jpg.supple.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210704-225138_Facebook.jpg.supple.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210705-063918_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210705-063918_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210707-190319_Signal.jpg.suppleme.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210707-190319_Signal.jpg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210720-175124_Messenger.jpg.suppl(1).json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210720-175124_Messenger.jpg.suppl(1).json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210720-175124_Messenger.jpg.suppl.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210720-175124_Messenger.jpg.suppl.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210727-164542_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210727-164542_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210728-131112_Samsung Experience .json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210728-131112_Samsung Experience .json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210728-131121_Samsung Experience .json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210728-131121_Samsung Experience .json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210802-110828_YouTube.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210802-110828_YouTube.jpg.supplem.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210824-084447_Photos.jpg.suppleme.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210824-084447_Photos.jpg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210828-120942_LSB.jpg.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210828-120942_LSB.jpg.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210829-075249_LSB.jpg.supplementa.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210829-075249_LSB.jpg.supplementa.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210831-105325_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210831-105325_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2021",
+      "name": "Screenshot_20210831-105930_DuckDuckGo.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "Screenshot_20210831-105930_DuckDuckGo.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220110_055956234_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20220110_055956234_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220417_122542860_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20220417_122542860_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220417_122542860_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220417_122542860_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220417_122547003_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20220417_122547003_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220417_122547003_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220417_122547003_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220508_203510807_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20220508_203510807_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220508_203510807_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220508_203510807_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194250469_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194250469_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194250469_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194250469_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194253741_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194253741_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194253741_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194253741_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194305991_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194305991_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194305991_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194305991_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST002.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST002.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST003.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST003.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST004.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST004.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST005.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST005.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST006.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST006.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST007.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST007.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST008.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST008.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST009.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST009.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST010.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST010.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194309268_BURST011.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194309268_BURST011.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194318472_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194318472_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194318472_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194318472_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194321816_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194321816_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194321816_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194321816_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194324158_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194324158_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194324158_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194324158_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194327015_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194327015_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220529_194327015_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220529_194327015_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220807_202835595_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220807_202835595_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220807_202835595_BURST001~2.jpg.suppleme.json",
+      "sidecars": 1,
+      "sample": "IMG_20220807_202835595_BURST001~2.jpg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220909_113634903_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20220909_113634903_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220909_113634903_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220909_113634903_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220909_113634903_BURST002.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220909_113634903_BURST002.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220909_123423608_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20220909_123423608_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220909_125150235_BURST000_COVER_TOP.jpg..json",
+      "sidecars": 1,
+      "sample": "IMG_20220909_125150235_BURST000_COVER_TOP.jpg..json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220909_125150235_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220909_125150235_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220909_131435729_BURST000_COVER_TOP.jpg..json",
+      "sidecars": 1,
+      "sample": "IMG_20220909_131435729_BURST000_COVER_TOP.jpg..json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220909_131435729_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220909_131435729_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220909_131546642_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20220909_131546642_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220913_163104314_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20220913_163104314_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220913_163147762_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20220913_163147762_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220913_163147762_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220913_163147762_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220913_163147762_BURST002.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220913_163147762_BURST002.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220913_163147762_BURST003.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220913_163147762_BURST003.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220913_163147762_BURST004.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220913_163147762_BURST004.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220913_163414184_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20220913_163414184_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220913_163414184_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220913_163414184_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220913_163414184_BURST002.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220913_163414184_BURST002.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST002.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST002.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST003.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST003.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST004.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST004.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST005.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST005.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST006.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST006.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST007.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST007.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST008.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST008.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST009.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST009.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST010.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST010.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST011.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST011.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST012.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST012.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST013.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST013.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST014.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST014.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST015.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST015.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST016.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST016.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST017.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST017.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST018.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST018.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST019.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST019.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST020.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST020.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST021.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST021.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST022.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST022.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST023.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST023.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST024.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST024.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST025.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST025.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST026.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST026.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST027.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST027.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST028.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST028.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST029.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST029.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST030.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST030.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST031.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST031.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST032.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST032.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST033.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST033.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST034.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST034.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST035.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST035.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST036.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST036.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST037.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST037.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST038.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST038.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST039.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST039.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST040.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST040.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST041.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST041.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST042.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST042.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST043.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST043.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST044.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST044.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST045.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST045.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST046.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST046.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST047.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST047.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST048.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST048.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST049.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST049.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST050.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST050.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST051.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST051.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST052.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST052.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST053.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST053.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST054.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST054.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST055.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST055.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST056.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST056.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST057.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST057.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST058.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST058.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST059.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST059.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST060.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST060.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_103101427_BURST061.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_103101427_BURST061.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST002.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST002.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST003.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST003.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST004.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST004.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST005.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST005.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST006.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST006.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST007.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST007.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST008.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST008.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST009.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST009.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST010.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST010.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST011.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST011.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST012.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST012.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST013.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST013.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST014.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST014.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST015.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST015.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST016.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST016.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST017.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST017.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST018.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST018.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST019.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST019.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "IMG_20220915_112922303_BURST020.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20220915_112922303_BURST020.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "rtc-snapshot-119753028501599038.jpeg.supplemen.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-119753028501599038.jpeg.supplemen.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "rtc-snapshot-3306303789921611310.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-3306303789921611310.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "rtc-snapshot-3783295302009964228.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-3783295302009964228.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2022",
+      "name": "rtc-snapshot-4987805639925796427.jpeg.suppleme.json",
+      "sidecars": 1,
+      "sample": "rtc-snapshot-4987805639925796427.jpeg.suppleme.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230404_224549546_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20230404_224549546_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230404_224549546_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20230404_224549546_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230419_194353703_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20230419_194353703_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230419_194353703_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20230419_194353703_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230419_194356027_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20230419_194356027_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230419_194356027_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20230419_194356027_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200055197_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200055197_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200055197_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200055197_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200122843_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200122843_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200122843_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200122843_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200123941_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200123941_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200123941_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200123941_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200125074_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200125074_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200125074_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200125074_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200126253_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200126253_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200126253_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200126253_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200127463_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200127463_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230529_200127463_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20230529_200127463_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230530_223724396_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20230530_223724396_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230530_223724396_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20230530_223724396_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20230825_181713233_HDR-CINEMATIC.mp4.suppl.json",
+      "sidecars": 1,
+      "sample": "IMG_20230825_181713233_HDR-CINEMATIC.mp4.suppl.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20231119_161853187_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20231119_161853187_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20231119_161853187_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20231119_161853187_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20231119_162250964_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20231119_162250964_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20231119_162250964_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20231119_162250964_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20231119_162320229_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20231119_162320229_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20231119_162320229_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20231119_162320229_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20231123_182831972_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20231123_182831972_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2023",
+      "name": "IMG_20231123_183011807_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20231123_183011807_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240317_152043842_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240317_152043842_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240317_152043842_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240317_152043842_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240422_192816935_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240422_192816935_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240422_192816935_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240422_192816935_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240515_082717849_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240515_082717849_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240515_082717849_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240515_082717849_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240515_082727908_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240515_082727908_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240515_082727908_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240515_082727908_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240515_082730604_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240515_082730604_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240515_082730604_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240515_082730604_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240522_084410511_PORTRAIT.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240522_084410511_PORTRAIT.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240522_084425282_PORTRAIT.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240522_084425282_PORTRAIT.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240522_220032127_PORTRAIT.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240522_220032127_PORTRAIT.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_081318026_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_081318026_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_081318026_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_081318026_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_083034330_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_083034330_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_083034330_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_083034330_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_083307666_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_083307666_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_083307666_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_083307666_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_083309309_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_083309309_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_083309309_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_083309309_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_124104654_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_124104654_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_124104654_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_124104654_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_124156465_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_124156465_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_124156465_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_124156465_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_124416191_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_124416191_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_124416191_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_124416191_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_124759238_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_124759238_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_124759238_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_124759238_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_124800338_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_124800338_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240721_124800338_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240721_124800338_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062025223_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062025223_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062025223_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062025223_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062026814_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062026814_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062026814_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062026814_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062028485_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062028485_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062028485_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062028485_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062132375_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062132375_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062132375_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062132375_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062134527_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062134527_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062134527_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062134527_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062136614_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062136614_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_062136614_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_062136614_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_063655597_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_063655597_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_063655597_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_063655597_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_063657648_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_063657648_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_063657648_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_063657648_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_063659785_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_063659785_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_063659785_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_063659785_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_063701626_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_063701626_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_063701626_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_063701626_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_063703763_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_063703763_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240722_063703763_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240722_063703763_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240920_114249967_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20240920_114249967_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240920_114249967_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240920_114249967_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240920_114249967_BURST002.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240920_114249967_BURST002.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240920_114249967_BURST003.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240920_114249967_BURST003.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240920_114249967_BURST004.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240920_114249967_BURST004.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240920_114249967_BURST005.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240920_114249967_BURST005.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240920_114249967_BURST006.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240920_114249967_BURST006.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240920_114249967_BURST007.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240920_114249967_BURST007.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240920_114249967_BURST008.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240920_114249967_BURST008.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240921_124536455_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240921_124536455_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240921_124536455_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240921_124536455_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240921_124541649_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20240921_124541649_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240921_124601229_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20240921_124601229_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "IMG_20240921_124601229_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20240921_124601229_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2024",
+      "name": "Messenger_creation_1305464150610605.jpeg.suppl.json",
+      "sidecars": 1,
+      "sample": "Messenger_creation_1305464150610605.jpeg.suppl.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20140503_143533275_HDR-COLLAGE.jpg.supplem.json",
+      "sidecars": 1,
+      "sample": "IMG_20140503_143533275_HDR-COLLAGE.jpg.supplem.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20250423_130124363_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20250423_130124363_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20250423_130124363_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20250423_130124363_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20250511_182520195_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20250511_182520195_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20250511_182520195_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20250511_182520195_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20250511_182522964_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20250511_182522964_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20250511_182522964_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20250511_182522964_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20250511_182526309_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20250511_182526309_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20250511_182526309_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20250511_182526309_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20251001_115033991_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20251001_115033991_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20251001_115033991_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20251001_115033991_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20251011_135349626_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20251011_135349626_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20251011_135349626_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20251011_135349626_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20251206_103306377_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20251206_103306377_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20251206_103306377_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20251206_103306377_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20251209_204920489_BURST000_COVER.jpg.supp.json",
+      "sidecars": 1,
+      "sample": "IMG_20251209_204920489_BURST000_COVER.jpg.supp.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20251209_204920489_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20251209_204920489_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "IMG_20251209_204920489_BURST002.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20251209_204920489_BURST002.jpg.supplement.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "Messenger_creation_1036791868670212.jpeg.suppl.json",
+      "sidecars": 1,
+      "sample": "Messenger_creation_1036791868670212.jpeg.suppl.json"
+    },
+    {
+      "folder": "Photos from 2025",
+      "name": "Messenger_creation_4BC55A49-882B-4E2B-B93C-851.json",
+      "sidecars": 1,
+      "sample": "Messenger_creation_4BC55A49-882B-4E2B-B93C-851.json"
+    },
+    {
+      "folder": "Photos from 2026",
+      "name": "IMG_20260203_214159315_BURST000_COVER_COMP.jpg.json",
+      "sidecars": 1,
+      "sample": "IMG_20260203_214159315_BURST000_COVER_COMP.jpg.json"
+    },
+    {
+      "folder": "Photos from 2026",
+      "name": "IMG_20260203_214159315_BURST001.jpg.supplement.json",
+      "sidecars": 1,
+      "sample": "IMG_20260203_214159315_BURST001.jpg.supplement.json"
+    },
+    {
+      "folder": "shared_album_comments.json",
+      "name": "shared_album_comments.json",
+      "sidecars": 1,
+      "sample": "shared_album_comments.json"
+    },
+    {
+      "folder": "StarvedRock",
+      "name": "20210403_111945.jpg",
+      "sidecars": 1,
+      "sample": "20210403_111945.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "StarvedRock",
+      "name": "20210403_114348.jpg",
+      "sidecars": 1,
+      "sample": "20210403_114348.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "StarvedRock",
+      "name": "20210403_114447.jpg",
+      "sidecars": 1,
+      "sample": "20210403_114447.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "StarvedRock",
+      "name": "20210403_114541.jpg",
+      "sidecars": 1,
+      "sample": "20210403_114541.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "StarvedRock",
+      "name": "20210403_115725.jpg",
+      "sidecars": 1,
+      "sample": "20210403_115725.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "StarvedRock",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_070701.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_070701.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_071707.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_071707.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_082711.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_082711.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_141107.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_141107.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_141225.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_141225.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_141531.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_141531.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_142251.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_142251.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_143446.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_143446.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_143822.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_143822.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_145328.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_145328.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_145748.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_145748.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_150041.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_150041.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_151335.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_151335.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_151508.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_151508.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_151710.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_151710.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_152254.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_152254.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_152501.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_152501.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140621_152550.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140621_152550.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140622_170341.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140622_170341.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "IMG_20140623_183822.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140623_183822.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "VID_20140623_171316.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_171316.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "VID_20140623_171326.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_171326.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "VID_20140623_183658.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_183658.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "VID_20140623_183813.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_183813.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "VID_20140623_183944.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_183944.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "VID_20140623_184020.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_184020.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "VID_20140623_184322.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_184322.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "VID_20140623_184716.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_184716.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Trip to Los Angeles and Anaheim",
+      "name": "VID_20140623_184733.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140623_184733.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Untitled",
+      "name": "IMG_20220515_101444913_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220515_101444913_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Untitled",
+      "name": "IMG_20220515_102302376_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220515_102302376_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Untitled",
+      "name": "IMG_20220515_102314158_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220515_102314158_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Untitled",
+      "name": "IMG_20220515_102403363_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220515_102403363_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Untitled",
+      "name": "IMG_20220515_102412484_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220515_102412484_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Untitled",
+      "name": "IMG_20220515_102948061_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220515_102948061_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Untitled",
+      "name": "IMG_20220515_102951435_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220515_102951435_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Untitled",
+      "name": "IMG_20220515_112128325_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220515_112128325_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Untitled",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Untitled(1)",
+      "name": "IMG_20220514_182500828.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220514_182500828.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Untitled(1)",
+      "name": "IMG_20220514_182506330.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220514_182506330.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Untitled(1)",
+      "name": "IMG_20220514_182509943.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20220514_182509943.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Untitled(1)",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Untitled(2)",
+      "name": "20201127_163517-ANIMATION.gif",
+      "sidecars": 1,
+      "sample": "20201127_163517-ANIMATION.gif.supplemental-met.json"
+    },
+    {
+      "folder": "Untitled(2)",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Untitled(3)",
+      "name": "20190529_192131-ANIMATION.gif",
+      "sidecars": 1,
+      "sample": "20190529_192131-ANIMATION.gif.supplemental-met.json"
+    },
+    {
+      "folder": "Untitled(3)",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Untitled(4)",
+      "name": "IMG_20141115_114354.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20141115_114354.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Untitled(4)",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "user-generated-memory-titles.json",
+      "name": "user-generated-memory-titles.json",
+      "sidecars": 1,
+      "sample": "user-generated-memory-titles.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_122606939.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_122606939.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_134205121.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_134205121.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_134246903.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_134246903.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_134552739.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_134552739.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_151303201.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_151303201.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_151348309.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_151348309.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_151458777.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_151458777.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_151642776.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_151642776.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_151957763.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_151957763.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_152623089_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_152623089_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_152901036.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_152901036.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_153023290.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_153023290.jpg.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_153302793_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_153302793_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_153339412_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_153339412_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_153746873_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_153746873_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "IMG_20140528_153924497_HDR.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140528_153924497_HDR.jpg.supplemental-me.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "VID_20140528_133546238.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140528_133546238.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "VID_20140528_134249071.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140528_134249071.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Wednesday morning in Chicago",
+      "name": "VID_20140528_151152432.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140528_151152432.mp4.supplemental-metada.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_142409.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_142409.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_142707.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_142707.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_142812.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_142812.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_144315.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_144315.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_145619.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_145619.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_153245.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_153245.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_153314.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_153314.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_163734.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_163734.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_163929.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_163929.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_164228.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_164228.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_165758-SMILE.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_165758-SMILE.jpg.supplemental-met.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_170203.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_170203.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_170315.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_170315.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_170523.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_170523.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_170612.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_170612.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_181727.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_181727.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_182450.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_182450.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_182507.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140719_182507.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "IMG_20140719_190437-MOTION.gif",
+      "sidecars": 1,
+      "sample": "IMG_20140719_190437-MOTION.gif.supplemental-me.json"
+    },
+    {
+      "folder": "Weekend in Fish Creek",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Weekend in Niagara Falls and Scarborough",
+      "name": "IMG_20140829_144124.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140829_144124.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Niagara Falls and Scarborough",
+      "name": "IMG_20140830_124724.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140830_124724.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Niagara Falls and Scarborough",
+      "name": "IMG_20140830_135813.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140830_135813.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Niagara Falls and Scarborough",
+      "name": "IMG_20140830_141644.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140830_141644.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Niagara Falls and Scarborough",
+      "name": "IMG_20140830_141701.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140830_141701.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Niagara Falls and Scarborough",
+      "name": "IMG_20140830_195523.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140830_195523.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Niagara Falls and Scarborough",
+      "name": "IMG_20140830_203003.jpg",
+      "sidecars": 1,
+      "sample": "IMG_20140830_203003.jpg.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Niagara Falls and Scarborough",
+      "name": "metadata.json",
+      "sidecars": 1,
+      "sample": "metadata.json"
+    },
+    {
+      "folder": "Weekend in Niagara Falls and Scarborough",
+      "name": "VID_20140830_124732.mp4",
+      "sidecars": 1,
+      "sample": "VID_20140830_124732.mp4.supplemental-metadata.json"
+    },
+    {
+      "folder": "Weekend in Niagara Falls and Scarborough",
+      "name": "video-f1863057a47fed78295a68cd0f01b8bb2f39b875.json",
+      "sidecars": 1,
+      "sample": "video-f1863057a47fed78295a68cd0f01b8bb2f39b875.json"
+    }
+  ]
+}

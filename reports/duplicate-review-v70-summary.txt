@@ -1,0 +1,31 @@
+report: reports/scan-hash-v70-post-verify.json
+duplicate_groups: 4626
+duplicate_files: 9252
+potential_reclaim_bytes: 12114248242
+
+Top 25 groups by potential reclaim:
+- dup-4482: 2 files, size_each=[547337839], reclaim=547337839
+- dup-0997: 2 files, size_each=[291694320], reclaim=291694320
+- dup-3122: 2 files, size_each=[234984623], reclaim=234984623
+- dup-0115: 2 files, size_each=[202485548], reclaim=202485548
+- dup-3576: 2 files, size_each=[184111254], reclaim=184111254
+- dup-1385: 2 files, size_each=[170644501], reclaim=170644501
+- dup-2559: 2 files, size_each=[158000483], reclaim=158000483
+- dup-0793: 2 files, size_each=[151596220], reclaim=151596220
+- dup-3182: 2 files, size_each=[147422758], reclaim=147422758
+- dup-3717: 2 files, size_each=[137699028], reclaim=137699028
+- dup-2376: 2 files, size_each=[135267181], reclaim=135267181
+- dup-1281: 2 files, size_each=[130006886], reclaim=130006886
+- dup-4116: 2 files, size_each=[116620680], reclaim=116620680
+- dup-3318: 2 files, size_each=[101877096], reclaim=101877096
+- dup-3240: 2 files, size_each=[92028938], reclaim=92028938
+- dup-0460: 2 files, size_each=[86714542], reclaim=86714542
+- dup-1808: 2 files, size_each=[80511626], reclaim=80511626
+- dup-2160: 2 files, size_each=[75735946], reclaim=75735946
+- dup-0526: 2 files, size_each=[72619486], reclaim=72619486
+- dup-3778: 2 files, size_each=[69815137], reclaim=69815137
+- dup-4055: 2 files, size_each=[68625500], reclaim=68625500
+- dup-3961: 2 files, size_each=[66839964], reclaim=66839964
+- dup-2435: 2 files, size_each=[62770476], reclaim=62770476
+- dup-0020: 2 files, size_each=[61980089], reclaim=61980089
+- dup-3061: 2 files, size_each=[61819286], reclaim=61819286

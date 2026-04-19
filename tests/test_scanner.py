@@ -9,6 +9,7 @@ from contextlib import redirect_stdout
 from unittest.mock import patch
 
 from media_organizer.cli import (
+    build_apply_payload,
     collect_google_photos_matches,
     collect_google_photos_received,
     collect_google_photos_summary,
@@ -18,6 +19,7 @@ from media_organizer.cli import (
     inspect_google_photos_folder,
     main,
     resolve_preview_root,
+    verify_source_matches_report,
 )
 from media_organizer.config import Roots
 from media_organizer.scanner import build_file_record, build_scan_report, infer_date, plan_destination
@@ -1236,6 +1238,288 @@ class ScannerTests(unittest.TestCase):
             self.assertTrue((output_dir / "README.md").exists())
             self.assertTrue((output_dir / "google-photos-summary.json").exists())
             self.assertTrue((output_dir / "google-photos-2014-review.json").exists())
+
+    def test_build_apply_payload_skips_conservative_categories_by_default(self) -> None:
+        report_data = {
+            "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+            "files": [
+                {
+                    "path": "/library/Pictures/imports/IMG_20200101_0001.jpg",
+                    "category": "image",
+                    "date_source": "filename",
+                    "size_bytes": 5,
+                    "modified_at": "2020-01-01T00:00:00",
+                    "proposed_relative_destination": "Library/2020/2020-01-01_imports/IMG_20200101_0001.jpg",
+                },
+                {
+                    "path": "/library/Pictures/imports/IMG_20200101_0001.jpg.json",
+                    "category": "sidecar",
+                    "date_source": "filename",
+                    "size_bytes": 2,
+                    "modified_at": "2020-01-01T00:00:00",
+                    "sidecar_for": "/library/Pictures/imports/IMG_20200101_0001.jpg",
+                    "proposed_relative_destination": "Exports/imports/IMG_20200101_0001.jpg.json",
+                },
+                {
+                    "path": "/library/Pictures/mtime/IMG_1.jpg",
+                    "category": "image",
+                    "date_source": "mtime",
+                    "size_bytes": 1,
+                    "modified_at": "2020-01-01T00:00:00",
+                    "proposed_relative_destination": "Library/2020/2020-01-01_mtime/IMG_1.jpg",
+                },
+                {
+                    "path": "/library/Pictures/dup/IMG_2.jpg",
+                    "category": "image",
+                    "date_source": "filename",
+                    "duplicate_group": "dup-0001",
+                    "size_bytes": 1,
+                    "modified_at": "2020-01-01T00:00:00",
+                    "proposed_relative_destination": "Library/2020/2020-01-01_dup/IMG_2.jpg",
+                },
+                {
+                    "path": "/library/Pictures/.wdmc/thumb.jpg",
+                    "category": "cache",
+                    "date_source": "filename",
+                    "size_bytes": 1,
+                    "modified_at": "2020-01-01T00:00:00",
+                    "proposed_relative_destination": "App-Caches/.wdmc/thumb.jpg",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/received_1.jpeg",
+                    "category": "image",
+                    "date_source": "path",
+                    "size_bytes": 1,
+                    "modified_at": "2024-01-01T00:00:00",
+                    "proposed_relative_destination": "Library/2024/2024-01-01_Photos-from-2024/received_1.jpeg",
+                },
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/IMG_3.jpg.supplemental-met.json",
+                    "category": "sidecar",
+                    "date_source": "path",
+                    "size_bytes": 1,
+                    "modified_at": "2024-01-01T00:00:00",
+                    "proposed_relative_destination": "Exports/google-takeout/Takeout/Google Photos/Photos from 2024/IMG_3.jpg.supplemental-met.json",
+                },
+                {
+                    "path": "/library/Videos/PleasantHarmony/Hymns/hymns.m4v",
+                    "category": "project_video",
+                    "date_source": "filename",
+                    "size_bytes": 1,
+                    "modified_at": "2020-01-01T00:00:00",
+                    "proposed_relative_destination": "Projects/PleasantHarmony/Hymns/hymns.m4v",
+                },
+            ],
+        }
+
+        payload = build_apply_payload(report_data, Path("/tmp/report.json"), Path("/dest"))
+
+        self.assertEqual(len(payload["operations"]), 2)
+        self.assertEqual(
+            [item["source"] for item in payload["operations"]],
+            [
+                "/library/Pictures/imports/IMG_20200101_0001.jpg",
+                "/library/Pictures/imports/IMG_20200101_0001.jpg.json",
+            ],
+        )
+        skipped = {item["path"]: item["reason"] for item in payload["skipped"]}
+        self.assertEqual(skipped["/library/Pictures/mtime/IMG_1.jpg"], "mtime-date")
+        self.assertEqual(skipped["/library/Pictures/dup/IMG_2.jpg"], "duplicate-group")
+        self.assertEqual(skipped["/library/Pictures/.wdmc/thumb.jpg"], "cache")
+        self.assertEqual(
+            skipped["/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/received_1.jpeg"],
+            "google-takeout",
+        )
+        self.assertEqual(
+            skipped["/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/IMG_3.jpg.supplemental-met.json"],
+            "google-takeout",
+        )
+        self.assertEqual(
+            skipped["/library/Videos/PleasantHarmony/Hymns/hymns.m4v"],
+            "pleasantharmony",
+        )
+
+    def test_build_apply_payload_skips_sidecar_when_target_is_excluded(self) -> None:
+        report_data = {
+            "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+            "files": [
+                {
+                    "path": "/library/Pictures/mtime/IMG_1.jpg",
+                    "category": "image",
+                    "date_source": "mtime",
+                    "size_bytes": 1,
+                    "modified_at": "2020-01-01T00:00:00",
+                    "proposed_relative_destination": "Library/2020/2020-01-01_mtime/IMG_1.jpg",
+                },
+                {
+                    "path": "/library/Pictures/mtime/IMG_1.jpg.json",
+                    "category": "sidecar",
+                    "date_source": "filename",
+                    "size_bytes": 1,
+                    "modified_at": "2020-01-01T00:00:00",
+                    "sidecar_for": "/library/Pictures/mtime/IMG_1.jpg",
+                    "proposed_relative_destination": "Exports/mtime/IMG_1.jpg.json",
+                },
+            ],
+        }
+
+        payload = build_apply_payload(report_data, Path("/tmp/report.json"), Path("/dest"))
+
+        self.assertEqual(payload["operations"], [])
+        skipped = {item["path"]: item["reason"] for item in payload["skipped"]}
+        self.assertEqual(skipped["/library/Pictures/mtime/IMG_1.jpg"], "mtime-date")
+        self.assertEqual(skipped["/library/Pictures/mtime/IMG_1.jpg.json"], "sidecar-target-not-selected")
+
+    def test_verify_source_matches_report_rejects_drift(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            source = Path(temp_dir) / "sample.jpg"
+            source.write_bytes(b"abc")
+            operation = {
+                "source": str(source),
+                "destination": str(Path(temp_dir) / "dest" / "sample.jpg"),
+                "size_bytes": 4,
+                "modified_at": datetime.fromtimestamp(source.stat().st_mtime).isoformat(),
+            }
+
+            with self.assertRaises(ValueError):
+                verify_source_matches_report(source, operation)
+
+    def test_verify_source_matches_report_accepts_zero_byte_file(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            source = Path(temp_dir) / "empty.jpg"
+            source.write_bytes(b"")
+            operation = {
+                "source": str(source),
+                "destination": str(Path(temp_dir) / "dest" / "empty.jpg"),
+                "size_bytes": 0,
+                "modified_at": datetime.fromtimestamp(source.stat().st_mtime).isoformat(),
+            }
+
+            verify_source_matches_report(source, operation)
+
+    def test_apply_command_dry_run_writes_manifest(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            report_path = temp_path / "scan.json"
+            manifest_path = temp_path / "manifest.json"
+            report_path.write_text(
+                json.dumps(
+                    {
+                        "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+                        "files": [
+                            {
+                                "path": "/library/Pictures/imports/IMG_20200101_0001.jpg",
+                                "category": "image",
+                                "date_source": "filename",
+                                "size_bytes": 5,
+                                "modified_at": "2020-01-01T00:00:00",
+                                "proposed_relative_destination": "Library/2020/2020-01-01_imports/IMG_20200101_0001.jpg",
+                            }
+                        ],
+                    }
+                ),
+                encoding="utf-8",
+            )
+
+            output = io.StringIO()
+            with redirect_stdout(output):
+                exit_code = main(
+                    [
+                        "apply",
+                        "--report",
+                        str(report_path),
+                        "--dest-root",
+                        str(temp_path / "dest"),
+                        "--manifest",
+                        str(manifest_path),
+                    ]
+                )
+
+            self.assertEqual(exit_code, 0)
+            self.assertIn("Built 1 apply operations and skipped 0 files", output.getvalue())
+            manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+            self.assertEqual(manifest["operation_count"], 1)
+
+    def test_build_apply_payload_can_include_caches_explicitly(self) -> None:
+        report_data = {
+            "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+            "files": [
+                {
+                    "path": "/library/Pictures/.wdmc/thumb.jpg",
+                    "category": "cache",
+                    "date_source": "filename",
+                    "size_bytes": 1,
+                    "modified_at": "2020-01-01T00:00:00",
+                    "proposed_relative_destination": "App-Caches/.wdmc/thumb.jpg",
+                }
+            ],
+        }
+
+        payload = build_apply_payload(
+            report_data,
+            Path("/tmp/report.json"),
+            Path("/dest"),
+            include_caches=True,
+        )
+
+        self.assertEqual(len(payload["operations"]), 1)
+        self.assertEqual(payload["operations"][0]["source"], "/library/Pictures/.wdmc/thumb.jpg")
+
+    def test_build_apply_payload_can_include_google_takeout_explicitly(self) -> None:
+        report_data = {
+            "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+            "files": [
+                {
+                    "path": "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/IMG_1.jpg",
+                    "category": "image",
+                    "date_source": "path",
+                    "size_bytes": 1,
+                    "modified_at": "2024-01-01T00:00:00",
+                    "proposed_relative_destination": "Library/2024/2024-01-01_Photos-from-2024/IMG_1.jpg",
+                }
+            ],
+        }
+
+        payload = build_apply_payload(
+            report_data,
+            Path("/tmp/report.json"),
+            Path("/dest"),
+            include_google_takeout=True,
+        )
+
+        self.assertEqual(len(payload["operations"]), 1)
+        self.assertEqual(
+            payload["operations"][0]["source"],
+            "/library/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/IMG_1.jpg",
+        )
+
+    def test_build_apply_payload_can_include_pleasantharmony_explicitly(self) -> None:
+        report_data = {
+            "roots": {"pictures": "/library/Pictures", "videos": "/library/Videos"},
+            "files": [
+                {
+                    "path": "/library/Videos/PleasantHarmony/Hymns/hymns.m4v",
+                    "category": "project_video",
+                    "date_source": "filename",
+                    "size_bytes": 1,
+                    "modified_at": "2020-01-01T00:00:00",
+                    "proposed_relative_destination": "Projects/PleasantHarmony/Hymns/hymns.m4v",
+                }
+            ],
+        }
+
+        payload = build_apply_payload(
+            report_data,
+            Path("/tmp/report.json"),
+            Path("/dest"),
+            include_pleasantharmony=True,
+        )
+
+        self.assertEqual(len(payload["operations"]), 1)
+        self.assertEqual(
+            payload["operations"][0]["source"],
+            "/library/Videos/PleasantHarmony/Hymns/hymns.m4v",
+        )
 
 
 if __name__ == "__main__":

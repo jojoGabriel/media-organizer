@@ -1,0 +1,122 @@
+report: reports/scan-hash-v68.json
+dest_root: /home/gabriel/organized-media-dry-run
+total_results: 8938
+missing_sources: 8826
+size_mismatches: 104
+conflicts: 8
+
+Size mismatches:
+- /home/gabriel/Pictures/2011/03/31/DSCF6801.JPG -> /home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6801.JPG
+- /home/gabriel/Pictures/2011/03/31/DSCF6802.JPG -> /home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6802.JPG
+- /home/gabriel/Pictures/2011/03/31/DSCF6806.JPG -> /home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6806.JPG
+- /home/gabriel/Pictures/2011/03/31/DSCF6810.JPG -> /home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6810.JPG
+- /home/gabriel/Pictures/2011/03/31/DSCF6811.JPG -> /home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6811.JPG
+- /home/gabriel/Pictures/2011/03/31/DSCF6814.JPG -> /home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6814.JPG
+- /home/gabriel/Pictures/2011/04/01/DSCF6819.JPG -> /home/gabriel/organized-media-dry-run/Library/2011/2011-04-01_Pictures/DSCF6819.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0018.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0018.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0019.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0019.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0020.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0020.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0021.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0021.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0022.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0022.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0023.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0023.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0024.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0024.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0025.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0025.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0026.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0026.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0027.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0027.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0028.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0028.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0029.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0029.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0030.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0030.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0031.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0031.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0032.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0032.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0033.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0033.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0034.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0034.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0035.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0035.JPG
+- /home/gabriel/Pictures/2013/05/18/DSC_0036.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0036.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0037.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0037.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0038.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0038.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0039.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0039.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0040.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0040.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0041.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0041.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0042.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0042.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0043.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0043.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0044.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0044.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0045.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0045.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0046.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0046.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0047.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0047.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0048.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0048.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0049.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0049.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0051.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0051.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0052.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0052.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0053.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0053.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0054.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0054.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0055.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0055.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0056.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0056.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0057.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0057.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0058.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0058.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0059.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0059.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0060.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0060.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0061.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0061.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0062.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0062.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0063.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0063.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0064.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0064.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0065.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0065.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0066.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0066.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0067.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0067.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0068.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0068.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0069.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0069.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0070.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0070.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0071.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0071.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0072.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0072.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0073.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0073.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0074.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0074.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0075.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0075.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0076.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0076.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0077.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0077.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0078.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0078.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0079.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0079.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0080.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0080.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0081.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0081.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0082.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0082.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0083.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0083.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0084.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0084.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0085.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0085.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0086.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0086.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0087.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0087.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0088.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0088.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0089.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0089.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0090.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0090.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0091.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0091.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0092.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0092.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0093.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0093.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0094.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0094.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0095.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0095.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0096.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0096.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0097.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0097.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0098.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0098.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0099.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0099.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0100.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0100.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0101.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0101.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0102.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0102.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0103.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0103.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0104.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0104.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0105.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0105.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0106.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0106.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0107.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0107.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0108.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0108.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0109.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0109.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0110.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0110.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0111.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0111.JPG
+- /home/gabriel/Pictures/2013/05/19/DSC_0112.JPG -> /home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0112.JPG
+- /home/gabriel/Pictures/20140723 and earlier/IMG_20140101_240317606~2.jpg -> /home/gabriel/organized-media-dry-run/Library/2014/2014-01-01_20140723-and-earlier/IMG_20140101_240317606~2.jpg
+- /home/gabriel/Pictures/20140723 and earlier/IMG_20140202_175650716~2.jpg -> /home/gabriel/organized-media-dry-run/Library/2014/2014-02-02_20140723-and-earlier/IMG_20140202_175650716~2.jpg
+- /home/gabriel/Pictures/20140723 and earlier/IMG_20140202_175650716~3.jpg -> /home/gabriel/organized-media-dry-run/Library/2014/2014-02-02_20140723-and-earlier/IMG_20140202_175650716~3.jpg
+
+Conflicts:
+- /home/gabriel/Pictures/Photos/2007/08/18/DSCF0266.JPG -> /home/gabriel/organized-media-dry-run/Library/2007/2007-08-17_Pictures/DSCF0266.JPG
+- /home/gabriel/Pictures/Photos/2007/08/18/DSCF0274.JPG -> /home/gabriel/organized-media-dry-run/Library/2007/2007-08-18_Pictures/DSCF0274.JPG
+- /home/gabriel/Pictures/Photos/2007/09/01/DSCF0546.JPG -> /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0546.JPG
+- /home/gabriel/Pictures/Photos/2007/09/01/DSCF0547.JPG -> /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0547.JPG
+- /home/gabriel/Pictures/Photos/2007/09/01/DSCF0548.JPG -> /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0548.JPG
+- /home/gabriel/Pictures/Photos/2007/09/01/DSCF0549.JPG -> /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0549.JPG
+- /home/gabriel/Pictures/Photos/2007/09/01/DSCF0551.JPG -> /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0551.JPG
+- /home/gabriel/Pictures/Photos/2007/11/22/DSCF0920.JPG -> /home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0920.JPG

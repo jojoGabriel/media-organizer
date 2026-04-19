@@ -1,0 +1,631 @@
+{
+  "report": "reports/scan-hash-v68.json",
+  "dest_root": "/home/gabriel/organized-media-dry-run",
+  "count": 104,
+  "results": [
+    {
+      "source": "/home/gabriel/Pictures/2011/03/31/DSCF6801.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6801.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2011/03/31/DSCF6802.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6802.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2011/03/31/DSCF6806.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6806.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2011/03/31/DSCF6810.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6810.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2011/03/31/DSCF6811.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6811.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2011/03/31/DSCF6814.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2011/2011-03-31_Pictures/DSCF6814.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2011/04/01/DSCF6819.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2011/2011-04-01_Pictures/DSCF6819.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0018.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0018.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0019.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0019.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0020.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0020.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0021.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0021.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0022.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0022.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0023.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0023.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0024.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0024.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0025.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0025.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0026.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0026.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0027.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0027.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0028.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0028.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0029.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0029.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0030.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0030.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0031.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0031.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0032.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0032.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0033.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0033.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0034.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0034.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0035.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0035.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/18/DSC_0036.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-18_Pictures/DSC_0036.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0037.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0037.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0038.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0038.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0039.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0039.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0040.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0040.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0041.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0041.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0042.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0042.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0043.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0043.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0044.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0044.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0045.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0045.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0046.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0046.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0047.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0047.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0048.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0048.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0049.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0049.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0051.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0051.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0052.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0052.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0053.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0053.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0054.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0054.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0055.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0055.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0056.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0056.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0057.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0057.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0058.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0058.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0059.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0059.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0060.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0060.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0061.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0061.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0062.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0062.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0063.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0063.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0064.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0064.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0065.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0065.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0066.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0066.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0067.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0067.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0068.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0068.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0069.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0069.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0070.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0070.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0071.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0071.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0072.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0072.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0073.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0073.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0074.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0074.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0075.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0075.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0076.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0076.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0077.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0077.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0078.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0078.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0079.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0079.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0080.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0080.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0081.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0081.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0082.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0082.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0083.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0083.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0084.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0084.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0085.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0085.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0086.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0086.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0087.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0087.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0088.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0088.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0089.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0089.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0090.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0090.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0091.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0091.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0092.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0092.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0093.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0093.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0094.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0094.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0095.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0095.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0096.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0096.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0097.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0097.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0098.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0098.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0099.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0099.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0100.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0100.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0101.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0101.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0102.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0102.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0103.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0103.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0104.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0104.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0105.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0105.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0106.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0106.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0107.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0107.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0108.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0108.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0109.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0109.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0110.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0110.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0111.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0111.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2013/05/19/DSC_0112.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2013/2013-05-19_Pictures/DSC_0112.JPG",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140101_240317606~2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2014/2014-01-01_20140723-and-earlier/IMG_20140101_240317606~2.jpg",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140202_175650716~2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2014/2014-02-02_20140723-and-earlier/IMG_20140202_175650716~2.jpg",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    },
+    {
+      "source": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140202_175650716~3.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2014/2014-02-02_20140723-and-earlier/IMG_20140202_175650716~3.jpg",
+      "status": "error",
+      "message": "source size no longer matches the saved report"
+    }
+  ]
+}

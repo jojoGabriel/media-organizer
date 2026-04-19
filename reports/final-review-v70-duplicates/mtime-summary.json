@@ -1,0 +1,208 @@
+{
+  "groups": [
+    {
+      "folder": "/home/gabriel/Videos/Pictures/nanay80",
+      "pattern": "<digits>_<digits>_<digits>_n.jpg",
+      "count": 65,
+      "sample": "436363125_806662541380645_2610630878209441441_n.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/morePics",
+      "pattern": "j<digits>.jpg",
+      "count": 2,
+      "sample": "j01.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/morePics",
+      "pattern": "Lola <digits>.jpg",
+      "count": 2,
+      "sample": "Lola 000529.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/nanay80",
+      "pattern": "B<digits>.jpg",
+      "count": 2,
+      "sample": "B18.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/nanay80",
+      "pattern": "C<digits>.jpg",
+      "count": 2,
+      "sample": "C38.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/nanay80",
+      "pattern": "E<digits>.jpg",
+      "count": 2,
+      "sample": "E33.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures",
+      "pattern": "joy.png",
+      "count": 1,
+      "sample": "joy.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "beed<digits>a.jpg",
+      "count": 1,
+      "sample": "beed2a.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "bukid.jpg",
+      "count": 1,
+      "sample": "bukid.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "classroom.jpg",
+      "count": 1,
+      "sample": "classroom.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "denver.jpg",
+      "count": 1,
+      "sample": "denver.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "grad<digits>.jpg",
+      "count": 1,
+      "sample": "grad1.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "myla.jpg",
+      "count": 1,
+      "sample": "myla.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "nayon.jpg",
+      "count": 1,
+      "sample": "nayon.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "nayonStairs.jpg",
+      "count": 1,
+      "sample": "nayonStairs.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "nearDorm.jpg",
+      "count": 1,
+      "sample": "nearDorm.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "practiceTeaching.jpg",
+      "count": 1,
+      "sample": "practiceTeaching.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "practiceTeaching<digits>.jpg",
+      "count": 1,
+      "sample": "practiceTeaching2.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "streetKids.jpg",
+      "count": 1,
+      "sample": "streetKids.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "tagaytay.jpg",
+      "count": 1,
+      "sample": "tagaytay.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "withcecil.jpg",
+      "count": 1,
+      "sample": "withcecil.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/ceu",
+      "pattern": "withmyla.jpg",
+      "count": 1,
+      "sample": "withmyla.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/googleEarth",
+      "pattern": "joy house.png",
+      "count": 1,
+      "sample": "joy house.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/morePics",
+      "pattern": "Gary and Mom.jpg",
+      "count": 1,
+      "sample": "Gary and Mom.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/morePics",
+      "pattern": "Lola <digits> Back.jpg",
+      "count": 1,
+      "sample": "Lola 081099 Back.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/morePics",
+      "pattern": "Lola <digits> Front.jpg",
+      "count": 1,
+      "sample": "Lola 081099 Front.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/nanay80",
+      "pattern": "dw.jpg",
+      "count": 1,
+      "sample": "dw.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/nanay80",
+      "pattern": "E<digits>a.jpg",
+      "count": 1,
+      "sample": "E49a.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/nanay80",
+      "pattern": "F<digits>.jpg",
+      "count": 1,
+      "sample": "F49.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/Pexels",
+      "pattern": "pexels-cottonbro-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-cottonbro-5876759.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/Screenshots",
+      "pattern": "problem.jpg",
+      "count": 1,
+      "sample": "problem.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/Screenshots",
+      "pattern": "Screenshot (<digits>).png",
+      "count": 1,
+      "sample": "Screenshot (1).png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/Wallpapers",
+      "pattern": "lola<digits>.jpg",
+      "count": 1,
+      "sample": "lola1.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/Pictures/Wallpapers",
+      "pattern": "NayTay.png",
+      "count": 1,
+      "sample": "NayTay.png"
+    }
+  ]
+}
