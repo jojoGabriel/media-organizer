@@ -59,7 +59,16 @@ SOURCE_LABEL_ALIASES = {
     "tito osias": "Tito-Osias",
 }
 SPECIAL_DESTINATION_FOLDERS = {
+    "ceu": Path("Shared") / "CEU" / "Undated",
     "nanay80": Path("Shared") / "nanayCora80th",
+    "googleearth": Path("Reference") / "googleEarth",
+    "morepics": Path("Reference") / "Legacy-Scans" / "morePics",
+    "pexels": Path("Reference") / "Pexels",
+    "screenshots": Path("Reference") / "Screenshots",
+    "wallpapers": Path("Reference") / "Wallpapers",
+}
+SPECIAL_DESTINATION_FILES = {
+    "joy.png": Path("Reference") / "Legacy-Scans" / "loose-root" / "joy.png",
 }
 WEAK_SOURCE_LABEL_PATTERNS = (
     re.compile(r"^\d{1,2}$"),
@@ -68,6 +77,9 @@ WEAK_SOURCE_LABEL_PATTERNS = (
     re.compile(r"^(19|20)\d{2}[-_]\d{2}$"),
     re.compile(r"^(19|20)\d{2}[-_]\d{2}[-_]\d{2}$"),
     re.compile(r"^(19|20)\d{2}\d{2}\d{2}$"),
+)
+VIDEO_PROJECT_FILENAME_PATTERNS = (
+    re.compile(r"^cs50w-project\d+\.(mp4|mov|m4v|avi|mkv|webm)$", re.IGNORECASE),
 )
 
 
@@ -625,6 +637,11 @@ def derive_special_destination(path: Path, root_path: Path) -> Optional[str]:
     if not relative.parts:
         return None
 
+    if len(relative.parts) == 1:
+        file_destination = SPECIAL_DESTINATION_FILES.get(relative.name.lower())
+        if file_destination is not None:
+            return str(file_destination)
+
     destination_root = SPECIAL_DESTINATION_FOLDERS.get(relative.parts[0].strip().lower())
     if destination_root is None:
         return None
@@ -641,6 +658,9 @@ def derive_project_destination(path: Path, root_type: str, root_path: Path) -> O
         relative = path.relative_to(root_path)
     except ValueError:
         return None
+
+    if len(relative.parts) == 1 and any(pattern.match(path.name) for pattern in VIDEO_PROJECT_FILENAME_PATTERNS):
+        return str(Path("Projects") / "cs50w" / path.name)
 
     if not any(part.strip().lower() in PROJECT_DIRECTORY_NAMES for part in relative.parts):
         return None

@@ -1,0 +1,46 @@
+{
+  "folders": [
+    {
+      "folder": "Photos from 2022",
+      "media": 13,
+      "sidecars": 13,
+      "date_sources": "metadata,path",
+      "sample": "received_1069417970676173.jpeg"
+    },
+    {
+      "folder": "Photos from 2024",
+      "media": 13,
+      "sidecars": 13,
+      "date_sources": "path",
+      "sample": "received_1192893815039114.jpeg"
+    },
+    {
+      "folder": "Photos from 2021",
+      "media": 12,
+      "sidecars": 12,
+      "date_sources": "path",
+      "sample": "received_1020643685534252.jpeg"
+    },
+    {
+      "folder": "Photos from 2025",
+      "media": 4,
+      "sidecars": 4,
+      "date_sources": "path",
+      "sample": "received_1036453671938781.jpeg"
+    },
+    {
+      "folder": "Photos from 2023",
+      "media": 1,
+      "sidecars": 1,
+      "date_sources": "path",
+      "sample": "received_807535850772371.jpeg"
+    },
+    {
+      "folder": "Jonel 26",
+      "media": 0,
+      "sidecars": 2,
+      "date_sources": "mtime",
+      "sample": "received_265835921918004.jpeg.supplemental-met.json"
+    }
+  ]
+}

@@ -1,0 +1,874 @@
+{
+  "dates": [
+    "2014-05-28",
+    "2014-06-21",
+    "2014-07-19"
+  ],
+  "rest_folder_contains": "/home/gabriel/Pictures/20140723 and earlier",
+  "matches": [
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_122606939.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_122606939-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_122606939.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_133607549.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_133607549-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_133607549.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_133609363.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_133609363-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_133609363.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_134205121.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_134205121-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_134205121.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_134246903.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_134246903-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_134246903.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_134305437.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_134305437-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_134305437.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_134532921.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_134532921-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_134532921.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_134539257.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_134539257-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_134539257.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_134552739.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_134552739-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_134552739.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_134619848.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_134619848-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_134619848.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_134926764.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_134926764-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_134926764.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_134929001.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_134929001-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_134929001.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_134933613.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_134933613-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_134933613.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_151217565.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_151217565-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_151217565.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_151228448.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_151228448-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_151228448.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_151303201.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_151303201-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_151303201.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_151312100.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_151312100-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_151312100.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_151348309.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_151348309-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_151348309.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_151458777.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_151458777-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_151458777.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_151642776.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_151642776-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_151642776.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_151957763.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_151957763-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_151957763.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_152623089_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_152623089_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_152623089_HDR.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_152652751.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_152652751-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_152652751.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_152901036.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_152901036-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_152901036.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153023290.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153023290-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153023290.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153050327_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153050327_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153050327_HDR.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153055182_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153055182_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153055182_HDR.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153240186.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153240186-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153240186.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153302793_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153302793_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153302793_HDR.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153339412_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153339412_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153339412_HDR.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153743549_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153743549_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153743549_HDR.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153746873_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153746873_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153746873_HDR.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153801920_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153801920_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153801920_HDR.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153816327_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153816327_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153816327_HDR.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153907270_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153907270_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153907270_HDR.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153920329_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153920329_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153920329_HDR.jpg"
+    },
+    {
+      "date": "2014-05-28",
+      "name": "IMG_20140528_153924497_HDR.jpg",
+      "google_count": 2,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140528_153924497_HDR-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140528_153924497_HDR.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_070701.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_070701-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_070701.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_071707.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_071707-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_071707.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_082711.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_082711-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_082711.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_122057.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_122057-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_122057.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_141107.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_141107-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_141107.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_141225.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_141225-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_141225.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_141531.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_141531-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_141531.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_142241.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_142241-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_142241.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_142251.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_142251-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_142251.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_142258.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_142258-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_142258.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_143446.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_143446-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_143446.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_143812.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_143812-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_143812.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_143816.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_143816-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_143816.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_143822.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_143822-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_143822.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_145310.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_145310-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_145310.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_145328.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_145328-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_145328.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_145748.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_145748-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_145748.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_150034.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_150034-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_150034.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_150038.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_150038-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_150038.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_150041.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_150041-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_150041.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_151257.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_151257-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_151257.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_151335.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_151335-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_151335.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_151508.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_151508-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_151508.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_151710.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_151710-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_151710.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_152254.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_152254-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_152254.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_152257.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_152257-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_152257.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_152501.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_152501-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_152501.jpg"
+    },
+    {
+      "date": "2014-06-21",
+      "name": "IMG_20140621_152550.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140621_152550-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140621_152550.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_142409.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_142409-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_142409.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_142707.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_142707-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_142707.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_142812.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_142812-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_142812.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_144252.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_144252-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_144252.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_144259.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_144259-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_144259.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_144315.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_144315-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_144315.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_145619.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_145619-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_145619.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_153245.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_153245-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_153245.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_153314.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_153314-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_153314.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_153329.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_153329-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_153329.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_163705.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_163705-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_163705.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_163715.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_163715-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_163715.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_163728.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_163728-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_163728.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_163734.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_163734-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_163734.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_163924.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_163924-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_163924.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_163929.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_163929-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_163929.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_164213.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_164213-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_164213.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_164215.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_164215-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_164215.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_164228.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_164228-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_164228.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_165758.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_165758-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_165758.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_165806.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_165806-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_165806.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_165848.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_165848-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_165848.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_165910.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_165910-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_165910.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_170053.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_170053-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_170053.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_170125.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_170125-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_170125.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_170150.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_170150-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_170150.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_170203.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_170203-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_170203.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_170207.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_170207-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_170207.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_170247.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_170247-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_170247.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_170315.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_170315-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_170315.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_170515.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_170515-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_170515.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_170523.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_170523-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_170523.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_170612.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_170612-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_170612.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_170624.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_170624-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_170624.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_181701.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_181701-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_181701.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_181727.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_181727-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_181727.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_182450.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_182450-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_182450.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_182507.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_182507-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_182507.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_190437.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_190437-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_190437.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_190452.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_190452-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_190452.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_190503.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_190503-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_190503.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_190520.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_190520-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_190520.jpg"
+    },
+    {
+      "date": "2014-07-19",
+      "name": "IMG_20140719_190530.jpg",
+      "google_count": 1,
+      "rest_count": 1,
+      "google_sample": "/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2014/IMG_20140719_190530-edited.jpg",
+      "rest_sample": "/home/gabriel/Pictures/20140723 and earlier/IMG_20140719_190530.jpg"
+    }
+  ]
+}

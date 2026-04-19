@@ -411,7 +411,14 @@ def collect_mtime_summary_groups(report_data: Dict[str, object]) -> List[Dict[st
             continue
         if file_record.get("category") not in {"image", "video", "project_video", "screen_recording"}:
             continue
-        if str(file_record.get("proposed_relative_destination") or "").startswith("Shared/nanayCora80th/"):
+        destination = str(file_record.get("proposed_relative_destination") or "")
+        if destination.startswith("Shared/nanayCora80th/"):
+            continue
+        if destination.startswith("Shared/CEU/Undated/"):
+            continue
+        if destination.startswith("Projects/"):
+            continue
+        if destination.startswith("Reference/"):
             continue
 
         path = Path(file_record["path"])

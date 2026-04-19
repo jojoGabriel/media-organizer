@@ -82,6 +82,21 @@ class ScannerTests(unittest.TestCase):
             self.assertEqual(record.category, "image")
             self.assertEqual(record.proposed_relative_destination, "Projects/PleasantHarmony/logo.png")
 
+    def test_build_file_record_routes_root_cs50w_videos_under_projects(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            videos = temp_path / "Videos"
+            target = videos / "cs50w-project1.mp4"
+            pictures.mkdir()
+            videos.mkdir(exist_ok=True)
+            target.write_bytes(b"video-bytes")
+
+            record = build_file_record(target, root_type="videos", root_path=videos, hash_media=False)
+
+            self.assertEqual(record.category, "video")
+            self.assertEqual(record.proposed_relative_destination, "Projects/cs50w/cs50w-project1.mp4")
+
     def test_build_file_record_routes_project_unknown_files_under_projects(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             temp_path = Path(temp_dir)
@@ -166,6 +181,20 @@ class ScannerTests(unittest.TestCase):
             "Shared/CEU/2016/2016-05-10_CEU/grad1.jpg",
         )
 
+    def test_build_file_record_routes_ceu_to_undated_shared_branch(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            target = pictures / "ceu" / "grad1.jpg"
+            target.parent.mkdir(parents=True)
+            pictures.mkdir(exist_ok=True)
+            target.write_bytes(b"image-bytes")
+
+            record = build_file_record(target, root_type="pictures", root_path=pictures, hash_media=False)
+
+            self.assertEqual(record.category, "image")
+            self.assertEqual(record.proposed_relative_destination, "Shared/CEU/Undated/grad1.jpg")
+
     def test_plan_destination_routes_tito_osias_to_shared_library(self) -> None:
         pictures_root = Path("/library/Pictures")
         tito_osias_path = pictures_root / "Tito Osias" / "IMG_0001.JPG"
@@ -204,6 +233,65 @@ class ScannerTests(unittest.TestCase):
 
             self.assertEqual(record.category, "unknown")
             self.assertEqual(record.proposed_relative_destination, "Shared/nanayCora80th/d1.pdf")
+
+    def test_build_file_record_routes_reference_folders_outside_dated_library(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            pictures.mkdir(exist_ok=True)
+
+            samples = {
+                "Pexels": "pexels-cottonbro-5876759.jpg",
+                "Screenshots": "Screenshot (1).png",
+                "Wallpapers": "NayTay.png",
+                "googleEarth": "joy house.png",
+            }
+
+            for folder, filename in samples.items():
+                target = pictures / folder / filename
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_bytes(b"image-bytes")
+
+                record = build_file_record(target, root_type="pictures", root_path=pictures, hash_media=False)
+
+                self.assertEqual(record.category, "image")
+                self.assertEqual(
+                    record.proposed_relative_destination,
+                    "Reference/{0}/{1}".format(folder, filename),
+                )
+
+    def test_build_file_record_routes_morepics_to_legacy_scans_reference(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            target = pictures / "morePics" / "Lola 081099 Front.jpg"
+            target.parent.mkdir(parents=True)
+            pictures.mkdir(exist_ok=True)
+            target.write_bytes(b"image-bytes")
+
+            record = build_file_record(target, root_type="pictures", root_path=pictures, hash_media=False)
+
+            self.assertEqual(record.category, "image")
+            self.assertEqual(
+                record.proposed_relative_destination,
+                "Reference/Legacy-Scans/morePics/Lola 081099 Front.jpg",
+            )
+
+    def test_build_file_record_routes_loose_scanned_joy_png_to_legacy_scans_reference(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            target = pictures / "joy.png"
+            pictures.mkdir(exist_ok=True)
+            target.write_bytes(b"image-bytes")
+
+            record = build_file_record(target, root_type="pictures", root_path=pictures, hash_media=False)
+
+            self.assertEqual(record.category, "image")
+            self.assertEqual(
+                record.proposed_relative_destination,
+                "Reference/Legacy-Scans/loose-root/joy.png",
+            )
 
     def test_infer_date_prefers_folder_structure_before_mtime(self) -> None:
         pictures_root = Path("/library/Pictures")
@@ -523,6 +611,48 @@ class ScannerTests(unittest.TestCase):
                     "category": "image",
                     "date_source": "mtime",
                     "proposed_relative_destination": "Shared/nanayCora80th/436363125_806662541380645_2610630878209441441_n.jpg",
+                }
+            ]
+        }
+
+        self.assertEqual(collect_mtime_summary_groups(report_data), [])
+
+    def test_collect_mtime_summary_groups_ignores_reference_overrides(self) -> None:
+        report_data = {
+            "files": [
+                {
+                    "path": "/library/Pictures/Screenshots/Screenshot (1).png",
+                    "category": "image",
+                    "date_source": "mtime",
+                    "proposed_relative_destination": "Reference/Screenshots/Screenshot (1).png",
+                }
+            ]
+        }
+
+        self.assertEqual(collect_mtime_summary_groups(report_data), [])
+
+    def test_collect_mtime_summary_groups_ignores_ceu_undated_override(self) -> None:
+        report_data = {
+            "files": [
+                {
+                    "path": "/library/Pictures/ceu/grad1.jpg",
+                    "category": "image",
+                    "date_source": "mtime",
+                    "proposed_relative_destination": "Shared/CEU/Undated/grad1.jpg",
+                }
+            ]
+        }
+
+        self.assertEqual(collect_mtime_summary_groups(report_data), [])
+
+    def test_collect_mtime_summary_groups_ignores_project_overrides(self) -> None:
+        report_data = {
+            "files": [
+                {
+                    "path": "/library/Videos/cs50w-project1.mp4",
+                    "category": "video",
+                    "date_source": "mtime",
+                    "proposed_relative_destination": "Projects/cs50w/cs50w-project1.mp4",
                 }
             ]
         }

@@ -1,0 +1,87 @@
+{
+  "entries": [
+    {
+      "path": "/home/gabriel/Pictures/joy.png",
+      "destination": "Library/2016/2016-06-10_Pictures/joy.png",
+      "inferred_date": "2016-06-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/Gary and Mom.jpg",
+      "destination": "Library/2011/2011-07-16_morePics/Gary and Mom.jpg",
+      "inferred_date": "2011-07-16",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/Lola 000529.jpg",
+      "destination": "Library/2012/2012-03-19_morePics/Lola 000529.jpg",
+      "inferred_date": "2012-03-19",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/Lola 081099 Back.jpg",
+      "destination": "Library/2011/2011-07-10_morePics/Lola 081099 Back.jpg",
+      "inferred_date": "2011-07-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/Lola 081099 Front.jpg",
+      "destination": "Library/2011/2011-07-10_morePics/Lola 081099 Front.jpg",
+      "inferred_date": "2011-07-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/Lola 082299.jpg",
+      "destination": "Library/2012/2012-03-19_morePics/Lola 082299.jpg",
+      "inferred_date": "2012-03-19",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/j01.jpg",
+      "destination": "Library/2011/2011-07-18_morePics/j01.jpg",
+      "inferred_date": "2011-07-18",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/morePics/j02.jpg",
+      "destination": "Library/2011/2011-07-18_morePics/j02.jpg",
+      "inferred_date": "2011-07-18",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/cs50w-project1.mp4",
+      "destination": "Library/2019/2019-09-16_Videos/cs50w-project1.mp4",
+      "inferred_date": "2019-09-16",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    }
+  ]
+}

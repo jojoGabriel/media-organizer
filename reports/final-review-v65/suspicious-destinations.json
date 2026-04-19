@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "path": "/home/gabriel/Pictures/joy.png",
+      "destination": "Library/2016/2016-06-10_Pictures/joy.png",
+      "inferred_date": "2016-06-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    }
+  ]
+}

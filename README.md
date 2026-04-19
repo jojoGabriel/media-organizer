@@ -40,6 +40,7 @@ That command scans both roots, hashes media files, and writes a JSON report with
 
 - Pictures
   - `Library/YYYY/YYYY-MM-DD_source/`
+  - `Reference/`
   - `Exports/`
   - `App-Caches/`
 - Videos
@@ -50,6 +51,20 @@ That command scans both roots, hashes media files, and writes a JSON report with
 
 The current planner only generates proposed destinations. Review those plans
 before adding a future move/apply phase.
+
+Some clearly non-chronological picture folders may route directly to
+`Reference/` instead of the dated `Library/` tree when the folder intent is
+explicit, for example screenshots, wallpapers, stock/reference images, or
+similar utility folders. Legacy scan buckets can also route there when the
+folder clearly behaves like a manual scan/archive holding area rather than a
+dated camera roll. A small number of individually reviewed loose files can also
+be routed directly into `Reference/Legacy-Scans/` when their current root-level
+location is too weak to infer a meaningful dated library destination.
+
+Some named shared collections may also use explicit undated branches when the
+source identity is trustworthy but the inferred day is not. In those cases the
+planner can route items under `Shared/<Collection>/Undated/` rather than
+pretending a file modification date is the real event date.
 
 ## Notes
 

@@ -1,0 +1,208 @@
+{
+  "groups": [
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm",
+      "pattern": "pexels-pixabay-<digits>.jpg",
+      "count": 2,
+      "sample": "pexels-pixabay-290660.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures",
+      "pattern": "joy.png",
+      "count": 1,
+      "sample": "joy.png"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "beed<digits>a.jpg",
+      "count": 1,
+      "sample": "beed2a.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "bukid.jpg",
+      "count": 1,
+      "sample": "bukid.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "classroom.jpg",
+      "count": 1,
+      "sample": "classroom.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "denver.jpg",
+      "count": 1,
+      "sample": "denver.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "grad<digits>.jpg",
+      "count": 1,
+      "sample": "grad1.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "myla.jpg",
+      "count": 1,
+      "sample": "myla.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "nayon.jpg",
+      "count": 1,
+      "sample": "nayon.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "nayonStairs.jpg",
+      "count": 1,
+      "sample": "nayonStairs.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "nearDorm.jpg",
+      "count": 1,
+      "sample": "nearDorm.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "practiceTeaching.jpg",
+      "count": 1,
+      "sample": "practiceTeaching.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "practiceTeaching<digits>.jpg",
+      "count": 1,
+      "sample": "practiceTeaching2.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "streetKids.jpg",
+      "count": 1,
+      "sample": "streetKids.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "tagaytay.jpg",
+      "count": 1,
+      "sample": "tagaytay.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "withcecil.jpg",
+      "count": 1,
+      "sample": "withcecil.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Pictures/ceu",
+      "pattern": "withmyla.jpg",
+      "count": 1,
+      "sample": "withmyla.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos",
+      "pattern": "cs<digits>w-project<digits>.mp<digits>",
+      "count": 1,
+      "sample": "cs50w-project1.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "gd-<digits>.png",
+      "count": 1,
+      "sample": "gd-0051.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "JG.png",
+      "count": 1,
+      "sample": "JG.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "JoJoy.png",
+      "count": 1,
+      "sample": "JoJoy.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "logo.png",
+      "count": 1,
+      "sample": "logo.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "pexels-charlotte-may-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-charlotte-may-5965926.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "pexels-pixabay-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-pixabay-53435.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony",
+      "pattern": "Untitled <digits>.jpg",
+      "count": 1,
+      "sample": "Untitled 2.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/Hymns",
+      "pattern": "hymns.mp<digits>",
+      "count": 1,
+      "sample": "hymns.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/Hymns",
+      "pattern": "hymns.webm",
+      "count": 1,
+      "sample": "hymns.webm"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/RM221115A",
+      "pattern": "pexels-markus-spiske-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-markus-spiske-92658.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/RM221115A",
+      "pattern": "Untitled Project.mp<digits>",
+      "count": 1,
+      "sample": "Untitled Project.mp4"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/RM221115A/thumbnail",
+      "pattern": "TYT<digits>UGPV<digits>C.png",
+      "count": 1,
+      "sample": "TYT5UGPV9C.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/RM221115A/thumbnail",
+      "pattern": "Untitled document.png",
+      "count": 1,
+      "sample": "Untitled document.png"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm",
+      "pattern": "pexels-brent-keane-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-brent-keane-1751731.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm",
+      "pattern": "pexels-north-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-north-1407322.jpg"
+    },
+    {
+      "folder": "/home/gabriel/Videos/PleasantHarmony/UpliftingAcousticsLesfm",
+      "pattern": "pexels-picjumbocom-<digits>.jpg",
+      "count": 1,
+      "sample": "pexels-picjumbocom-225230.jpg"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "path": "/home/gabriel/Pictures/joy.png",
+      "destination": "Library/2016/2016-06-10_Pictures/joy.png",
+      "inferred_date": "2016-06-10",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/cs50w-project1.mp4",
+      "destination": "Library/2019/2019-09-16_Videos/cs50w-project1.mp4",
+      "inferred_date": "2019-09-16",
+      "date_source": "mtime",
+      "reasons": [
+        "mtime-date",
+        "generic-label"
+      ]
+    }
+  ]
+}
