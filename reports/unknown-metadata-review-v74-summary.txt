@@ -1,0 +1,27 @@
+report: reports/scan-hash-v74-post-nonph-mirror-cleanup.json
+count: 16
+total_bytes: 149288
+
+By extension:
+- .xml: 10
+- .db: 2
+- .lvix: 2
+- .log: 2
+
+Files:
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail.db | ext=.db | size=126976 | date_source=mtime
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail_metadata.db | ext=.db | size=20480 | date_source=mtime
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-10-20--09.53.45.xml | ext=.xml | size=110 | date_source=filename
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.37.11.xml | ext=.xml | size=110 | date_source=filename
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.41.54.xml | ext=.xml | size=110 | date_source=filename
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-11-03--17.02.27.xml | ext=.xml | size=110 | date_source=filename
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-11-24--11.46.02.xml | ext=.xml | size=110 | date_source=filename
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-11-26--20.05.44.xml | ext=.xml | size=110 | date_source=filename
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-12-13--18.20.12.xml | ext=.xml | size=110 | date_source=filename
+- /home/gabriel/Pictures/Photos/2007/.comments/2008-01-27--16.03.47.xml | ext=.xml | size=110 | date_source=filename
+- /home/gabriel/Pictures/Photos/2008/.comments/2008-04-16--21.19.57.xml | ext=.xml | size=110 | date_source=filename
+- /home/gabriel/Pictures/Photos/2008/.comments/2008-04-20--18.53.11.xml | ext=.xml | size=110 | date_source=filename
+- /home/gabriel/Pictures/Pictures from ates camera/199_0510/MVI_0437.MOV.lvix | ext=.lvix | size=256 | date_source=path
+- /home/gabriel/Pictures/summer2014/MVI_0894.MOV.lvix | ext=.lvix | size=256 | date_source=mtime
+- /home/gabriel/Videos/hymns.mp4.log | ext=.log | size=110 | date_source=mtime
+- /home/gabriel/Videos/untitled.mp4.log | ext=.log | size=110 | date_source=mtime

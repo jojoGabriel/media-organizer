@@ -1,0 +1,1772 @@
+{
+  "summary": {
+    "report": "reports/scan-hash-v73-post-thumbs-cleanup.json",
+    "count": 101,
+    "total_bytes": 65050794,
+    "by_extension": [
+      [
+        ".pdf",
+        30
+      ],
+      [
+        "<none>",
+        23
+      ],
+      [
+        ".xml",
+        20
+      ],
+      [
+        ".kdenlive",
+        9
+      ],
+      [
+        ".wmv",
+        4
+      ],
+      [
+        ".db",
+        4
+      ],
+      [
+        ".lvix",
+        4
+      ],
+      [
+        ".phd",
+        2
+      ],
+      [
+        ".xcf",
+        2
+      ],
+      [
+        ".log",
+        2
+      ],
+      [
+        ".flv",
+        1
+      ]
+    ]
+  },
+  "files": [
+    {
+      "path": "/home/gabriel/Pictures/2011/08/03/Jahna.wmv",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".wmv",
+      "size_bytes": 8550075,
+      "modified_at": "2011-08-03T19:47:54",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2011-08-03",
+      "date_source": "path",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel.phd",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".phd",
+      "size_bytes": 753664,
+      "modified_at": "2014-10-07T13:13:26",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/10_original",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 70527,
+      "modified_at": "2014-10-07T13:13:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/20_original",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 71003,
+      "modified_at": "2014-10-07T13:13:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/28_original",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 110948,
+      "modified_at": "2014-10-07T13:13:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/36_original",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 77737,
+      "modified_at": "2014-10-07T13:12:58",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/45_original",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 25205,
+      "modified_at": "2014-10-07T13:12:58",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/53_original",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 111358,
+      "modified_at": "2014-10-07T13:13:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/61_original",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 97182,
+      "modified_at": "2014-10-07T13:12:58",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/68_original",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 771081,
+      "modified_at": "2014-10-07T13:12:58",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/76_original",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 69267,
+      "modified_at": "2014-10-07T13:13:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/84_original",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 80056,
+      "modified_at": "2014-10-07T13:12:58",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/92_original",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 28065,
+      "modified_at": "2014-10-07T13:13:02",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail.db",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".db",
+      "size_bytes": 126976,
+      "modified_at": "2014-10-07T13:13:28",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail_metadata.db",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".db",
+      "size_bytes": 20480,
+      "modified_at": "2014-10-07T13:12:48",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-20--09.53.45.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-10-20T08:53:44",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-10-20",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.37.11.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-10-28T18:37:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-10-28",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.41.54.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-10-28T18:41:54",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-10-28",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-03--17.02.27.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-11-03T16:02:26",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-11-03",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-24--11.46.02.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-11-24T10:46:02",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-11-24",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-26--20.05.44.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-11-26T19:05:44",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-11-26",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-12-13--18.20.12.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-12-13T17:20:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-12-13",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2008-01-27--16.03.47.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2008-01-27T15:03:46",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2008-01-27",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2008/.comments/2008-04-16--21.19.57.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2008-04-16T20:19:56",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2008-04-16",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2008/.comments/2008-04-20--18.53.11.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2008-04-20T17:53:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2008-04-20",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2010/05/09/mother's day.xcf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xcf",
+      "size_bytes": 9871287,
+      "modified_at": "2010-05-09T19:16:50",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2010-05-09",
+      "date_source": "path",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Pictures from ates camera/199_0510/MVI_0437.MOV.lvix",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".lvix",
+      "size_bytes": 256,
+      "modified_at": "2014-05-11T14:27:30",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-05-10",
+      "date_source": "path",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Scanned Document.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 288169,
+      "modified_at": "2016-05-10T13:44:06",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Youcam/Capture_20100716.wmv",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".wmv",
+      "size_bytes": 7677910,
+      "modified_at": "2010-07-16T13:35:32",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2010-07-16",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/d1.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 99396,
+      "modified_at": "2024-04-22T17:04:08.503513",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/d1.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/d2.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 129762,
+      "modified_at": "2024-04-22T17:04:25.739856",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/d2.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/d3.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 301542,
+      "modified_at": "2024-04-22T17:04:44.268222",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/d3.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/dd1.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 181998,
+      "modified_at": "2024-04-22T16:58:25.798180",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/dd1.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/dj1.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 126151,
+      "modified_at": "2024-04-21T21:44:25.465556",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/dj1.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/dj2.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 143694,
+      "modified_at": "2024-04-21T21:46:37.915180",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/dj2.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/dj3.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 44661,
+      "modified_at": "2024-04-21T21:49:15.053139",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/dj3.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/do1.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 288063,
+      "modified_at": "2024-04-21T21:32:38.589725",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/do1.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/do2.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 303780,
+      "modified_at": "2024-04-22T16:57:45.005614",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/do2.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/jd1.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 142368,
+      "modified_at": "2024-04-21T21:41:44.795629",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/jd1.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/jj1.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 214498,
+      "modified_at": "2024-04-21T21:39:57.906382",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/jj1.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/jj2.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 127086,
+      "modified_at": "2024-04-22T17:07:26.903301",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/jj2.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/odj1.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 140641,
+      "modified_at": "2024-04-22T17:09:19.633319",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/odj1.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/oj2.pdf",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 143852,
+      "modified_at": "2024-04-22T17:08:38.940600",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": "Shared/nanayCora80th/oj2.pdf",
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0894.MOV.lvix",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".lvix",
+      "size_bytes": 256,
+      "modified_at": "2014-07-22T07:12:28",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-07-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/2021-04-22 20-15-41.flv",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".flv",
+      "size_bytes": 344508,
+      "modified_at": "2021-04-22T20:15:55.675757",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2021-04-22",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTintroTemplate.kdenlive",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".kdenlive",
+      "size_bytes": 31424,
+      "modified_at": "2021-04-20T19:20:41.520855",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2021-04-20",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTintroTemplate_backup0.kdenlive",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".kdenlive",
+      "size_bytes": 21994,
+      "modified_at": "2021-04-20T05:59:46.129994",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2021-04-20",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTintroTemplate_backup1.kdenlive",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".kdenlive",
+      "size_bytes": 31503,
+      "modified_at": "2021-04-20T19:18:42.878874",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2021-04-20",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTsub.kdenlive",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".kdenlive",
+      "size_bytes": 23050,
+      "modified_at": "2021-04-19T16:37:53.812893",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2021-04-19",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/basicClipping-3000.kdenlive",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".kdenlive",
+      "size_bytes": 37972,
+      "modified_at": "2021-04-15T19:23:19.177331",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2021-04-15",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/basicClipping.kdenlive",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".kdenlive",
+      "size_bytes": 21213,
+      "modified_at": "2021-04-15T16:10:14.110373",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2021-04-15",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/kdenBasic-3000.kdenlive",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".kdenlive",
+      "size_bytes": 19269,
+      "modified_at": "2020-12-24T00:51:38",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2020-12-24",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/kdenBasic.kdenlive",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".kdenlive",
+      "size_bytes": 19237,
+      "modified_at": "2020-12-24T00:51:38",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2020-12-24",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/2011/08/03/Jahna.wmv",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".wmv",
+      "size_bytes": 8550075,
+      "modified_at": "2011-08-03T19:47:54",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2011-08-03",
+      "date_source": "path",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel.phd",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".phd",
+      "size_bytes": 753664,
+      "modified_at": "2014-10-07T13:13:26",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/10_original",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 70527,
+      "modified_at": "2014-10-07T13:13:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/20_original",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 71003,
+      "modified_at": "2014-10-07T13:13:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/28_original",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 110948,
+      "modified_at": "2014-10-07T13:13:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/36_original",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 77737,
+      "modified_at": "2014-10-07T13:12:58",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/45_original",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 25205,
+      "modified_at": "2014-10-07T13:12:58",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/53_original",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 111358,
+      "modified_at": "2014-10-07T13:13:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/61_original",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 97182,
+      "modified_at": "2014-10-07T13:12:58",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/68_original",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 771081,
+      "modified_at": "2014-10-07T13:12:58",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/76_original",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 69267,
+      "modified_at": "2014-10-07T13:13:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/84_original",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 80056,
+      "modified_at": "2014-10-07T13:12:58",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/92_original",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 28065,
+      "modified_at": "2014-10-07T13:13:02",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail.db",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".db",
+      "size_bytes": 126976,
+      "modified_at": "2014-10-07T13:13:28",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail_metadata.db",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".db",
+      "size_bytes": 20480,
+      "modified_at": "2014-10-07T13:12:48",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-10-20--09.53.45.xml",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-10-20T08:53:44",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-10-20",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-10-28--19.37.11.xml",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-10-28T18:37:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-10-28",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-10-28--19.41.54.xml",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-10-28T18:41:54",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-10-28",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-11-03--17.02.27.xml",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-11-03T16:02:26",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-11-03",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-11-24--11.46.02.xml",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-11-24T10:46:02",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-11-24",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-11-26--20.05.44.xml",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-11-26T19:05:44",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-11-26",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-12-13--18.20.12.xml",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-12-13T17:20:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-12-13",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2008-01-27--16.03.47.xml",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2008-01-27T15:03:46",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2008-01-27",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2008/.comments/2008-04-16--21.19.57.xml",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2008-04-16T20:19:56",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2008-04-16",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2008/.comments/2008-04-20--18.53.11.xml",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2008-04-20T17:53:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2008-04-20",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2010/05/09/mother's day.xcf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".xcf",
+      "size_bytes": 9871287,
+      "modified_at": "2010-05-09T19:16:50",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2010-05-09",
+      "date_source": "path",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Pictures from ates camera/199_0510/MVI_0437.MOV.lvix",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".lvix",
+      "size_bytes": 256,
+      "modified_at": "2014-05-11T14:27:30",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-05-10",
+      "date_source": "path",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Scanned Document.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 288169,
+      "modified_at": "2016-05-10T13:44:06",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2016-05-10",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Youcam/Capture_20100716.wmv",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".wmv",
+      "size_bytes": 7677910,
+      "modified_at": "2010-07-16T13:35:32",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2010-07-16",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/d1.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 99396,
+      "modified_at": "2024-04-22T17:04:08.503513",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/d2.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 129762,
+      "modified_at": "2024-04-22T17:04:25.739856",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/d3.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 301542,
+      "modified_at": "2024-04-22T17:04:44.268222",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/dd1.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 181998,
+      "modified_at": "2024-04-22T16:58:25.798180",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/dj1.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 126151,
+      "modified_at": "2024-04-21T21:44:25.465556",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/dj2.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 143694,
+      "modified_at": "2024-04-21T21:46:37.915180",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/dj3.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 44661,
+      "modified_at": "2024-04-21T21:49:15.053139",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/do1.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 288063,
+      "modified_at": "2024-04-21T21:32:38.589725",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/do2.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 303780,
+      "modified_at": "2024-04-22T16:57:45.005614",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/jd1.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 142368,
+      "modified_at": "2024-04-21T21:41:44.795629",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/jj1.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 214498,
+      "modified_at": "2024-04-21T21:39:57.906382",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-21",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/jj2.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 127086,
+      "modified_at": "2024-04-22T17:07:26.903301",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/odj1.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 140641,
+      "modified_at": "2024-04-22T17:09:19.633319",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/oj2.pdf",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".pdf",
+      "size_bytes": 143852,
+      "modified_at": "2024-04-22T17:08:38.940600",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-04-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/summer2014/MVI_0894.MOV.lvix",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".lvix",
+      "size_bytes": 256,
+      "modified_at": "2014-07-22T07:12:28",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-07-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/YTintroTemplate-3000.kdenlive",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".kdenlive",
+      "size_bytes": 0,
+      "modified_at": "2021-04-20T18:15:14.314611",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2021-04-20",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/digitalDiary/speedReader",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": "",
+      "size_bytes": 2120216,
+      "modified_at": "2024-07-31T17:41:52.444912",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2024-07-31",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/hymns.mp4.log",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".log",
+      "size_bytes": 110,
+      "modified_at": "2021-12-31T06:23:17.275105",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2021-12-31",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/untitled.mp4.log",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".log",
+      "size_bytes": 110,
+      "modified_at": "2025-11-09T17:00:15.073887",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2025-11-09",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    }
+  ]
+}

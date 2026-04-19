@@ -1,0 +1,199 @@
+[dup-4482] reclaim=547337839 size_each=[547337839]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_141013280.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_141013280.mp4
+
+[dup-0997] reclaim=291694320 size_each=[291694320]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124255254.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124255254.mp4
+
+[dup-3122] reclaim=234984623 size_each=[234984623]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124029024.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124029024.mp4
+
+[dup-0115] reclaim=202485548 size_each=[202485548]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_115338086.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_115338086.mp4
+
+[dup-3576] reclaim=184111254 size_each=[184111254]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124636616.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124636616.mp4
+
+[dup-1385] reclaim=170644501 size_each=[170644501]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250115_172813876.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250115_172813876.mp4
+
+[dup-2559] reclaim=158000483 size_each=[158000483]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_125003490.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_125003490.mp4
+
+[dup-0793] reclaim=151596220 size_each=[151596220]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_180045505.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_180045505.mp4
+
+[dup-3182] reclaim=147422758 size_each=[147422758]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_102645259.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_102645259.mp4
+
+[dup-3717] reclaim=137699028 size_each=[137699028]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_130000007.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_130000007.mp4
+
+[dup-2376] reclaim=135267181 size_each=[135267181]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_114747029.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_114747029.mp4
+
+[dup-1281] reclaim=130006886 size_each=[130006886]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_174105851.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_174105851.mp4
+
+[dup-4116] reclaim=116620680 size_each=[116620680]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2015/VID_20151129_202843.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2015/VID_20151129_202843.mp4
+
+[dup-3318] reclaim=101877096 size_each=[101877096]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220417_121559262.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220417_121559262.mp4
+
+[dup-3240] reclaim=92028938 size_each=[92028938]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240923_103049596.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240923_103049596.mp4
+
+[dup-0460] reclaim=86714542 size_each=[86714542]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_124306978.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_124306978.mp4
+
+[dup-1808] reclaim=80511626 size_each=[80511626]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_175123148.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_175123148.mp4
+
+[dup-2160] reclaim=75735946 size_each=[75735946]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_180237800.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_180237800.mp4
+
+[dup-0526] reclaim=72619486 size_each=[72619486]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250419_120325628.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250419_120325628.mp4
+
+[dup-3778] reclaim=69815137 size_each=[69815137]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240419_210426173.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240419_210426173.mp4
+
+[dup-4055] reclaim=68625500 size_each=[68625500]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2018/20180706_222033.gif
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2018/20180706_222033.gif
+
+[dup-3961] reclaim=66839964 size_each=[66839964]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/20171227_103907.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/20171227_103907.mp4
+
+[dup-2435] reclaim=62770476 size_each=[62770476]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250526_160453285.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250526_160453285.mp4
+
+[dup-0020] reclaim=61980089 size_each=[61980089]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240923_093111182.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240923_093111182.mp4
+
+[dup-3061] reclaim=61819286 size_each=[61819286]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2023/VID_20230202_082801925.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2023/VID_20230202_082801925.mp4
+
+[dup-0924] reclaim=61545704 size_each=[61545704]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240922_120953301.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240922_120953301.mp4
+
+[dup-1925] reclaim=60272773 size_each=[60272773]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240808_184617926.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240808_184617926.mp4
+
+[dup-0168] reclaim=59632593 size_each=[59632593]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_174229375.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_174229375.mp4
+
+[dup-2347] reclaim=57348329 size_each=[57348329]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240810_081625851.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240810_081625851.mp4
+
+[dup-1838] reclaim=55894758 size_each=[55894758]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/20171228_095631.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/20171228_095631.mp4
+
+[dup-4331] reclaim=52584342 size_each=[52584342]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250725_153825829.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250725_153825829.mp4
+
+[dup-4356] reclaim=48611090 size_each=[48611090]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2023/VID_20230529_200005428.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2023/VID_20230529_200005428.mp4
+
+[dup-3056] reclaim=42212469 size_each=[42212469]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2023/VID_20230419_194432339.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2023/VID_20230419_194432339.mp4
+
+[dup-4078] reclaim=41693819 size_each=[41693819]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250725_154126596.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250725_154126596.mp4
+
+[dup-0269] reclaim=40650382 size_each=[40650382]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20221029_191047637.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20221029_191047637.mp4
+
+[dup-2141] reclaim=40158720 size_each=[40158720]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_123829106.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_123829106.mp4
+
+[dup-1982] reclaim=38568197 size_each=[38568197]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2016/VID_20160101_001037.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2016/VID_20160101_001037.mp4
+
+[dup-3558] reclaim=36992312 size_each=[36992312]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2015/VID_20151205_163502849.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2015/VID_20151205_163502849.mp4
+
+[dup-1996] reclaim=35872893 size_each=[35872893]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2020/20201115_191204.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2020/20201115_191204.mp4
+
+[dup-0429] reclaim=35073725 size_each=[35073725]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_103003036.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_103003036.mp4
+
+[dup-4097] reclaim=35018647 size_each=[35018647]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_174601055.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_174601055.mp4
+
+[dup-0431] reclaim=33650486 size_each=[33650486]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/20170702_130456.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/20170702_130456.mp4
+
+[dup-1154] reclaim=32965263 size_each=[32965263]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/VID_20211114_190102643.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2021/VID_20211114_190102643.mp4
+
+[dup-2212] reclaim=31937440 size_each=[31937440]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/VID_20170113_200913.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/VID_20170113_200913.mp4
+
+[dup-2690] reclaim=31172851 size_each=[31172851]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2016/VID_20160625_182011301.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2016/VID_20160625_182011301.mp4
+
+[dup-2440] reclaim=30733824 size_each=[30733824]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_140944343.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_140944343.mp4
+
+[dup-1030] reclaim=29907905 size_each=[29907905]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/20170701_214714.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/20170701_214714.mp4
+
+[dup-0583] reclaim=29816641 size_each=[29816641]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2020/20200908_190856_1.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2020/20200908_190856_1.mp4
+
+[dup-1020] reclaim=29325562 size_each=[29325562]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2020/20200908_190856.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2020/20200908_190856.mp4
+
+[dup-1282] reclaim=28743434 size_each=[28743434]
+/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_181951165.mp4
+/home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_181951165.mp4

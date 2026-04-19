@@ -1,0 +1,31 @@
+source_report: reports/duplicate-review-v71.json
+plan_count: 111
+keep_root: /home/gabriel/Pictures
+delete_root: /home/gabriel/Videos/Pictures
+reclaim_bytes: 35593770
+
+- dup-0044: delete /home/gabriel/Videos/Pictures/googleEarth/joy house.png (keep /home/gabriel/Pictures/googleEarth/joy house.png)
+- dup-0088: delete /home/gabriel/Videos/Pictures/morePics/Lola 081099 Back.jpg (keep /home/gabriel/Pictures/morePics/Lola 081099 Back.jpg)
+- dup-0081: delete /home/gabriel/Videos/Pictures/morePics/Lola 000529.jpg (keep /home/gabriel/Pictures/morePics/Lola 000529.jpg)
+- dup-0109: delete /home/gabriel/Videos/Pictures/morePics/Lola 081099 Front.jpg (keep /home/gabriel/Pictures/morePics/Lola 081099 Front.jpg)
+- dup-0061: delete /home/gabriel/Videos/Pictures/Pexels/pexels-cottonbro-5876759.jpg (keep /home/gabriel/Pictures/Pexels/pexels-cottonbro-5876759.jpg)
+- dup-0060: delete /home/gabriel/Videos/Pictures/Photos/2007/11/22/DSCF0920.JPG (keep /home/gabriel/Pictures/Photos/2007/11/22/DSCF0920.JPG)
+- dup-0067: delete /home/gabriel/Videos/Pictures/Photos/2007/08/18/DSCF0274.JPG (keep /home/gabriel/Pictures/Photos/2007/08/18/DSCF0274.JPG)
+- dup-0014: delete /home/gabriel/Videos/Pictures/Photos/2007/09/01/DSCF0546.JPG (keep /home/gabriel/Pictures/Photos/2007/09/01/DSCF0546.JPG)
+- dup-0065: delete /home/gabriel/Videos/Pictures/Photos/2007/09/01/DSCF0547.JPG (keep /home/gabriel/Pictures/Photos/2007/09/01/DSCF0547.JPG)
+- dup-0057: delete /home/gabriel/Videos/Pictures/Photos/2007/09/01/DSCF0551.JPG (keep /home/gabriel/Pictures/Photos/2007/09/01/DSCF0551.JPG)
+- dup-0107: delete /home/gabriel/Videos/Pictures/Photos/2007/09/01/DSCF0549.JPG (keep /home/gabriel/Pictures/Photos/2007/09/01/DSCF0549.JPG)
+- dup-0063: delete /home/gabriel/Videos/Pictures/Photos/2007/09/01/DSCF0548.JPG (keep /home/gabriel/Pictures/Photos/2007/09/01/DSCF0548.JPG)
+- dup-0091: delete /home/gabriel/Videos/Pictures/Photos/2007/08/18/DSCF0266.JPG (keep /home/gabriel/Pictures/Photos/2007/08/18/DSCF0266.JPG)
+- dup-0108: delete /home/gabriel/Videos/Pictures/Screenshots/Screenshot (1).png (keep /home/gabriel/Pictures/Screenshots/Screenshot (1).png)
+- dup-0026: delete /home/gabriel/Videos/Pictures/morePics/j02.jpg (keep /home/gabriel/Pictures/morePics/j02.jpg)
+- dup-0066: delete /home/gabriel/Videos/Pictures/Wallpapers/NayTay.png (keep /home/gabriel/Pictures/Wallpapers/NayTay.png)
+- dup-0001: delete /home/gabriel/Videos/Pictures/morePics/Lola 082299.jpg (keep /home/gabriel/Pictures/morePics/Lola 082299.jpg)
+- dup-0016: delete /home/gabriel/Videos/Pictures/nanay80/438032564_477443737938973_5184831729231331657_n.jpg (keep /home/gabriel/Pictures/nanay80/438032564_477443737938973_5184831729231331657_n.jpg)
+- dup-0052: delete /home/gabriel/Videos/Pictures/nanay80/438032523_941165597701955_2226201503651003174_n.jpg (keep /home/gabriel/Pictures/nanay80/438032523_941165597701955_2226201503651003174_n.jpg)
+- dup-0033: delete /home/gabriel/Videos/Pictures/nanay80/437971926_2536395079874054_4119182531898318036_n.jpg (keep /home/gabriel/Pictures/nanay80/437971926_2536395079874054_4119182531898318036_n.jpg)
+- dup-0092: delete /home/gabriel/Videos/Pictures/ceu/beed2a.jpg (keep /home/gabriel/Pictures/ceu/beed2a.jpg)
+- dup-0056: delete /home/gabriel/Videos/Pictures/nanay80/438137650_1147792949586024_1801865640287794593_n.jpg (keep /home/gabriel/Pictures/nanay80/438137650_1147792949586024_1801865640287794593_n.jpg)
+- dup-0079: delete /home/gabriel/Videos/Pictures/nanay80/438196388_403211049343133_2180544789183065087_n.jpg (keep /home/gabriel/Pictures/nanay80/438196388_403211049343133_2180544789183065087_n.jpg)
+- dup-0070: delete /home/gabriel/Videos/Pictures/nanay80/436596659_1732807307210465_9100502324467555437_n.jpg (keep /home/gabriel/Pictures/nanay80/436596659_1732807307210465_9100502324467555437_n.jpg)
+- dup-0054: delete /home/gabriel/Videos/Pictures/nanay80/438209007_801091335253374_2436985126210473241_n.jpg (keep /home/gabriel/Pictures/nanay80/438209007_801091335253374_2436985126210473241_n.jpg)

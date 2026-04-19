@@ -1,0 +1,299 @@
+{
+  "summary": {
+    "report": "reports/scan-hash-v74-post-nonph-mirror-cleanup.json",
+    "count": 16,
+    "total_bytes": 149288,
+    "by_extension": [
+      [
+        ".xml",
+        10
+      ],
+      [
+        ".db",
+        2
+      ],
+      [
+        ".lvix",
+        2
+      ],
+      [
+        ".log",
+        2
+      ]
+    ]
+  },
+  "files": [
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail.db",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".db",
+      "size_bytes": 126976,
+      "modified_at": "2014-10-07T13:13:28",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail_metadata.db",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".db",
+      "size_bytes": 20480,
+      "modified_at": "2014-10-07T13:12:48",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-10-07",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-20--09.53.45.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-10-20T08:53:44",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-10-20",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.37.11.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-10-28T18:37:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-10-28",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.41.54.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-10-28T18:41:54",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-10-28",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-03--17.02.27.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-11-03T16:02:26",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-11-03",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-24--11.46.02.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-11-24T10:46:02",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-11-24",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-26--20.05.44.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-11-26T19:05:44",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-11-26",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-12-13--18.20.12.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2007-12-13T17:20:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2007-12-13",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2008-01-27--16.03.47.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2008-01-27T15:03:46",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2008-01-27",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2008/.comments/2008-04-16--21.19.57.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2008-04-16T20:19:56",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2008-04-16",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2008/.comments/2008-04-20--18.53.11.xml",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".xml",
+      "size_bytes": 110,
+      "modified_at": "2008-04-20T17:53:10",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2008-04-20",
+      "date_source": "filename",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/Pictures from ates camera/199_0510/MVI_0437.MOV.lvix",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".lvix",
+      "size_bytes": 256,
+      "modified_at": "2014-05-11T14:27:30",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-05-10",
+      "date_source": "path",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0894.MOV.lvix",
+      "root_type": "pictures",
+      "category": "unknown",
+      "extension": ".lvix",
+      "size_bytes": 256,
+      "modified_at": "2014-07-22T07:12:28",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2014-07-22",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/hymns.mp4.log",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".log",
+      "size_bytes": 110,
+      "modified_at": "2021-12-31T06:23:17.275105",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2021-12-31",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    },
+    {
+      "path": "/home/gabriel/Videos/untitled.mp4.log",
+      "root_type": "videos",
+      "category": "unknown",
+      "extension": ".log",
+      "size_bytes": 110,
+      "modified_at": "2025-11-09T17:00:15.073887",
+      "sha256": null,
+      "duplicate_group": null,
+      "inferred_date": "2025-11-09",
+      "date_source": "mtime",
+      "proposed_relative_destination": null,
+      "sidecar_for": null,
+      "notes": [
+        "unclassified extension"
+      ]
+    }
+  ]
+}

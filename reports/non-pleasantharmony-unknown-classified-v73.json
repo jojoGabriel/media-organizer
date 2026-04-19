@@ -1,0 +1,462 @@
+{
+  "summary": {
+    "source_report": "reports/non-pleasantharmony-unknown-review-v73.json",
+    "mirror_count": 44,
+    "metadata_count": 25,
+    "keep_count": 32
+  },
+  "mirror": [
+    {
+      "path": "/home/gabriel/Videos/Pictures/2011/08/03/Jahna.wmv",
+      "counterpart": "/home/gabriel/Pictures/2011/08/03/Jahna.wmv",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel.phd",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel.phd",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/10_original",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/10_original",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/20_original",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/20_original",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/28_original",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/28_original",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/36_original",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/36_original",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/45_original",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/45_original",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/53_original",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/53_original",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/61_original",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/61_original",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/68_original",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/68_original",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/76_original",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/76_original",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/84_original",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/84_original",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/92_original",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/92_original",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail.db",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail.db",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail_metadata.db",
+      "counterpart": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail_metadata.db",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-10-20--09.53.45.xml",
+      "counterpart": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-20--09.53.45.xml",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-10-28--19.37.11.xml",
+      "counterpart": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.37.11.xml",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-10-28--19.41.54.xml",
+      "counterpart": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.41.54.xml",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-11-03--17.02.27.xml",
+      "counterpart": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-03--17.02.27.xml",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-11-24--11.46.02.xml",
+      "counterpart": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-24--11.46.02.xml",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-11-26--20.05.44.xml",
+      "counterpart": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-26--20.05.44.xml",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-12-13--18.20.12.xml",
+      "counterpart": "/home/gabriel/Pictures/Photos/2007/.comments/2007-12-13--18.20.12.xml",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2007/.comments/2008-01-27--16.03.47.xml",
+      "counterpart": "/home/gabriel/Pictures/Photos/2007/.comments/2008-01-27--16.03.47.xml",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2008/.comments/2008-04-16--21.19.57.xml",
+      "counterpart": "/home/gabriel/Pictures/Photos/2008/.comments/2008-04-16--21.19.57.xml",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2008/.comments/2008-04-20--18.53.11.xml",
+      "counterpart": "/home/gabriel/Pictures/Photos/2008/.comments/2008-04-20--18.53.11.xml",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Photos/2010/05/09/mother's day.xcf",
+      "counterpart": "/home/gabriel/Pictures/Photos/2010/05/09/mother's day.xcf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Pictures from ates camera/199_0510/MVI_0437.MOV.lvix",
+      "counterpart": "/home/gabriel/Pictures/Pictures from ates camera/199_0510/MVI_0437.MOV.lvix",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Scanned Document.pdf",
+      "counterpart": "/home/gabriel/Pictures/Scanned Document.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/Youcam/Capture_20100716.wmv",
+      "counterpart": "/home/gabriel/Pictures/Youcam/Capture_20100716.wmv",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/d1.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/d1.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/d2.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/d2.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/d3.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/d3.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/dd1.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/dd1.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/dj1.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/dj1.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/dj2.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/dj2.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/dj3.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/dj3.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/do1.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/do1.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/do2.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/do2.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/jd1.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/jd1.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/jj1.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/jj1.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/jj2.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/jj2.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/odj1.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/odj1.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/nanay80/oj2.pdf",
+      "counterpart": "/home/gabriel/Pictures/nanay80/oj2.pdf",
+      "reason": "videos_pictures_mirror"
+    },
+    {
+      "path": "/home/gabriel/Videos/Pictures/summer2014/MVI_0894.MOV.lvix",
+      "counterpart": "/home/gabriel/Pictures/summer2014/MVI_0894.MOV.lvix",
+      "reason": "videos_pictures_mirror"
+    }
+  ],
+  "metadata": [
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/10_original",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/20_original",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/28_original",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/36_original",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/45_original",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/53_original",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/61_original",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/68_original",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/76_original",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/84_original",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/92_original",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail.db",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail_metadata.db",
+      "reason": "photodirector_cache"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-20--09.53.45.xml",
+      "reason": "comments_xml"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.37.11.xml",
+      "reason": "comments_xml"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.41.54.xml",
+      "reason": "comments_xml"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-03--17.02.27.xml",
+      "reason": "comments_xml"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-24--11.46.02.xml",
+      "reason": "comments_xml"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-11-26--20.05.44.xml",
+      "reason": "comments_xml"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2007-12-13--18.20.12.xml",
+      "reason": "comments_xml"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2007/.comments/2008-01-27--16.03.47.xml",
+      "reason": "comments_xml"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2008/.comments/2008-04-16--21.19.57.xml",
+      "reason": "comments_xml"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2008/.comments/2008-04-20--18.53.11.xml",
+      "reason": "comments_xml"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Pictures from ates camera/199_0510/MVI_0437.MOV.lvix",
+      "reason": "lightworks_index"
+    },
+    {
+      "path": "/home/gabriel/Pictures/summer2014/MVI_0894.MOV.lvix",
+      "reason": "lightworks_index"
+    }
+  ],
+  "keep": [
+    {
+      "path": "/home/gabriel/Pictures/2011/08/03/Jahna.wmv",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel.phd",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2010/05/09/mother's day.xcf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Scanned Document.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Youcam/Capture_20100716.wmv",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/d1.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/d2.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/d3.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/dd1.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/dj1.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/dj2.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/dj3.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/do1.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/do2.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/jd1.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/jj1.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/jj2.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/odj1.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Pictures/nanay80/oj2.pdf",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/2021-04-22 20-15-41.flv",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTintroTemplate.kdenlive",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTintroTemplate_backup0.kdenlive",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTintroTemplate_backup1.kdenlive",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTsub.kdenlive",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/basicClipping-3000.kdenlive",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/basicClipping.kdenlive",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/kdenBasic-3000.kdenlive",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/kdenBasic.kdenlive",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/YTintroTemplate-3000.kdenlive",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/digitalDiary/speedReader",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/hymns.mp4.log",
+      "reason": "likely_keep"
+    },
+    {
+      "path": "/home/gabriel/Videos/untitled.mp4.log",
+      "reason": "likely_keep"
+    }
+  ]
+}

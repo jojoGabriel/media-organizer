@@ -1,0 +1,4228 @@
+{
+  "summary": {
+    "report": "reports/scan-hash-v71-post-dup-cleanup.json",
+    "group_count": 111,
+    "duplicate_file_count": 222,
+    "potential_reclaim_bytes": 35593770
+  },
+  "groups": [
+    {
+      "duplicate_group": "dup-0044",
+      "file_count": 2,
+      "size_bytes_each": [
+        2027307
+      ],
+      "total_bytes": 4054614,
+      "potential_reclaim_bytes": 2027307,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/googleEarth/joy house.png",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 2027307,
+          "inferred_date": "2021-07-14",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/googleEarth/joy house.png",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/googleEarth/joy house.png",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 2027307,
+          "inferred_date": "2021-07-14",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2021/2021-07-14_googleEarth/joy house.png",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0088",
+      "file_count": 2,
+      "size_bytes_each": [
+        1527283
+      ],
+      "total_bytes": 3054566,
+      "potential_reclaim_bytes": 1527283,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/morePics/Lola 081099 Back.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1527283,
+          "inferred_date": "2011-07-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Legacy-Scans/morePics/Lola 081099 Back.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/morePics/Lola 081099 Back.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1527283,
+          "inferred_date": "2011-07-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2011/2011-07-10_morePics/Lola 081099 Back.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0081",
+      "file_count": 2,
+      "size_bytes_each": [
+        1504253
+      ],
+      "total_bytes": 3008506,
+      "potential_reclaim_bytes": 1504253,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/morePics/Lola 000529.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1504253,
+          "inferred_date": "2012-03-19",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Legacy-Scans/morePics/Lola 000529.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/morePics/Lola 000529.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1504253,
+          "inferred_date": "2012-03-19",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2012/2012-03-19_morePics/Lola 000529.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0109",
+      "file_count": 2,
+      "size_bytes_each": [
+        1497722
+      ],
+      "total_bytes": 2995444,
+      "potential_reclaim_bytes": 1497722,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/morePics/Lola 081099 Front.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1497722,
+          "inferred_date": "2011-07-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Legacy-Scans/morePics/Lola 081099 Front.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/morePics/Lola 081099 Front.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1497722,
+          "inferred_date": "2011-07-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2011/2011-07-10_morePics/Lola 081099 Front.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0061",
+      "file_count": 2,
+      "size_bytes_each": [
+        1420919
+      ],
+      "total_bytes": 2841838,
+      "potential_reclaim_bytes": 1420919,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Pexels/pexels-cottonbro-5876759.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1420919,
+          "inferred_date": "2022-01-12",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Pexels/pexels-cottonbro-5876759.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Pexels/pexels-cottonbro-5876759.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1420919,
+          "inferred_date": "2022-01-12",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2022/2022-01-12_Pexels/pexels-cottonbro-5876759.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0060",
+      "file_count": 2,
+      "size_bytes_each": [
+        1379348
+      ],
+      "total_bytes": 2758696,
+      "potential_reclaim_bytes": 1379348,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Photos/2007/11/22/DSCF0920.JPG",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1379348,
+          "inferred_date": "2007-11-22",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-11-22_Pictures/DSCF0920.JPG",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Photos/2007/11/22/DSCF0920.JPG",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1379348,
+          "inferred_date": "2007-11-22",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-11-22_Pictures/DSCF0920.JPG",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0067",
+      "file_count": 2,
+      "size_bytes_each": [
+        1372559
+      ],
+      "total_bytes": 2745118,
+      "potential_reclaim_bytes": 1372559,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Photos/2007/08/18/DSCF0274.JPG",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1372559,
+          "inferred_date": "2007-08-18",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-18_Pictures/DSCF0274.JPG",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Photos/2007/08/18/DSCF0274.JPG",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1372559,
+          "inferred_date": "2007-08-18",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-18_Pictures/DSCF0274.JPG",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0014",
+      "file_count": 2,
+      "size_bytes_each": [
+        1361500
+      ],
+      "total_bytes": 2723000,
+      "potential_reclaim_bytes": 1361500,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Photos/2007/09/01/DSCF0546.JPG",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1361500,
+          "inferred_date": "2007-08-31",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-31_Pictures/DSCF0546.JPG",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Photos/2007/09/01/DSCF0546.JPG",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1361500,
+          "inferred_date": "2007-08-31",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-31_Pictures/DSCF0546.JPG",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0065",
+      "file_count": 2,
+      "size_bytes_each": [
+        1359412
+      ],
+      "total_bytes": 2718824,
+      "potential_reclaim_bytes": 1359412,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Photos/2007/09/01/DSCF0547.JPG",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1359412,
+          "inferred_date": "2007-08-31",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-31_Pictures/DSCF0547.JPG",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Photos/2007/09/01/DSCF0547.JPG",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1359412,
+          "inferred_date": "2007-08-31",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-31_Pictures/DSCF0547.JPG",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0057",
+      "file_count": 2,
+      "size_bytes_each": [
+        1350345
+      ],
+      "total_bytes": 2700690,
+      "potential_reclaim_bytes": 1350345,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Photos/2007/09/01/DSCF0551.JPG",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1350345,
+          "inferred_date": "2007-08-31",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-31_Pictures/DSCF0551.JPG",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Photos/2007/09/01/DSCF0551.JPG",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1350345,
+          "inferred_date": "2007-08-31",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-31_Pictures/DSCF0551.JPG",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0107",
+      "file_count": 2,
+      "size_bytes_each": [
+        1334196
+      ],
+      "total_bytes": 2668392,
+      "potential_reclaim_bytes": 1334196,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Photos/2007/09/01/DSCF0549.JPG",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1334196,
+          "inferred_date": "2007-08-31",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-31_Pictures/DSCF0549.JPG",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Photos/2007/09/01/DSCF0549.JPG",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1334196,
+          "inferred_date": "2007-08-31",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-31_Pictures/DSCF0549.JPG",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0063",
+      "file_count": 2,
+      "size_bytes_each": [
+        1331141
+      ],
+      "total_bytes": 2662282,
+      "potential_reclaim_bytes": 1331141,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Photos/2007/09/01/DSCF0548.JPG",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1331141,
+          "inferred_date": "2007-08-31",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-31_Pictures/DSCF0548.JPG",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Photos/2007/09/01/DSCF0548.JPG",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1331141,
+          "inferred_date": "2007-08-31",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-31_Pictures/DSCF0548.JPG",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0091",
+      "file_count": 2,
+      "size_bytes_each": [
+        1305094
+      ],
+      "total_bytes": 2610188,
+      "potential_reclaim_bytes": 1305094,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Photos/2007/08/18/DSCF0266.JPG",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1305094,
+          "inferred_date": "2007-08-17",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-17_Pictures/DSCF0266.JPG",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Photos/2007/08/18/DSCF0266.JPG",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1305094,
+          "inferred_date": "2007-08-17",
+          "date_source": "metadata",
+          "proposed_relative_destination": "Library/2007/2007-08-17_Pictures/DSCF0266.JPG",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0108",
+      "file_count": 2,
+      "size_bytes_each": [
+        1066684
+      ],
+      "total_bytes": 2133368,
+      "potential_reclaim_bytes": 1066684,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Screenshots/Screenshot (1).png",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1066684,
+          "inferred_date": "2014-06-17",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Screenshots/Screenshot (1).png",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Screenshots/Screenshot (1).png",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1066684,
+          "inferred_date": "2014-06-17",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2014/2014-06-17_Screenshots/Screenshot (1).png",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0026",
+      "file_count": 2,
+      "size_bytes_each": [
+        1006988
+      ],
+      "total_bytes": 2013976,
+      "potential_reclaim_bytes": 1006988,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/morePics/j02.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 1006988,
+          "inferred_date": "2011-07-18",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Legacy-Scans/morePics/j02.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/morePics/j02.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 1006988,
+          "inferred_date": "2011-07-18",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2011/2011-07-18_morePics/j02.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0066",
+      "file_count": 2,
+      "size_bytes_each": [
+        486218
+      ],
+      "total_bytes": 972436,
+      "potential_reclaim_bytes": 486218,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Wallpapers/NayTay.png",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 486218,
+          "inferred_date": "2020-04-12",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Wallpapers/NayTay.png",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Wallpapers/NayTay.png",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 486218,
+          "inferred_date": "2020-04-12",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2020/2020-04-12_Wallpapers/NayTay.png",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0001",
+      "file_count": 2,
+      "size_bytes_each": [
+        372983
+      ],
+      "total_bytes": 745966,
+      "potential_reclaim_bytes": 372983,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/morePics/Lola 082299.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 372983,
+          "inferred_date": "2012-03-19",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Legacy-Scans/morePics/Lola 082299.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/morePics/Lola 082299.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 372983,
+          "inferred_date": "2012-03-19",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2012/2012-03-19_morePics/Lola 082299.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0016",
+      "file_count": 2,
+      "size_bytes_each": [
+        339144
+      ],
+      "total_bytes": 678288,
+      "potential_reclaim_bytes": 339144,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438032564_477443737938973_5184831729231331657_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 339144,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438032564_477443737938973_5184831729231331657_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438032564_477443737938973_5184831729231331657_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 339144,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438032564_477443737938973_5184831729231331657_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0052",
+      "file_count": 2,
+      "size_bytes_each": [
+        316376
+      ],
+      "total_bytes": 632752,
+      "potential_reclaim_bytes": 316376,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438032523_941165597701955_2226201503651003174_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 316376,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438032523_941165597701955_2226201503651003174_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438032523_941165597701955_2226201503651003174_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 316376,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438032523_941165597701955_2226201503651003174_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0033",
+      "file_count": 2,
+      "size_bytes_each": [
+        292899
+      ],
+      "total_bytes": 585798,
+      "potential_reclaim_bytes": 292899,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437971926_2536395079874054_4119182531898318036_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 292899,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437971926_2536395079874054_4119182531898318036_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437971926_2536395079874054_4119182531898318036_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 292899,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437971926_2536395079874054_4119182531898318036_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0092",
+      "file_count": 2,
+      "size_bytes_each": [
+        286808
+      ],
+      "total_bytes": 573616,
+      "potential_reclaim_bytes": 286808,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/beed2a.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 286808,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/beed2a.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/beed2a.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 286808,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/beed2a.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0056",
+      "file_count": 2,
+      "size_bytes_each": [
+        250658
+      ],
+      "total_bytes": 501316,
+      "potential_reclaim_bytes": 250658,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438137650_1147792949586024_1801865640287794593_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 250658,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438137650_1147792949586024_1801865640287794593_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438137650_1147792949586024_1801865640287794593_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 250658,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438137650_1147792949586024_1801865640287794593_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0079",
+      "file_count": 2,
+      "size_bytes_each": [
+        222965
+      ],
+      "total_bytes": 445930,
+      "potential_reclaim_bytes": 222965,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438196388_403211049343133_2180544789183065087_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 222965,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438196388_403211049343133_2180544789183065087_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438196388_403211049343133_2180544789183065087_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 222965,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438196388_403211049343133_2180544789183065087_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0070",
+      "file_count": 2,
+      "size_bytes_each": [
+        220431
+      ],
+      "total_bytes": 440862,
+      "potential_reclaim_bytes": 220431,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/436596659_1732807307210465_9100502324467555437_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 220431,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/436596659_1732807307210465_9100502324467555437_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/436596659_1732807307210465_9100502324467555437_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 220431,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/436596659_1732807307210465_9100502324467555437_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0054",
+      "file_count": 2,
+      "size_bytes_each": [
+        200147
+      ],
+      "total_bytes": 400294,
+      "potential_reclaim_bytes": 200147,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438209007_801091335253374_2436985126210473241_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 200147,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438209007_801091335253374_2436985126210473241_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438209007_801091335253374_2436985126210473241_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 200147,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438209007_801091335253374_2436985126210473241_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0038",
+      "file_count": 2,
+      "size_bytes_each": [
+        199557
+      ],
+      "total_bytes": 399114,
+      "potential_reclaim_bytes": 199557,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/436784358_1602389120537096_2214067451131033155_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 199557,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/436784358_1602389120537096_2214067451131033155_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/436784358_1602389120537096_2214067451131033155_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 199557,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/436784358_1602389120537096_2214067451131033155_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0097",
+      "file_count": 2,
+      "size_bytes_each": [
+        196903
+      ],
+      "total_bytes": 393806,
+      "potential_reclaim_bytes": 196903,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438223328_1649020939245937_1834100565714107737_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 196903,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438223328_1649020939245937_1834100565714107737_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438223328_1649020939245937_1834100565714107737_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 196903,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438223328_1649020939245937_1834100565714107737_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0045",
+      "file_count": 2,
+      "size_bytes_each": [
+        193317
+      ],
+      "total_bytes": 386634,
+      "potential_reclaim_bytes": 193317,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438196287_1437450620234069_3719658483611544887_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 193317,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438196287_1437450620234069_3719658483611544887_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438196287_1437450620234069_3719658483611544887_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 193317,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438196287_1437450620234069_3719658483611544887_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0090",
+      "file_count": 2,
+      "size_bytes_each": [
+        191439
+      ],
+      "total_bytes": 382878,
+      "potential_reclaim_bytes": 191439,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Wallpapers/lola1.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 191439,
+          "inferred_date": "2015-06-27",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Wallpapers/lola1.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Wallpapers/lola1.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 191439,
+          "inferred_date": "2015-06-27",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2015/2015-06-27_Wallpapers/lola1.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0083",
+      "file_count": 2,
+      "size_bytes_each": [
+        188110
+      ],
+      "total_bytes": 376220,
+      "potential_reclaim_bytes": 188110,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438158948_826078782871621_7324403286468877334_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 188110,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438158948_826078782871621_7324403286468877334_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438158948_826078782871621_7324403286468877334_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 188110,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438158948_826078782871621_7324403286468877334_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0028",
+      "file_count": 2,
+      "size_bytes_each": [
+        184762
+      ],
+      "total_bytes": 369524,
+      "potential_reclaim_bytes": 184762,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439237201_2709325275882744_817934008376430226_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 184762,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439237201_2709325275882744_817934008376430226_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439237201_2709325275882744_817934008376430226_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 184762,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439237201_2709325275882744_817934008376430226_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0008",
+      "file_count": 2,
+      "size_bytes_each": [
+        182963
+      ],
+      "total_bytes": 365926,
+      "potential_reclaim_bytes": 182963,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/436784345_816349820460451_8868497857686464069_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 182963,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/436784345_816349820460451_8868497857686464069_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/436784345_816349820460451_8868497857686464069_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 182963,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/436784345_816349820460451_8868497857686464069_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0073",
+      "file_count": 2,
+      "size_bytes_each": [
+        180501
+      ],
+      "total_bytes": 361002,
+      "potential_reclaim_bytes": 180501,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/bukid.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 180501,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/bukid.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/bukid.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 180501,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/bukid.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0041",
+      "file_count": 2,
+      "size_bytes_each": [
+        176870
+      ],
+      "total_bytes": 353740,
+      "potential_reclaim_bytes": 176870,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439832155_360155679791053_3310836397328384683_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 176870,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439832155_360155679791053_3310836397328384683_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439832155_360155679791053_3310836397328384683_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 176870,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439832155_360155679791053_3310836397328384683_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0050",
+      "file_count": 2,
+      "size_bytes_each": [
+        176800
+      ],
+      "total_bytes": 353600,
+      "potential_reclaim_bytes": 176800,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438196320_730651272557687_7299490889393898661_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 176800,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438196320_730651272557687_7299490889393898661_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438196320_730651272557687_7299490889393898661_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 176800,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438196320_730651272557687_7299490889393898661_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0098",
+      "file_count": 2,
+      "size_bytes_each": [
+        173689
+      ],
+      "total_bytes": 347378,
+      "potential_reclaim_bytes": 173689,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438154400_280338431797197_6628825519586519776_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 173689,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438154400_280338431797197_6628825519586519776_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438154400_280338431797197_6628825519586519776_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 173689,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438154400_280338431797197_6628825519586519776_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0024",
+      "file_count": 2,
+      "size_bytes_each": [
+        172950
+      ],
+      "total_bytes": 345900,
+      "potential_reclaim_bytes": 172950,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438267753_430754772978547_5224195375402396261_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 172950,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438267753_430754772978547_5224195375402396261_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438267753_430754772978547_5224195375402396261_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 172950,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438267753_430754772978547_5224195375402396261_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0047",
+      "file_count": 2,
+      "size_bytes_each": [
+        172704
+      ],
+      "total_bytes": 345408,
+      "potential_reclaim_bytes": 172704,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438196231_1183110196389293_2715873780488909276_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 172704,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438196231_1183110196389293_2715873780488909276_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438196231_1183110196389293_2715873780488909276_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 172704,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438196231_1183110196389293_2715873780488909276_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0087",
+      "file_count": 2,
+      "size_bytes_each": [
+        172002
+      ],
+      "total_bytes": 344004,
+      "potential_reclaim_bytes": 172002,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/436855825_307075588944752_910491639170926005_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 172002,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/436855825_307075588944752_910491639170926005_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/436855825_307075588944752_910491639170926005_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 172002,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/436855825_307075588944752_910491639170926005_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0035",
+      "file_count": 2,
+      "size_bytes_each": [
+        171299
+      ],
+      "total_bytes": 342598,
+      "potential_reclaim_bytes": 171299,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437956141_361608799657578_4706347961589975730_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 171299,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437956141_361608799657578_4706347961589975730_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437956141_361608799657578_4706347961589975730_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 171299,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437956141_361608799657578_4706347961589975730_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0069",
+      "file_count": 2,
+      "size_bytes_each": [
+        170619
+      ],
+      "total_bytes": 341238,
+      "potential_reclaim_bytes": 170619,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438271412_419233467383083_7240829236752034224_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 170619,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438271412_419233467383083_7240829236752034224_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438271412_419233467383083_7240829236752034224_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 170619,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438271412_419233467383083_7240829236752034224_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0004",
+      "file_count": 2,
+      "size_bytes_each": [
+        170081
+      ],
+      "total_bytes": 340162,
+      "potential_reclaim_bytes": 170081,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438231740_367453499628895_3657238177630604336_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 170081,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438231740_367453499628895_3657238177630604336_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438231740_367453499628895_3657238177630604336_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 170081,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438231740_367453499628895_3657238177630604336_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0106",
+      "file_count": 2,
+      "size_bytes_each": [
+        168472
+      ],
+      "total_bytes": 336944,
+      "potential_reclaim_bytes": 168472,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/morePics/Gary and Mom.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 168472,
+          "inferred_date": "2011-07-16",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Legacy-Scans/morePics/Gary and Mom.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/morePics/Gary and Mom.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 168472,
+          "inferred_date": "2011-07-16",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2011/2011-07-16_morePics/Gary and Mom.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0076",
+      "file_count": 2,
+      "size_bytes_each": [
+        168341
+      ],
+      "total_bytes": 336682,
+      "potential_reclaim_bytes": 168341,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/nayon.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 168341,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/nayon.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/nayon.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 168341,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/nayon.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0011",
+      "file_count": 2,
+      "size_bytes_each": [
+        167621
+      ],
+      "total_bytes": 335242,
+      "potential_reclaim_bytes": 167621,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439293842_814306774085761_1410338499770276492_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 167621,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439293842_814306774085761_1410338499770276492_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439293842_814306774085761_1410338499770276492_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 167621,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439293842_814306774085761_1410338499770276492_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0039",
+      "file_count": 2,
+      "size_bytes_each": [
+        165877
+      ],
+      "total_bytes": 331754,
+      "potential_reclaim_bytes": 165877,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438159039_2412947642239039_8301160705211966746_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 165877,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438159039_2412947642239039_8301160705211966746_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438159039_2412947642239039_8301160705211966746_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 165877,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438159039_2412947642239039_8301160705211966746_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0043",
+      "file_count": 2,
+      "size_bytes_each": [
+        162462
+      ],
+      "total_bytes": 324924,
+      "potential_reclaim_bytes": 162462,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438124793_424997540140145_8778663821563252769_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 162462,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438124793_424997540140145_8778663821563252769_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438124793_424997540140145_8778663821563252769_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 162462,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438124793_424997540140145_8778663821563252769_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0009",
+      "file_count": 2,
+      "size_bytes_each": [
+        161413
+      ],
+      "total_bytes": 322826,
+      "potential_reclaim_bytes": 161413,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/E33.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 161413,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/E33.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/E33.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 161413,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-21_nanay80/E33.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0102",
+      "file_count": 2,
+      "size_bytes_each": [
+        159158
+      ],
+      "total_bytes": 318316,
+      "potential_reclaim_bytes": 159158,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438238480_1112738403348920_5461974086673534299_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 159158,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438238480_1112738403348920_5461974086673534299_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438238480_1112738403348920_5461974086673534299_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 159158,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438238480_1112738403348920_5461974086673534299_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0051",
+      "file_count": 2,
+      "size_bytes_each": [
+        157302
+      ],
+      "total_bytes": 314604,
+      "potential_reclaim_bytes": 157302,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439402438_8126094420752442_8220333933184955946_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 157302,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439402438_8126094420752442_8220333933184955946_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439402438_8126094420752442_8220333933184955946_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 157302,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439402438_8126094420752442_8220333933184955946_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0100",
+      "file_count": 2,
+      "size_bytes_each": [
+        156723
+      ],
+      "total_bytes": 313446,
+      "potential_reclaim_bytes": 156723,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438270833_1636182273817895_5037498858955157743_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 156723,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438270833_1636182273817895_5037498858955157743_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438270833_1636182273817895_5037498858955157743_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 156723,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438270833_1636182273817895_5037498858955157743_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0085",
+      "file_count": 2,
+      "size_bytes_each": [
+        156219
+      ],
+      "total_bytes": 312438,
+      "potential_reclaim_bytes": 156219,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438231373_1608073389944667_5353159217209478844_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 156219,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438231373_1608073389944667_5353159217209478844_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438231373_1608073389944667_5353159217209478844_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 156219,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438231373_1608073389944667_5353159217209478844_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0020",
+      "file_count": 2,
+      "size_bytes_each": [
+        155984
+      ],
+      "total_bytes": 311968,
+      "potential_reclaim_bytes": 155984,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/nearDorm.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 155984,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/nearDorm.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/nearDorm.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 155984,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/nearDorm.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0093",
+      "file_count": 2,
+      "size_bytes_each": [
+        154930
+      ],
+      "total_bytes": 309860,
+      "potential_reclaim_bytes": 154930,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438238371_1403917051009396_1665019960102691787_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 154930,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438238371_1403917051009396_1665019960102691787_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438238371_1403917051009396_1665019960102691787_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 154930,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438238371_1403917051009396_1665019960102691787_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0104",
+      "file_count": 2,
+      "size_bytes_each": [
+        154592
+      ],
+      "total_bytes": 309184,
+      "potential_reclaim_bytes": 154592,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439613978_1699600927112528_3067106357508459046_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 154592,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439613978_1699600927112528_3067106357508459046_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439613978_1699600927112528_3067106357508459046_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 154592,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439613978_1699600927112528_3067106357508459046_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0031",
+      "file_count": 2,
+      "size_bytes_each": [
+        152518
+      ],
+      "total_bytes": 305036,
+      "potential_reclaim_bytes": 152518,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437973863_1666897727178562_6629549234037470815_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 152518,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437973863_1666897727178562_6629549234037470815_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437973863_1666897727178562_6629549234037470815_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 152518,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437973863_1666897727178562_6629549234037470815_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0059",
+      "file_count": 2,
+      "size_bytes_each": [
+        152328
+      ],
+      "total_bytes": 304656,
+      "potential_reclaim_bytes": 152328,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437976701_287465441078023_6624157414386215182_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 152328,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437976701_287465441078023_6624157414386215182_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437976701_287465441078023_6624157414386215182_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 152328,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437976701_287465441078023_6624157414386215182_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0055",
+      "file_count": 2,
+      "size_bytes_each": [
+        148906
+      ],
+      "total_bytes": 297812,
+      "potential_reclaim_bytes": 148906,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/grad1.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 148906,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/grad1.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/grad1.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 148906,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/grad1.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0048",
+      "file_count": 2,
+      "size_bytes_each": [
+        147167
+      ],
+      "total_bytes": 294334,
+      "potential_reclaim_bytes": 147167,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/436766680_1594298797983585_875691861393146007_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 147167,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/436766680_1594298797983585_875691861393146007_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/436766680_1594298797983585_875691861393146007_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 147167,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/436766680_1594298797983585_875691861393146007_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0089",
+      "file_count": 2,
+      "size_bytes_each": [
+        144749
+      ],
+      "total_bytes": 289498,
+      "potential_reclaim_bytes": 144749,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/F49.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 144749,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/F49.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/F49.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 144749,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-21_nanay80/F49.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0032",
+      "file_count": 2,
+      "size_bytes_each": [
+        142879
+      ],
+      "total_bytes": 285758,
+      "potential_reclaim_bytes": 142879,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/withcecil.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 142879,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/withcecil.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/withcecil.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 142879,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/withcecil.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0084",
+      "file_count": 2,
+      "size_bytes_each": [
+        142754
+      ],
+      "total_bytes": 285508,
+      "potential_reclaim_bytes": 142754,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/tagaytay.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 142754,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/tagaytay.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/tagaytay.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 142754,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/tagaytay.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0064",
+      "file_count": 2,
+      "size_bytes_each": [
+        142341
+      ],
+      "total_bytes": 284682,
+      "potential_reclaim_bytes": 142341,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438032521_291519210666121_1024228877427013447_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 142341,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438032521_291519210666121_1024228877427013447_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438032521_291519210666121_1024228877427013447_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 142341,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438032521_291519210666121_1024228877427013447_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0082",
+      "file_count": 2,
+      "size_bytes_each": [
+        141674
+      ],
+      "total_bytes": 283348,
+      "potential_reclaim_bytes": 141674,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/denver.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 141674,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/denver.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/denver.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 141674,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/denver.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0095",
+      "file_count": 2,
+      "size_bytes_each": [
+        141252
+      ],
+      "total_bytes": 282504,
+      "potential_reclaim_bytes": 141252,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437958884_3190527257744460_5097939363963796588_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 141252,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437958884_3190527257744460_5097939363963796588_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437958884_3190527257744460_5097939363963796588_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 141252,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437958884_3190527257744460_5097939363963796588_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0058",
+      "file_count": 2,
+      "size_bytes_each": [
+        140883
+      ],
+      "total_bytes": 281766,
+      "potential_reclaim_bytes": 140883,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438231922_314708038108375_3791228938404193548_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 140883,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438231922_314708038108375_3791228938404193548_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438231922_314708038108375_3791228938404193548_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 140883,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438231922_314708038108375_3791228938404193548_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0019",
+      "file_count": 2,
+      "size_bytes_each": [
+        140398
+      ],
+      "total_bytes": 280796,
+      "potential_reclaim_bytes": 140398,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439412042_768312695403236_7148509777117649005_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 140398,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439412042_768312695403236_7148509777117649005_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439412042_768312695403236_7148509777117649005_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 140398,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439412042_768312695403236_7148509777117649005_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0071",
+      "file_count": 2,
+      "size_bytes_each": [
+        139766
+      ],
+      "total_bytes": 279532,
+      "potential_reclaim_bytes": 139766,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437948712_1186577139378785_8839816405316031751_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 139766,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437948712_1186577139378785_8839816405316031751_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437948712_1186577139378785_8839816405316031751_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 139766,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437948712_1186577139378785_8839816405316031751_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0086",
+      "file_count": 2,
+      "size_bytes_each": [
+        139645
+      ],
+      "total_bytes": 279290,
+      "potential_reclaim_bytes": 139645,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437910436_1426636774643835_4980049512604875907_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 139645,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437910436_1426636774643835_4980049512604875907_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437910436_1426636774643835_4980049512604875907_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 139645,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437910436_1426636774643835_4980049512604875907_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0103",
+      "file_count": 2,
+      "size_bytes_each": [
+        139075
+      ],
+      "total_bytes": 278150,
+      "potential_reclaim_bytes": 139075,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/practiceTeaching.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 139075,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/practiceTeaching.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/practiceTeaching.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 139075,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/practiceTeaching.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0017",
+      "file_count": 2,
+      "size_bytes_each": [
+        138137
+      ],
+      "total_bytes": 276274,
+      "potential_reclaim_bytes": 138137,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/436363125_806662541380645_2610630878209441441_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 138137,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/436363125_806662541380645_2610630878209441441_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/436363125_806662541380645_2610630878209441441_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 138137,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/436363125_806662541380645_2610630878209441441_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0111",
+      "file_count": 2,
+      "size_bytes_each": [
+        136632
+      ],
+      "total_bytes": 273264,
+      "potential_reclaim_bytes": 136632,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/436598505_791837159713148_8314109428126107703_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 136632,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/436598505_791837159713148_8314109428126107703_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/436598505_791837159713148_8314109428126107703_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 136632,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/436598505_791837159713148_8314109428126107703_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0080",
+      "file_count": 2,
+      "size_bytes_each": [
+        135570
+      ],
+      "total_bytes": 271140,
+      "potential_reclaim_bytes": 135570,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/436815974_1667854357356649_5331320081431647097_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 135570,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/436815974_1667854357356649_5331320081431647097_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/436815974_1667854357356649_5331320081431647097_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 135570,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/436815974_1667854357356649_5331320081431647097_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0053",
+      "file_count": 2,
+      "size_bytes_each": [
+        131484
+      ],
+      "total_bytes": 262968,
+      "potential_reclaim_bytes": 131484,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/Screenshots/problem.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 131484,
+          "inferred_date": "2014-06-17",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Screenshots/problem.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/Screenshots/problem.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 131484,
+          "inferred_date": "2014-06-17",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2014/2014-06-17_Screenshots/problem.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0030",
+      "file_count": 2,
+      "size_bytes_each": [
+        128582
+      ],
+      "total_bytes": 257164,
+      "potential_reclaim_bytes": 128582,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437958884_346802655044915_3982725471920764492_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 128582,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437958884_346802655044915_3982725471920764492_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437958884_346802655044915_3982725471920764492_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 128582,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437958884_346802655044915_3982725471920764492_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0018",
+      "file_count": 2,
+      "size_bytes_each": [
+        127571
+      ],
+      "total_bytes": 255142,
+      "potential_reclaim_bytes": 127571,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437016715_759224082943494_4725807752591146137_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 127571,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437016715_759224082943494_4725807752591146137_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437016715_759224082943494_4725807752591146137_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 127571,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437016715_759224082943494_4725807752591146137_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0015",
+      "file_count": 2,
+      "size_bytes_each": [
+        127016
+      ],
+      "total_bytes": 254032,
+      "potential_reclaim_bytes": 127016,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/practiceTeaching2.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 127016,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/practiceTeaching2.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/practiceTeaching2.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 127016,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/practiceTeaching2.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0075",
+      "file_count": 2,
+      "size_bytes_each": [
+        126539
+      ],
+      "total_bytes": 253078,
+      "potential_reclaim_bytes": 126539,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/classroom.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 126539,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/classroom.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/classroom.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 126539,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/classroom.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0003",
+      "file_count": 2,
+      "size_bytes_each": [
+        125461
+      ],
+      "total_bytes": 250922,
+      "potential_reclaim_bytes": 125461,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439328707_342800968704691_7795714087282070230_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 125461,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439328707_342800968704691_7795714087282070230_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439328707_342800968704691_7795714087282070230_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 125461,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439328707_342800968704691_7795714087282070230_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0040",
+      "file_count": 2,
+      "size_bytes_each": [
+        125226
+      ],
+      "total_bytes": 250452,
+      "potential_reclaim_bytes": 125226,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438209248_991139612369471_5936061068236085810_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 125226,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438209248_991139612369471_5936061068236085810_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438209248_991139612369471_5936061068236085810_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 125226,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438209248_991139612369471_5936061068236085810_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0007",
+      "file_count": 2,
+      "size_bytes_each": [
+        125039
+      ],
+      "total_bytes": 250078,
+      "potential_reclaim_bytes": 125039,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439492142_3829723987259082_3630046728514155996_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 125039,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439492142_3829723987259082_3630046728514155996_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439492142_3829723987259082_3630046728514155996_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 125039,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439492142_3829723987259082_3630046728514155996_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0013",
+      "file_count": 2,
+      "size_bytes_each": [
+        124886
+      ],
+      "total_bytes": 249772,
+      "potential_reclaim_bytes": 124886,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438203801_898458152036404_959333725592144745_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 124886,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438203801_898458152036404_959333725592144745_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438203801_898458152036404_959333725592144745_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 124886,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438203801_898458152036404_959333725592144745_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0105",
+      "file_count": 2,
+      "size_bytes_each": [
+        124651
+      ],
+      "total_bytes": 249302,
+      "potential_reclaim_bytes": 124651,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/E48.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 124651,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/E48.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/E48.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 124651,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-21_nanay80/E48.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0002",
+      "file_count": 2,
+      "size_bytes_each": [
+        123709
+      ],
+      "total_bytes": 247418,
+      "potential_reclaim_bytes": 123709,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/B18.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 123709,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/B18.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/B18.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 123709,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-21_nanay80/B18.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0037",
+      "file_count": 2,
+      "size_bytes_each": [
+        123698
+      ],
+      "total_bytes": 247396,
+      "potential_reclaim_bytes": 123698,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/nayonStairs.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 123698,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/nayonStairs.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/nayonStairs.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 123698,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/nayonStairs.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0029",
+      "file_count": 2,
+      "size_bytes_each": [
+        123629
+      ],
+      "total_bytes": 247258,
+      "potential_reclaim_bytes": 123629,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437082649_1526075134606658_792579550434802587_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 123629,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437082649_1526075134606658_792579550434802587_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437082649_1526075134606658_792579550434802587_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 123629,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437082649_1526075134606658_792579550434802587_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0022",
+      "file_count": 2,
+      "size_bytes_each": [
+        123014
+      ],
+      "total_bytes": 246028,
+      "potential_reclaim_bytes": 123014,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439670763_1561719404669441_3170220312031729736_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 123014,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439670763_1561719404669441_3170220312031729736_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439670763_1561719404669441_3170220312031729736_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 123014,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439670763_1561719404669441_3170220312031729736_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0042",
+      "file_count": 2,
+      "size_bytes_each": [
+        119763
+      ],
+      "total_bytes": 239526,
+      "potential_reclaim_bytes": 119763,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/C46.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 119763,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/C46.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/C46.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 119763,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-21_nanay80/C46.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0099",
+      "file_count": 2,
+      "size_bytes_each": [
+        118555
+      ],
+      "total_bytes": 237110,
+      "potential_reclaim_bytes": 118555,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439311037_1202644487809451_5398861278139010138_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 118555,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439311037_1202644487809451_5398861278139010138_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439311037_1202644487809451_5398861278139010138_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 118555,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439311037_1202644487809451_5398861278139010138_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0049",
+      "file_count": 2,
+      "size_bytes_each": [
+        118548
+      ],
+      "total_bytes": 237096,
+      "potential_reclaim_bytes": 118548,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/streetKids.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 118548,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/streetKids.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/streetKids.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 118548,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/streetKids.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0036",
+      "file_count": 2,
+      "size_bytes_each": [
+        115339
+      ],
+      "total_bytes": 230678,
+      "potential_reclaim_bytes": 115339,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438203876_1094062225216248_5294453774376596638_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 115339,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438203876_1094062225216248_5294453774376596638_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438203876_1094062225216248_5294453774376596638_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 115339,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438203876_1094062225216248_5294453774376596638_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0034",
+      "file_count": 2,
+      "size_bytes_each": [
+        114807
+      ],
+      "total_bytes": 229614,
+      "potential_reclaim_bytes": 114807,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438245634_1421485495149838_4311102702535958785_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 114807,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438245634_1421485495149838_4311102702535958785_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438245634_1421485495149838_4311102702535958785_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 114807,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438245634_1421485495149838_4311102702535958785_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0094",
+      "file_count": 2,
+      "size_bytes_each": [
+        114556
+      ],
+      "total_bytes": 229112,
+      "potential_reclaim_bytes": 114556,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/B26.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 114556,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/B26.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/B26.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 114556,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-21_nanay80/B26.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0005",
+      "file_count": 2,
+      "size_bytes_each": [
+        114341
+      ],
+      "total_bytes": 228682,
+      "potential_reclaim_bytes": 114341,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437944645_398152149773375_5495265536001557941_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 114341,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437944645_398152149773375_5495265536001557941_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437944645_398152149773375_5495265536001557941_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 114341,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437944645_398152149773375_5495265536001557941_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0074",
+      "file_count": 2,
+      "size_bytes_each": [
+        108225
+      ],
+      "total_bytes": 216450,
+      "potential_reclaim_bytes": 108225,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439277897_779247623918357_4461137181539646540_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 108225,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439277897_779247623918357_4461137181539646540_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439277897_779247623918357_4461137181539646540_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 108225,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439277897_779247623918357_4461137181539646540_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0012",
+      "file_count": 2,
+      "size_bytes_each": [
+        107657
+      ],
+      "total_bytes": 215314,
+      "potential_reclaim_bytes": 107657,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/myla.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 107657,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/myla.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/myla.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 107657,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/myla.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0062",
+      "file_count": 2,
+      "size_bytes_each": [
+        105325
+      ],
+      "total_bytes": 210650,
+      "potential_reclaim_bytes": 105325,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439268618_1079760473085576_6773202392698872951_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 105325,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439268618_1079760473085576_6773202392698872951_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439268618_1079760473085576_6773202392698872951_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 105325,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439268618_1079760473085576_6773202392698872951_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0006",
+      "file_count": 2,
+      "size_bytes_each": [
+        104146
+      ],
+      "total_bytes": 208292,
+      "potential_reclaim_bytes": 104146,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439796669_396305223310823_7177209941085881900_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 104146,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439796669_396305223310823_7177209941085881900_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439796669_396305223310823_7177209941085881900_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 104146,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439796669_396305223310823_7177209941085881900_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0025",
+      "file_count": 2,
+      "size_bytes_each": [
+        104018
+      ],
+      "total_bytes": 208036,
+      "potential_reclaim_bytes": 104018,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438037946_345409398087306_6489965166029597516_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 104018,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438037946_345409398087306_6489965166029597516_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438037946_345409398087306_6489965166029597516_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 104018,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438037946_345409398087306_6489965166029597516_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0027",
+      "file_count": 2,
+      "size_bytes_each": [
+        100058
+      ],
+      "total_bytes": 200116,
+      "potential_reclaim_bytes": 100058,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/morePics/j01.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 100058,
+          "inferred_date": "2011-07-18",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Legacy-Scans/morePics/j01.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/morePics/j01.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 100058,
+          "inferred_date": "2011-07-18",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2011/2011-07-18_morePics/j01.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0046",
+      "file_count": 2,
+      "size_bytes_each": [
+        98471
+      ],
+      "total_bytes": 196942,
+      "potential_reclaim_bytes": 98471,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438032536_410776255234866_2323163840349594661_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 98471,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438032536_410776255234866_2323163840349594661_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438032536_410776255234866_2323163840349594661_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 98471,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438032536_410776255234866_2323163840349594661_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0077",
+      "file_count": 2,
+      "size_bytes_each": [
+        96558
+      ],
+      "total_bytes": 193116,
+      "potential_reclaim_bytes": 96558,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/ceu/withmyla.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 96558,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/Undated/withmyla.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/ceu/withmyla.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 96558,
+          "inferred_date": "2016-05-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/CEU/2016/2016-05-10_CEU/withmyla.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0023",
+      "file_count": 2,
+      "size_bytes_each": [
+        93037
+      ],
+      "total_bytes": 186074,
+      "potential_reclaim_bytes": 93037,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/C38.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 93037,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/C38.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/C38.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 93037,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/C38.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0096",
+      "file_count": 2,
+      "size_bytes_each": [
+        89609
+      ],
+      "total_bytes": 179218,
+      "potential_reclaim_bytes": 89609,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438223269_787465599986766_2328885699838242615_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 89609,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438223269_787465599986766_2328885699838242615_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438223269_787465599986766_2328885699838242615_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 89609,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438223269_787465599986766_2328885699838242615_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0072",
+      "file_count": 2,
+      "size_bytes_each": [
+        88688
+      ],
+      "total_bytes": 177376,
+      "potential_reclaim_bytes": 88688,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438267328_860383409183043_614818572569992583_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 88688,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438267328_860383409183043_614818572569992583_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438267328_860383409183043_614818572569992583_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 88688,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438267328_860383409183043_614818572569992583_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0110",
+      "file_count": 2,
+      "size_bytes_each": [
+        76479
+      ],
+      "total_bytes": 152958,
+      "potential_reclaim_bytes": 76479,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/438115940_1140747910403991_8350405903551557882_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 76479,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/438115940_1140747910403991_8350405903551557882_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/438115940_1140747910403991_8350405903551557882_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 76479,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/438115940_1140747910403991_8350405903551557882_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0021",
+      "file_count": 2,
+      "size_bytes_each": [
+        75791
+      ],
+      "total_bytes": 151582,
+      "potential_reclaim_bytes": 75791,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/joy.png",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 75791,
+          "inferred_date": "2016-06-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Reference/Legacy-Scans/loose-root/joy.png",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/joy.png",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 75791,
+          "inferred_date": "2016-06-10",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2016/2016-06-10_Pictures/joy.png",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0101",
+      "file_count": 2,
+      "size_bytes_each": [
+        68037
+      ],
+      "total_bytes": 136074,
+      "potential_reclaim_bytes": 68037,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/439378786_3732016293705898_632499579201302357_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 68037,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/439378786_3732016293705898_632499579201302357_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/439378786_3732016293705898_632499579201302357_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 68037,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/439378786_3732016293705898_632499579201302357_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0068",
+      "file_count": 2,
+      "size_bytes_each": [
+        64190
+      ],
+      "total_bytes": 128380,
+      "potential_reclaim_bytes": 64190,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/dw.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 64190,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/dw.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/dw.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 64190,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/dw.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0010",
+      "file_count": 2,
+      "size_bytes_each": [
+        45795
+      ],
+      "total_bytes": 91590,
+      "potential_reclaim_bytes": 45795,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/437962005_735167092122457_3457527709549560381_n.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 45795,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/437962005_735167092122457_3457527709549560381_n.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/437962005_735167092122457_3457527709549560381_n.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 45795,
+          "inferred_date": "2024-04-22",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-22_nanay80/437962005_735167092122457_3457527709549560381_n.jpg",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "duplicate_group": "dup-0078",
+      "file_count": 2,
+      "size_bytes_each": [
+        27558
+      ],
+      "total_bytes": 55116,
+      "potential_reclaim_bytes": 27558,
+      "categories": {
+        "image": 2
+      },
+      "root_types": {
+        "pictures": 1,
+        "videos": 1
+      },
+      "files": [
+        {
+          "path": "/home/gabriel/Pictures/nanay80/E49a.jpg",
+          "category": "image",
+          "root_type": "pictures",
+          "size_bytes": 27558,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Shared/nanayCora80th/E49a.jpg",
+          "notes": []
+        },
+        {
+          "path": "/home/gabriel/Videos/Pictures/nanay80/E49a.jpg",
+          "category": "image",
+          "root_type": "videos",
+          "size_bytes": 27558,
+          "inferred_date": "2024-04-21",
+          "date_source": "mtime",
+          "proposed_relative_destination": "Library/2024/2024-04-21_nanay80/E49a.jpg",
+          "notes": []
+        }
+      ]
+    }
+  ]
+}

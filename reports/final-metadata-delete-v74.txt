@@ -1,0 +1,16 @@
+/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail.db
+/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail_metadata.db
+/home/gabriel/Pictures/Photos/2007/.comments/2007-10-20--09.53.45.xml
+/home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.37.11.xml
+/home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.41.54.xml
+/home/gabriel/Pictures/Photos/2007/.comments/2007-11-03--17.02.27.xml
+/home/gabriel/Pictures/Photos/2007/.comments/2007-11-24--11.46.02.xml
+/home/gabriel/Pictures/Photos/2007/.comments/2007-11-26--20.05.44.xml
+/home/gabriel/Pictures/Photos/2007/.comments/2007-12-13--18.20.12.xml
+/home/gabriel/Pictures/Photos/2007/.comments/2008-01-27--16.03.47.xml
+/home/gabriel/Pictures/Photos/2008/.comments/2008-04-16--21.19.57.xml
+/home/gabriel/Pictures/Photos/2008/.comments/2008-04-20--18.53.11.xml
+/home/gabriel/Pictures/Pictures from ates camera/199_0510/MVI_0437.MOV.lvix
+/home/gabriel/Pictures/summer2014/MVI_0894.MOV.lvix
+/home/gabriel/Videos/hymns.mp4.log
+/home/gabriel/Videos/untitled.mp4.log

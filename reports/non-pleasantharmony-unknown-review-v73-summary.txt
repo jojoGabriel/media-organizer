@@ -1,0 +1,119 @@
+report: reports/scan-hash-v73-post-thumbs-cleanup.json
+count: 101
+total_bytes: 65050794
+
+By extension:
+- .pdf: 30
+- <none>: 23
+- .xml: 20
+- .kdenlive: 9
+- .wmv: 4
+- .db: 4
+- .lvix: 4
+- .phd: 2
+- .xcf: 2
+- .log: 2
+- .flv: 1
+
+Files:
+- /home/gabriel/Pictures/2011/08/03/Jahna.wmv | ext=.wmv | size=8550075 | date_source=path | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel.phd | ext=.phd | size=753664 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/10_original | ext= | size=70527 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/20_original | ext= | size=71003 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/28_original | ext= | size=110948 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/36_original | ext= | size=77737 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/45_original | ext= | size=25205 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/53_original | ext= | size=111358 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/61_original | ext= | size=97182 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/68_original | ext= | size=771081 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/76_original | ext= | size=69267 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/84_original | ext= | size=80056 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/92_original | ext= | size=28065 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail.db | ext=.db | size=126976 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail_metadata.db | ext=.db | size=20480 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-10-20--09.53.45.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.37.11.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-10-28--19.41.54.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-11-03--17.02.27.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-11-24--11.46.02.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-11-26--20.05.44.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Pictures/Photos/2007/.comments/2007-12-13--18.20.12.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Pictures/Photos/2007/.comments/2008-01-27--16.03.47.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Pictures/Photos/2008/.comments/2008-04-16--21.19.57.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Pictures/Photos/2008/.comments/2008-04-20--18.53.11.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Pictures/Photos/2010/05/09/mother's day.xcf | ext=.xcf | size=9871287 | date_source=path | proposed=None
+- /home/gabriel/Pictures/Pictures from ates camera/199_0510/MVI_0437.MOV.lvix | ext=.lvix | size=256 | date_source=path | proposed=None
+- /home/gabriel/Pictures/Scanned Document.pdf | ext=.pdf | size=288169 | date_source=mtime | proposed=None
+- /home/gabriel/Pictures/Youcam/Capture_20100716.wmv | ext=.wmv | size=7677910 | date_source=filename | proposed=None
+- /home/gabriel/Pictures/nanay80/d1.pdf | ext=.pdf | size=99396 | date_source=mtime | proposed=Shared/nanayCora80th/d1.pdf
+- /home/gabriel/Pictures/nanay80/d2.pdf | ext=.pdf | size=129762 | date_source=mtime | proposed=Shared/nanayCora80th/d2.pdf
+- /home/gabriel/Pictures/nanay80/d3.pdf | ext=.pdf | size=301542 | date_source=mtime | proposed=Shared/nanayCora80th/d3.pdf
+- /home/gabriel/Pictures/nanay80/dd1.pdf | ext=.pdf | size=181998 | date_source=mtime | proposed=Shared/nanayCora80th/dd1.pdf
+- /home/gabriel/Pictures/nanay80/dj1.pdf | ext=.pdf | size=126151 | date_source=mtime | proposed=Shared/nanayCora80th/dj1.pdf
+- /home/gabriel/Pictures/nanay80/dj2.pdf | ext=.pdf | size=143694 | date_source=mtime | proposed=Shared/nanayCora80th/dj2.pdf
+- /home/gabriel/Pictures/nanay80/dj3.pdf | ext=.pdf | size=44661 | date_source=mtime | proposed=Shared/nanayCora80th/dj3.pdf
+- /home/gabriel/Pictures/nanay80/do1.pdf | ext=.pdf | size=288063 | date_source=mtime | proposed=Shared/nanayCora80th/do1.pdf
+- /home/gabriel/Pictures/nanay80/do2.pdf | ext=.pdf | size=303780 | date_source=mtime | proposed=Shared/nanayCora80th/do2.pdf
+- /home/gabriel/Pictures/nanay80/jd1.pdf | ext=.pdf | size=142368 | date_source=mtime | proposed=Shared/nanayCora80th/jd1.pdf
+- /home/gabriel/Pictures/nanay80/jj1.pdf | ext=.pdf | size=214498 | date_source=mtime | proposed=Shared/nanayCora80th/jj1.pdf
+- /home/gabriel/Pictures/nanay80/jj2.pdf | ext=.pdf | size=127086 | date_source=mtime | proposed=Shared/nanayCora80th/jj2.pdf
+- /home/gabriel/Pictures/nanay80/odj1.pdf | ext=.pdf | size=140641 | date_source=mtime | proposed=Shared/nanayCora80th/odj1.pdf
+- /home/gabriel/Pictures/nanay80/oj2.pdf | ext=.pdf | size=143852 | date_source=mtime | proposed=Shared/nanayCora80th/oj2.pdf
+- /home/gabriel/Pictures/summer2014/MVI_0894.MOV.lvix | ext=.lvix | size=256 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/2021-04-22 20-15-41.flv | ext=.flv | size=344508 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Kden/YTintroTemplate.kdenlive | ext=.kdenlive | size=31424 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Kden/YTintroTemplate_backup0.kdenlive | ext=.kdenlive | size=21994 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Kden/YTintroTemplate_backup1.kdenlive | ext=.kdenlive | size=31503 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Kden/YTsub.kdenlive | ext=.kdenlive | size=23050 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Kden/basicClipping-3000.kdenlive | ext=.kdenlive | size=37972 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Kden/basicClipping.kdenlive | ext=.kdenlive | size=21213 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Kden/kdenBasic-3000.kdenlive | ext=.kdenlive | size=19269 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Kden/kdenBasic.kdenlive | ext=.kdenlive | size=19237 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/2011/08/03/Jahna.wmv | ext=.wmv | size=8550075 | date_source=path | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel.phd | ext=.phd | size=753664 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/10_original | ext= | size=70527 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/20_original | ext= | size=71003 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/28_original | ext= | size=110948 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/36_original | ext= | size=77737 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/45_original | ext= | size=25205 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/53_original | ext= | size=111358 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/61_original | ext= | size=97182 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/68_original | ext= | size=771081 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/76_original | ext= | size=69267 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/84_original | ext= | size=80056 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/92_original | ext= | size=28065 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail.db | ext=.db | size=126976 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/thumbnail_metadata.db | ext=.db | size=20480 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-10-20--09.53.45.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-10-28--19.37.11.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-10-28--19.41.54.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-11-03--17.02.27.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-11-24--11.46.02.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-11-26--20.05.44.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Pictures/Photos/2007/.comments/2007-12-13--18.20.12.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Pictures/Photos/2007/.comments/2008-01-27--16.03.47.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Pictures/Photos/2008/.comments/2008-04-16--21.19.57.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Pictures/Photos/2008/.comments/2008-04-20--18.53.11.xml | ext=.xml | size=110 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Pictures/Photos/2010/05/09/mother's day.xcf | ext=.xcf | size=9871287 | date_source=path | proposed=None
+- /home/gabriel/Videos/Pictures/Pictures from ates camera/199_0510/MVI_0437.MOV.lvix | ext=.lvix | size=256 | date_source=path | proposed=None
+- /home/gabriel/Videos/Pictures/Scanned Document.pdf | ext=.pdf | size=288169 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/Youcam/Capture_20100716.wmv | ext=.wmv | size=7677910 | date_source=filename | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/d1.pdf | ext=.pdf | size=99396 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/d2.pdf | ext=.pdf | size=129762 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/d3.pdf | ext=.pdf | size=301542 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/dd1.pdf | ext=.pdf | size=181998 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/dj1.pdf | ext=.pdf | size=126151 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/dj2.pdf | ext=.pdf | size=143694 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/dj3.pdf | ext=.pdf | size=44661 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/do1.pdf | ext=.pdf | size=288063 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/do2.pdf | ext=.pdf | size=303780 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/jd1.pdf | ext=.pdf | size=142368 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/jj1.pdf | ext=.pdf | size=214498 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/jj2.pdf | ext=.pdf | size=127086 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/odj1.pdf | ext=.pdf | size=140641 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/nanay80/oj2.pdf | ext=.pdf | size=143852 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/Pictures/summer2014/MVI_0894.MOV.lvix | ext=.lvix | size=256 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/YTintroTemplate-3000.kdenlive | ext=.kdenlive | size=0 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/digitalDiary/speedReader | ext= | size=2120216 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/hymns.mp4.log | ext=.log | size=110 | date_source=mtime | proposed=None
+- /home/gabriel/Videos/untitled.mp4.log | ext=.log | size=110 | date_source=mtime | proposed=None

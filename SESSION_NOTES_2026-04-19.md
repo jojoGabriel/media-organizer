@@ -456,3 +456,466 @@ Best next step when resuming:
 2. start with the highest reclaim mirrored Google Takeout pairs
 3. only after duplicate policy is settled, consider `mtime-date` or
    `unknown-category`
+
+## Duplicate and unknown cleanup continuation
+
+The session continued well past the initial `v70` duplicate-review state.
+
+### Safe Google Takeout mirror duplicates were confirmed and deleted
+
+The `v70` duplicate review was narrowed to exact two-path mirror pairs:
+
+- keep side:
+  `/home/gabriel/Pictures/google-takeout/...`
+- delete side:
+  `/home/gabriel/Videos/Pictures/google-takeout/...`
+
+Focused review files created:
+
+- `reports/duplicate-review-v70-safe-mirrors.json`
+- `reports/duplicate-review-v70-safe-mirrors.txt`
+- `reports/duplicate-review-v70-safe-mirrors-top50.txt`
+
+Confirmed-safe delete plan created:
+
+- `reports/duplicate-review-v70-safe-mirrors-delete-plan.json`
+- `reports/duplicate-review-v70-safe-mirrors-delete-paths.txt`
+- `reports/duplicate-review-v70-safe-mirrors-delete-summary.txt`
+
+Cleanup result:
+
+- `4515` mirror files deleted from
+  `/home/gabriel/Videos/Pictures/google-takeout/...`
+- `0` listed paths remained after verification
+
+### Post-cleanup `v71` verified the large duplicate bucket was gone
+
+Verification scan:
+
+- `reports/scan-hash-v71-post-dup-cleanup.json`
+
+Result compared to `v70`:
+
+- duplicate groups: `4626 -> 111`
+- duplicate files: `9252 -> 222`
+
+Interpretation:
+
+- the large mirrored Google Takeout duplicate bucket was removed cleanly
+- the remaining `111` groups were still mirror pairs, but outside Google
+  Takeout
+
+### Remaining non-Takeout mirror duplicates were confirmed and deleted
+
+A fresh duplicate review from `v71` was created:
+
+- `reports/duplicate-review-v71.json`
+- `reports/duplicate-review-v71-summary.txt`
+
+That remaining duplicate surface was:
+
+- `111` groups
+- `222` files
+- about `35.6 MB` potential reclaim
+
+Pattern:
+
+- keep `/home/gabriel/Pictures/...`
+- delete `/home/gabriel/Videos/Pictures/...`
+
+Delete plan created:
+
+- `reports/duplicate-review-v71-mirrors-delete-plan.json`
+- `reports/duplicate-review-v71-mirrors-delete-paths.txt`
+- `reports/duplicate-review-v71-mirrors-delete-summary.txt`
+
+Cleanup result:
+
+- `111` mirror files deleted from `/home/gabriel/Videos/Pictures/...`
+- `0` listed paths remained after verification
+
+### `v72` verified duplicate cleanup completion
+
+Verification scan:
+
+- `reports/scan-hash-v72-post-mirror-cleanup.json`
+
+Result:
+
+- duplicate groups: `0`
+- duplicate files: `0`
+
+Interpretation:
+
+- duplicate cleanup is complete within the current scan scope
+
+### Unknown-category review replaced the earlier mtime plan
+
+The earlier assumption that `mtime-date` should be the next bucket turned out to
+be weak once the post-duplicate library state was inspected.
+
+Raw `mtime` review from `v72`:
+
+- `reports/mtime-review-v72.json`
+- `reports/mtime-review-v72-summary.txt`
+- `reports/mtime-review-v72-actionable.json`
+- `reports/mtime-review-v72-actionable-summary.txt`
+
+What that showed:
+
+- raw `date_source = mtime`: `4398` files
+- but `3548` of those were `cache`
+- non-cache remainder: `850`
+- most of that remainder was still `unknown`, not straightforward media
+
+So the next real cleanup bucket became `unknown-category`, not `mtime-date`.
+
+### Unknown-category review from `v72`
+
+Unknown review files created:
+
+- `reports/unknown-review-v72.json`
+- `reports/unknown-review-v72-summary.txt`
+
+Initial `v72` unknown state:
+
+- `1375` files
+- about `2.54 GB`
+
+The bucket broke down mostly into:
+
+- `.db`: `672` (mostly `Thumbs.db`)
+- `.au`: `565` (mostly PleasantHarmony)
+- `.pdf`: `30`
+- `.mp3`: `23`
+- `.xml`: `20`
+- `.kdenlive`: `12`
+
+Interpretation:
+
+- the obvious junk pass was `Thumbs.db`
+- PleasantHarmony needed to be isolated as project/audio material, not deleted
+
+### `Thumbs.db` cleanup and `v73` verification
+
+Delete plan created:
+
+- `reports/thumbs-db-delete-plan-v72.json`
+- `reports/thumbs-db-delete-paths-v72.txt`
+- `reports/thumbs-db-delete-summary-v72.txt`
+
+Cleanup result:
+
+- `668` `Thumbs.db` files deleted
+- `0` listed paths remained after verification
+
+Verification scan:
+
+- `reports/scan-hash-v73-post-thumbs-cleanup.json`
+
+Result compared to `v72`:
+
+- total files: `70067 -> 69399`
+- unknown files: `1375 -> 707`
+
+Interpretation:
+
+- the obvious unknown junk bucket was removed cleanly
+
+### PleasantHarmony unknowns were isolated and retained
+
+PleasantHarmony-only unknown review files:
+
+- `reports/pleasantharmony-unknown-review-v73.json`
+- `reports/pleasantharmony-unknown-review-v73-summary.txt`
+
+Result:
+
+- `606` files
+- about `2.43 GB`
+
+Breakdown:
+
+- `.au`: `565`
+- `.mp3`: `23`
+- `.mka`: `5`
+- `.wav`: `3`
+- small tail: `.kdenlive`, `.aup`, `.ogg`, `.osp`, `.svg`
+
+Interpretation:
+
+- PleasantHarmony unknowns are mostly real project/audio assets
+- they should be preserved or reclassified later, not deleted in a junk pass
+
+### Non-PleasantHarmony unknowns were inspected and split
+
+Remainder review files:
+
+- `reports/non-pleasantharmony-unknown-review-v73.json`
+- `reports/non-pleasantharmony-unknown-review-v73-summary.txt`
+
+Remainder at that point:
+
+- `101` files
+- about `65 MB`
+
+Classification file created:
+
+- `reports/non-pleasantharmony-unknown-classified-v73.json`
+
+Classification result:
+
+- `44` mirror copies under `/home/gabriel/Videos/Pictures/...`
+- `25` metadata/cache-style files
+- `32` likely keep/project/document files
+
+### Non-PleasantHarmony mirror unknowns were deleted
+
+Delete plan created:
+
+- `reports/non-pleasantharmony-unknown-mirrors-delete-plan-v73.json`
+- `reports/non-pleasantharmony-unknown-mirrors-delete-paths-v73.txt`
+- `reports/non-pleasantharmony-unknown-mirrors-delete-summary-v73.txt`
+
+Cleanup result:
+
+- `44` mirror files deleted from `/home/gabriel/Videos/Pictures/...`
+- `0` listed paths remained after verification
+
+Verification scan:
+
+- `reports/scan-hash-v74-post-nonph-mirror-cleanup.json`
+
+Result compared to `v73`:
+
+- total files: `69399 -> 69355`
+- unknown files: `707 -> 663`
+
+### Final metadata-style unknown tail was reviewed and cleaned
+
+A final small metadata-style review file was created:
+
+- `reports/unknown-metadata-review-v74.json`
+- `reports/unknown-metadata-review-v74-summary.txt`
+
+That tail was only `16` files:
+
+- `2` PhotoDirector cache DBs
+- `10` `.comments/*.xml`
+- `2` `.lvix`
+- `2` aborted Kdenlive `.log`
+
+The `.log` files were opened directly and were confirmed to be tiny
+aborted-render logs:
+
+- `Started render process ...`
+- `Job aborted by user`
+
+Final delete list created:
+
+- `reports/final-metadata-delete-v74.txt`
+
+Cleanup result:
+
+- all `16` files deleted
+- `0` listed paths remained after verification
+
+### `v75` established the post-metadata-cleanup baseline
+
+Final re-baseline scan:
+
+- `reports/scan-hash-v75-post-metadata-cleanup.json`
+
+Baseline at that point:
+
+- total files: `69339`
+- duplicate groups: `0`
+- duplicate files: `0`
+- caches: `55924`
+- unknowns: `647`
+
+Remaining unknown extensions at `v75`:
+
+- `.au`: `565`
+- `.mp3`: `23`
+- `.pdf`: `15`
+- no-extension: `14`
+- `.kdenlive`: `12`
+- `.mka`: `5`
+- `.wav`: `3`
+- `.wmv`: `2`
+- `.aup`: `2`
+- `.phd`: `1`
+- `.xcf`: `1`
+- `.flv`: `1`
+- `.ogg`: `1`
+- `.osp`: `1`
+- `.svg`: `1`
+
+Interpretation:
+
+- the remaining unknowns are now almost entirely real asset/project material,
+  not obvious junk
+- destructive cleanup should stop here unless there is a separate policy
+  decision about PleasantHarmony or project-document formats
+
+### PleasantHarmony was then intentionally deleted and `v76` became the current baseline
+
+After the `v75` baseline was established, the user explicitly decided not to
+keep the `PleasantHarmony` project.
+
+Action taken:
+
+- deleted `/home/gabriel/Videos/PleasantHarmony`
+
+Verification:
+
+- the directory no longer existed
+- no other `PleasantHarmony` directory was found under `/home/gabriel` in the
+  checked scope
+
+Final re-baseline scan after that deletion:
+
+- `reports/scan-hash-v76-post-pleasantharmony-delete.json`
+
+Current authoritative baseline at the end of the session:
+
+- total files: `68707`
+- duplicates: `0`
+- `PleasantHarmony` no longer present in the live library
+
+Interpretation:
+
+- `v76` is the right comparison baseline for future external disks
+- any future appearance of `PleasantHarmony` on another disk should be treated
+  as intentionally deleted project content, not as an unexpected missing file
+
+## Updated resume point
+
+Current authoritative state is now:
+
+- successful apply execute:
+  `reports/apply-log-v69-execute.json`
+- duplicate-clean baseline:
+  `reports/scan-hash-v72-post-mirror-cleanup.json`
+- post-unknown-clean baseline:
+  `reports/scan-hash-v75-post-metadata-cleanup.json`
+- current final baseline:
+  `reports/scan-hash-v76-post-pleasantharmony-delete.json`
+- PleasantHarmony unknown review:
+  `reports/pleasantharmony-unknown-review-v73.json`
+- non-PleasantHarmony classification:
+  `reports/non-pleasantharmony-unknown-classified-v73.json`
+
+Best next step when resuming:
+
+1. use `reports/scan-hash-v76-post-pleasantharmony-delete.json` as the live
+   library comparison baseline
+2. if working with another disk, compare it against `v76` and the keep/delete
+   policies recorded here
+3. do not reopen duplicate cleanup or the stale `v68` apply issue
+
+## Note for future external disks
+
+If additional hard disks are reviewed later, do not start from scratch.
+
+Use this session's decisions as the policy baseline:
+
+- current authoritative scan baseline:
+  `reports/scan-hash-v76-post-pleasantharmony-delete.json`
+- duplicates have already been resolved in the live library:
+  duplicate groups = `0`
+- mirrored copies under `/home/gabriel/Videos/Pictures/...` were treated as
+  secondary copies and removed when confirmed against `/home/gabriel/Pictures/...`
+- `PleasantHarmony` was intentionally deleted from the live library:
+  `/home/gabriel/Videos/PleasantHarmony`
+- remaining `unknown` files at `v75` were mostly real asset/project/document
+  formats, not obvious junk
+
+For future disk comparisons, the important question is not just
+"does this file exist?" but:
+
+- is the disk copy an older mirror of something already kept in the live
+  library?
+- is it content that was intentionally deleted from the live library
+  (for example `PleasantHarmony`) and should therefore be treated as an archive
+  decision rather than an accidental missing file?
+- is it a file type that was intentionally preserved even though it stayed in
+  `unknown`?
+
+When resuming work on another disk later, start by comparing that disk against
+the `v76` baseline and against the keep/delete policies recorded here.
+
+## Quarantine folder inspection and cleanup
+
+The quarantine folder was inspected directly:
+
+- `/home/gabriel/media-organizer-quarantine-2026-04-14`
+
+State at inspection time:
+
+- `2410` files
+- about `5.73 GB`
+
+Top-level structure showed this is still a deliberate holding area, not random
+leftovers. It contains:
+
+- many named `non-takeout-...-batch` folders
+- `home/gabriel/Pictures/...`
+- internal metadata under `.media-organizer-quarantine-2026-04-14/`
+
+High-level composition:
+
+- `photos_tree`: `1134` files, about `1.46 GB`
+- `google_takeout`: `680` files, about `3.17 GB`
+- `morePics`: `153` files, about `239 MB`
+- `.wdmc` cache: `22` files
+- Windows metadata: `19` files
+- small other tail: `4` files, about `36 MB`
+
+File types in quarantine at inspection time:
+
+- `2301` `.jpg`
+- `77` `.mp4`
+- very small tail of `.db`, `.jpeg`, `.gif`, `.avi`, `.png`, `.ini`
+
+Interpretation:
+
+- quarantine should still be treated as a preserved archive/review bucket
+- it should not be deleted wholesale
+- only obvious junk inside quarantine was safe to remove immediately
+
+### Quarantine junk pass
+
+An explicit junk delete list was created:
+
+- `reports/quarantine-junk-delete-v76.txt`
+
+That list contained only:
+
+- `Thumbs.db`
+- `desktop.ini`
+- `.wdmc` cache files
+
+Cleanup result:
+
+- `41` files deleted from quarantine
+- `0` listed paths remained after verification
+
+This cleanup did **not** touch the actual quarantined media batches.
+
+## Stop point for commit
+
+Safe stop point at the end of this session:
+
+- current live-library baseline:
+  `reports/scan-hash-v76-post-pleasantharmony-delete.json`
+- session notes updated through quarantine inspection and cleanup
+- quarantine media preserved, junk-only pass completed
+
+If resuming later before working on another disk:
+
+1. use `v76` as the live-library baseline
+2. treat quarantine as preserved archive material
+3. compare any future disk against `v76` and against the policies recorded in
+   these notes

@@ -1,0 +1,32 @@
+source_report: reports/duplicate-review-v70-safe-mirrors.json
+plan_count: 4515
+keep_root: /home/gabriel/Pictures/google-takeout
+delete_root: /home/gabriel/Videos/Pictures/google-takeout
+reclaim_bytes: 12078654472
+
+Top 25 delete candidates by size:
+- dup-4482: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_141013280.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_141013280.mp4)
+- dup-0997: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124255254.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124255254.mp4)
+- dup-3122: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124029024.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124029024.mp4)
+- dup-0115: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_115338086.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_115338086.mp4)
+- dup-3576: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124636616.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_124636616.mp4)
+- dup-1385: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250115_172813876.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250115_172813876.mp4)
+- dup-2559: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_125003490.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_125003490.mp4)
+- dup-0793: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_180045505.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_180045505.mp4)
+- dup-3182: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_102645259.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220915_102645259.mp4)
+- dup-3717: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_130000007.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_130000007.mp4)
+- dup-2376: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_114747029.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220909_114747029.mp4)
+- dup-1281: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_174105851.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_174105851.mp4)
+- dup-4116: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2015/VID_20151129_202843.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2015/VID_20151129_202843.mp4)
+- dup-3318: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220417_121559262.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2022/VID_20220417_121559262.mp4)
+- dup-3240: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240923_103049596.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240923_103049596.mp4)
+- dup-0460: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_124306978.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_124306978.mp4)
+- dup-1808: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_175123148.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_175123148.mp4)
+- dup-2160: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_180237800.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240921_180237800.mp4)
+- dup-0526: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250419_120325628.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250419_120325628.mp4)
+- dup-3778: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240419_210426173.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240419_210426173.mp4)
+- dup-4055: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2018/20180706_222033.gif (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2018/20180706_222033.gif)
+- dup-3961: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/20171227_103907.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2017/20171227_103907.mp4)
+- dup-2435: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250526_160453285.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2025/VID_20250526_160453285.mp4)
+- dup-0020: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240923_093111182.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2024/VID_20240923_093111182.mp4)
+- dup-3061: delete /home/gabriel/Videos/Pictures/google-takeout/Takeout/Google Photos/Photos from 2023/VID_20230202_082801925.mp4 (keep /home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Photos from 2023/VID_20230202_082801925.mp4)
