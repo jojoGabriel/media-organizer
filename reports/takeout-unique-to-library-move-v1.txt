@@ -1,0 +1,10 @@
+takeout unique to library move v1
+source_report: /home/gabriel/Projects/media-organizer/reports/scan-hash-v83-post-quarantine-empty.json
+organized_root: /home/gabriel/organized-media-dry-run
+candidate_count: 4515
+moved: 4337
+skipped_existing_content_match: 178
+skipped_missing_source: 0
+skipped_destination_same_content: 0
+conflict_reroutes: 0
+errors: 0

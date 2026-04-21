@@ -1,0 +1,6 @@
+quarantine integrate morepics v2
+source_report: /home/gabriel/Projects/media-organizer/reports/quarantine-disposition-v2-draft.json
+selected_count: 136
+moved: 136
+skipped_existing: 0
+errors: 0
