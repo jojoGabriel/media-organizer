@@ -131,6 +131,59 @@ class ScannerTests(unittest.TestCase):
             self.assertEqual(record.category, "cache")
             self.assertEqual(record.proposed_relative_destination, "App-Caches/PleasantHarmony/.wdmc/thumb.jpg")
 
+    def test_build_file_record_classifies_photodirector_cache_without_extension_as_cache(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            target = pictures / "PhotoDirector" / "3.0" / "gabriel" / "gabriel_cache" / "10_original"
+            target.parent.mkdir(parents=True)
+            pictures.mkdir(exist_ok=True)
+            target.write_bytes(b"jpeg-like-cache-bytes")
+
+            record = build_file_record(target, root_type="pictures", root_path=pictures, hash_media=False)
+
+            self.assertEqual(record.category, "cache")
+            self.assertEqual(
+                record.proposed_relative_destination,
+                "App-Caches/PhotoDirector/3.0/gabriel/gabriel_cache/10_original",
+            )
+
+    def test_build_file_record_classifies_wmv_and_flv_as_video(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            videos = temp_path / "Videos"
+            pictures.mkdir()
+            videos.mkdir()
+
+            wmv_path = pictures / "2011" / "08" / "03" / "Jahna.wmv"
+            wmv_path.parent.mkdir(parents=True)
+            wmv_path.write_bytes(b"wmv-bytes")
+
+            flv_path = videos / "legacy" / "capture.flv"
+            flv_path.parent.mkdir(parents=True)
+            flv_path.write_bytes(b"flv-bytes")
+
+            wmv_record = build_file_record(wmv_path, root_type="pictures", root_path=pictures, hash_media=False)
+            flv_record = build_file_record(flv_path, root_type="videos", root_path=videos, hash_media=False)
+
+            self.assertEqual(wmv_record.category, "video")
+            self.assertEqual(flv_record.category, "video")
+
+    def test_build_file_record_keeps_destination_for_unknown_files_already_in_structured_roots(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            pictures = temp_path / "Pictures"
+            target = pictures / "Reference" / "Documents" / "Scanned Document.pdf"
+            target.parent.mkdir(parents=True)
+            pictures.mkdir(exist_ok=True)
+            target.write_bytes(b"pdf-bytes")
+
+            record = build_file_record(target, root_type="pictures", root_path=pictures, hash_media=False)
+
+            self.assertEqual(record.category, "unknown")
+            self.assertEqual(record.proposed_relative_destination, "Reference/Documents/Scanned Document.pdf")
+
     def test_plan_destination_uses_meaningful_source_label(self) -> None:
         pictures_root = Path("/library/Pictures")
 

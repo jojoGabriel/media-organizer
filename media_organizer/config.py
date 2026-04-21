@@ -27,6 +27,8 @@ VIDEO_EXTENSIONS: Set[str] = {
     ".avi",
     ".mkv",
     ".webm",
+    ".wmv",
+    ".flv",
     ".3gp",
     ".mts",
     ".m2ts",
@@ -56,4 +58,3 @@ PROJECT_DIRECTORY_NAMES: Set[str] = {
 class Roots:
     pictures: Path
     videos: Path
-

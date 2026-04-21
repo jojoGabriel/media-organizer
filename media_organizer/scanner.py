@@ -70,6 +70,15 @@ SPECIAL_DESTINATION_FOLDERS = {
 SPECIAL_DESTINATION_FILES = {
     "joy.png": Path("Reference") / "Legacy-Scans" / "loose-root" / "joy.png",
 }
+STRUCTURED_DESTINATION_ROOTS = {
+    "projects",
+    "reference",
+    "shared",
+    "library",
+    "app-caches",
+    "exports",
+    "screenrecordings",
+}
 WEAK_SOURCE_LABEL_PATTERNS = (
     re.compile(r"^\d{1,2}$"),
     re.compile(r"^(19|20)\d{2}$"),
@@ -137,6 +146,7 @@ def build_file_record(path: Path, root_type: str, root_path: Path, hash_media: b
     inferred_date, date_source = infer_date(path, root_path, stat.st_mtime)
     special_destination = derive_special_destination(path, root_path)
     project_destination = derive_project_destination(path, root_type, root_path)
+    structured_destination = derive_structured_destination(path, root_path)
 
     record = FileRecord(
         path=str(path),
@@ -162,6 +172,8 @@ def build_file_record(path: Path, root_type: str, root_path: Path, hash_media: b
             if category in ("image", "video", "project_video", "screen_recording"):
                 record.sha256 = hash_file(path)
         record.proposed_relative_destination = project_destination
+    elif structured_destination is not None:
+        record.proposed_relative_destination = structured_destination
     elif category in ("image", "video", "project_video", "screen_recording"):
         if hash_media:
             record.sha256 = hash_file(path)
@@ -194,6 +206,8 @@ def classify_path(path: Path, root_type: str) -> str:
     filename = path.name.lower()
 
     if any(part in CACHE_DIRECTORY_NAMES for part in lower_parts):
+        return "cache"
+    if "photodirector" in lower_parts and any(part.endswith("_cache") for part in lower_parts):
         return "cache"
     if extension in IMAGE_EXTENSIONS:
         return "image"
@@ -666,6 +680,21 @@ def derive_project_destination(path: Path, root_type: str, root_path: Path) -> O
         return None
 
     return str(Path("Projects") / relative)
+
+
+def derive_structured_destination(path: Path, root_path: Path) -> Optional[str]:
+    try:
+        relative = path.relative_to(root_path)
+    except ValueError:
+        return None
+
+    if not relative.parts:
+        return None
+
+    if relative.parts[0].strip().lower() not in STRUCTURED_DESTINATION_ROOTS:
+        return None
+
+    return str(relative)
 
 
 def is_weak_source_label(value: str) -> bool:
