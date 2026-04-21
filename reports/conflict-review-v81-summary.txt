@@ -1,0 +1,14 @@
+identical_delete_count: 7
+kept_count: 1
+
+delete_paths:
+- /home/gabriel/organized-media-dry-run/Library/2007/2007-08-17_Pictures/DSCF0266_SRC-CONFLICT.JPG
+- /home/gabriel/organized-media-dry-run/Library/2007/2007-08-18_Pictures/DSCF0274_SRC-CONFLICT.JPG
+- /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0546_SRC-CONFLICT.JPG
+- /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0547_SRC-CONFLICT.JPG
+- /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0548_SRC-CONFLICT.JPG
+- /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0549_SRC-CONFLICT.JPG
+- /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0551_SRC-CONFLICT.JPG
+
+keep_paths:
+- /home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0920_SRC-CONFLICT.JPG (pixel-different)

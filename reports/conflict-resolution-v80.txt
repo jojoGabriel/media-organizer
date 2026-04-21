@@ -1,0 +1,42 @@
+resolved_conflicts: 8
+
+01. moved-source-as-conflict-copy
+    source: /home/gabriel/Pictures/Photos/2007/08/18/DSCF0266.JPG
+    destination: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-17_Pictures/DSCF0266.JPG
+    resolved_to: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-17_Pictures/DSCF0266_SRC-CONFLICT.JPG
+
+02. moved-source-as-conflict-copy
+    source: /home/gabriel/Pictures/Photos/2007/08/18/DSCF0274.JPG
+    destination: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-18_Pictures/DSCF0274.JPG
+    resolved_to: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-18_Pictures/DSCF0274_SRC-CONFLICT.JPG
+
+03. moved-source-as-conflict-copy
+    source: /home/gabriel/Pictures/Photos/2007/09/01/DSCF0546.JPG
+    destination: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0546.JPG
+    resolved_to: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0546_SRC-CONFLICT.JPG
+
+04. moved-source-as-conflict-copy
+    source: /home/gabriel/Pictures/Photos/2007/09/01/DSCF0547.JPG
+    destination: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0547.JPG
+    resolved_to: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0547_SRC-CONFLICT.JPG
+
+05. moved-source-as-conflict-copy
+    source: /home/gabriel/Pictures/Photos/2007/09/01/DSCF0548.JPG
+    destination: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0548.JPG
+    resolved_to: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0548_SRC-CONFLICT.JPG
+
+06. moved-source-as-conflict-copy
+    source: /home/gabriel/Pictures/Photos/2007/09/01/DSCF0549.JPG
+    destination: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0549.JPG
+    resolved_to: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0549_SRC-CONFLICT.JPG
+
+07. moved-source-as-conflict-copy
+    source: /home/gabriel/Pictures/Photos/2007/09/01/DSCF0551.JPG
+    destination: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0551.JPG
+    resolved_to: /home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0551_SRC-CONFLICT.JPG
+
+08. moved-source-as-conflict-copy
+    source: /home/gabriel/Pictures/Photos/2007/11/22/DSCF0920.JPG
+    destination: /home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0920.JPG
+    resolved_to: /home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0920_SRC-CONFLICT.JPG
+

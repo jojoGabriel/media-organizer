@@ -1,0 +1,3 @@
+quarantine_root: /home/gabriel/media-organizer-quarantine-2026-04-14
+organized_root: /home/gabriel/organized-media-dry-run
+unique_quarantine_media: 612

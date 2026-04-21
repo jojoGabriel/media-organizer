@@ -1,0 +1,98 @@
+quarantine-unique review v1
+source: /home/gabriel/Projects/media-organizer/reports/quarantine-unique-keep.txt
+total_files: 612
+total_size_mb: 1052.01
+
+by_extension:
+- .jpg: 585
+- .mp4: 21
+- .gif: 3
+- .jpeg: 2
+- .png: 1
+
+by_top_bucket:
+- home: 611
+- non-takeout-naytay-wallpaper-batch: 1
+
+by_year:
+- 2007: 171
+- 2006: 152
+- 2009: 106
+- 2014: 84
+- 2021: 61
+- 2022: 14
+- 2019: 10
+- 2018: 4
+- unknown: 3
+- 2017: 2
+- 2020: 2
+- 1903: 1
+- 1918: 1
+- 2016: 1
+
+top_folders:
+- home/gabriel: 611
+- non-takeout-naytay-wallpaper-batch/home: 1
+
+actionable_batches (bucket/year/ext):
+- home | 2007 | .jpg: 170
+  sample: home/gabriel/Pictures/Photos/2007/04/07/200600003.jpg
+  sample: home/gabriel/Pictures/Photos/2007/04/07/200600007.jpg
+  sample: home/gabriel/Pictures/Photos/2007/04/07/200600013.jpg
+- home | 2006 | .jpg: 152
+  sample: home/gabriel/Pictures/Photos/2006/08/08/200600033.jpg
+  sample: home/gabriel/Pictures/Photos/2006/08/08/200600034.jpg
+  sample: home/gabriel/Pictures/Photos/2006/08/08/200600035.jpg
+- home | 2009 | .jpg: 106
+  sample: home/gabriel/Pictures/Photos/2009/08/30/dscf6009-1.jpg
+  sample: home/gabriel/Pictures/Photos/2009/08/30/dscf6009-2.jpg
+  sample: home/gabriel/Pictures/Photos/2009/08/30/dscf6009.jpg
+- home | 2014 | .jpg: 83
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20140615_105848-edited.jpg
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20140719_142707-edited.jpg
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20141214_114926-edited.jpg
+- home | 2021 | .jpg: 43
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165101665.jpg
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165401576_MP.jpg
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165417292.jpg
+- home | 2021 | .mp4: 18
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165401576_MP.MP4
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165432132_MP.MP4
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165748298_MP.MP4
+- home | 2022 | .jpg: 14
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jojo, Joy/IMG_20220515_102412484_HDR.jpg
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jojo, Joy/IMG_20220704_145351549.jpg
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jojo, Joy/IMG_20220704_145419719_HDR.jpg
+- home | 2019 | .jpg: 9
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_173859.jpg
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_173904.jpg
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_174037.jpg
+- home | 2018 | .jpg: 4
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20180418_192415.jpg
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20180528_112717.jpg
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20180804_163357.jpg
+- home | 2017 | .jpg: 2
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20170529_182723.jpg
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20171225_110855.jpg
+- home | 1903 | .mp4: 1
+  sample: home/gabriel/Pictures/1903/12/31/VIDEO_070.mp4
+- home | 2007 | .mp4: 1
+  sample: home/gabriel/Pictures/Photos/2007/Beng/VIDEO_070.mp4
+- home | 1918 | .jpeg: 1
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/received_265835921918004.jpeg
+- home | unknown | .jpeg: 1
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/received_894992108014883.jpeg
+- home | 2020 | .jpg: 1
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20201231_195832.jpg
+- home | 2016 | .jpg: 1
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20160417_163349.jpg
+- home | 2020 | .gif: 1
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(2)/20201127_163517-ANIMATION.gif
+- home | 2019 | .gif: 1
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(3)/20190529_192131-ANIMATION.gif
+- home | 2014 | .gif: 1
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_190437-MOTION.gif
+- home | unknown | .mp4: 1
+  sample: home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/video-f1863057a47fed78295a68cd0f01b8bb2f39b8754.mp4
+- non-takeout-naytay-wallpaper-batch | unknown | .png: 1
+  sample: non-takeout-naytay-wallpaper-batch/home/gabriel/Pictures/NayTay.png

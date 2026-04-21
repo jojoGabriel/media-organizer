@@ -1,0 +1,395 @@
+{
+  "source_report": "reports/scan-hash-v76-post-pleasantharmony-delete.json",
+  "count": 27,
+  "summary": {
+    "organize-keep": 15,
+    "delete-candidate": 12,
+    "manual-review": 0
+  },
+  "policy_notes": [
+    "delete-candidate items are low-risk app-cache/empty-project artifacts only",
+    "organize-keep items should be retained and moved into project/reference/library buckets",
+    "no permanent deletion should run until you review this file list"
+  ],
+  "files": [
+    {
+      "path": "/home/gabriel/Pictures/2011/08/03/Jahna.wmv",
+      "extension": ".wmv",
+      "date_source": "path",
+      "size_bytes": 8550075,
+      "modified_at": "2011-08-03T19:47:54",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Video file currently unclassified by scanner (filename/path-derived date)",
+      "risk": "low",
+      "proposed_destination": "Library/2011/2011-XX-XX_legacy-video/Jahna.wmv"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel.phd",
+      "extension": ".phd",
+      "date_source": "mtime",
+      "size_bytes": 753664,
+      "modified_at": "2014-10-07T13:13:26",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "PhotoDirector project database; keep as project artifact",
+      "risk": "low",
+      "proposed_destination": "Projects/PhotoDirector/gabriel/gabriel.phd"
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/10_original",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 70527,
+      "modified_at": "2014-10-07T13:13:10",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "PhotoDirector cache JPEG derivative (small, non-library asset)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/20_original",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 71003,
+      "modified_at": "2014-10-07T13:13:10",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "PhotoDirector cache JPEG derivative (small, non-library asset)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/28_original",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 110948,
+      "modified_at": "2014-10-07T13:13:10",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "PhotoDirector cache JPEG derivative (small, non-library asset)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/36_original",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 77737,
+      "modified_at": "2014-10-07T13:12:58",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "PhotoDirector cache JPEG derivative (small, non-library asset)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/45_original",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 25205,
+      "modified_at": "2014-10-07T13:12:58",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "PhotoDirector cache JPEG derivative (small, non-library asset)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/53_original",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 111358,
+      "modified_at": "2014-10-07T13:13:10",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "PhotoDirector cache JPEG derivative (small, non-library asset)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/61_original",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 97182,
+      "modified_at": "2014-10-07T13:12:58",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "PhotoDirector cache JPEG derivative (small, non-library asset)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/68_original",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 771081,
+      "modified_at": "2014-10-07T13:12:58",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "PhotoDirector cache JPEG derivative (small, non-library asset)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/76_original",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 69267,
+      "modified_at": "2014-10-07T13:13:10",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "PhotoDirector cache JPEG derivative (small, non-library asset)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/84_original",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 80056,
+      "modified_at": "2014-10-07T13:12:58",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "PhotoDirector cache JPEG derivative (small, non-library asset)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/92_original",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 28065,
+      "modified_at": "2014-10-07T13:13:02",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "PhotoDirector cache JPEG derivative (small, non-library asset)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Pictures/Photos/2010/05/09/mother's day.xcf",
+      "extension": ".xcf",
+      "date_source": "path",
+      "size_bytes": 9871287,
+      "modified_at": "2010-05-09T19:16:50",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "GIMP source project image; keep as editable master asset",
+      "risk": "low",
+      "proposed_destination": "Projects/GIMP/mothers-day/mother's day.xcf"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Scanned Document.pdf",
+      "extension": ".pdf",
+      "date_source": "mtime",
+      "size_bytes": 288169,
+      "modified_at": "2016-05-10T13:44:06",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Document file; keep in reference docs bucket",
+      "risk": "low",
+      "proposed_destination": "Reference/Documents/Scanned Document.pdf"
+    },
+    {
+      "path": "/home/gabriel/Pictures/Youcam/Capture_20100716.wmv",
+      "extension": ".wmv",
+      "date_source": "filename",
+      "size_bytes": 7677910,
+      "modified_at": "2010-07-16T13:35:32",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Video file currently unclassified by scanner (filename/path-derived date)",
+      "risk": "low",
+      "proposed_destination": "Library/2010/2010-XX-XX_legacy-video/Capture_20100716.wmv"
+    },
+    {
+      "path": "/home/gabriel/Videos/2021-04-22 20-15-41.flv",
+      "extension": ".flv",
+      "date_source": "filename",
+      "size_bytes": 344508,
+      "modified_at": "2021-04-22T20:15:55.675757",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Video file currently unclassified by scanner (filename/path-derived date)",
+      "risk": "low",
+      "proposed_destination": "Library/2021/2021-XX-XX_legacy-video/2021-04-22 20-15-41.flv"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTintroTemplate.kdenlive",
+      "extension": ".kdenlive",
+      "date_source": "mtime",
+      "size_bytes": 31424,
+      "modified_at": "2021-04-20T19:20:41.520855",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Kdenlive project file; keep as project artifact",
+      "risk": "low",
+      "proposed_destination": "Projects/Kdenlive/YTintroTemplate.kdenlive"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTintroTemplate_backup0.kdenlive",
+      "extension": ".kdenlive",
+      "date_source": "mtime",
+      "size_bytes": 21994,
+      "modified_at": "2021-04-20T05:59:46.129994",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Kdenlive project file; keep as project artifact",
+      "risk": "low",
+      "proposed_destination": "Projects/Kdenlive/YTintroTemplate_backup0.kdenlive"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTintroTemplate_backup1.kdenlive",
+      "extension": ".kdenlive",
+      "date_source": "mtime",
+      "size_bytes": 31503,
+      "modified_at": "2021-04-20T19:18:42.878874",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Kdenlive project file; keep as project artifact",
+      "risk": "low",
+      "proposed_destination": "Projects/Kdenlive/YTintroTemplate_backup1.kdenlive"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/YTsub.kdenlive",
+      "extension": ".kdenlive",
+      "date_source": "mtime",
+      "size_bytes": 23050,
+      "modified_at": "2021-04-19T16:37:53.812893",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Kdenlive project file; keep as project artifact",
+      "risk": "low",
+      "proposed_destination": "Projects/Kdenlive/YTsub.kdenlive"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/basicClipping-3000.kdenlive",
+      "extension": ".kdenlive",
+      "date_source": "mtime",
+      "size_bytes": 37972,
+      "modified_at": "2021-04-15T19:23:19.177331",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Kdenlive project file; keep as project artifact",
+      "risk": "low",
+      "proposed_destination": "Projects/Kdenlive/basicClipping-3000.kdenlive"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/basicClipping.kdenlive",
+      "extension": ".kdenlive",
+      "date_source": "mtime",
+      "size_bytes": 21213,
+      "modified_at": "2021-04-15T16:10:14.110373",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Kdenlive project file; keep as project artifact",
+      "risk": "low",
+      "proposed_destination": "Projects/Kdenlive/basicClipping.kdenlive"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/kdenBasic-3000.kdenlive",
+      "extension": ".kdenlive",
+      "date_source": "mtime",
+      "size_bytes": 19269,
+      "modified_at": "2020-12-24T00:51:38",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Kdenlive project file; keep as project artifact",
+      "risk": "low",
+      "proposed_destination": "Projects/Kdenlive/kdenBasic-3000.kdenlive"
+    },
+    {
+      "path": "/home/gabriel/Videos/Kden/kdenBasic.kdenlive",
+      "extension": ".kdenlive",
+      "date_source": "mtime",
+      "size_bytes": 19237,
+      "modified_at": "2020-12-24T00:51:38",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "Kdenlive project file; keep as project artifact",
+      "risk": "low",
+      "proposed_destination": "Projects/Kdenlive/kdenBasic.kdenlive"
+    },
+    {
+      "path": "/home/gabriel/Videos/YTintroTemplate-3000.kdenlive",
+      "extension": ".kdenlive",
+      "date_source": "mtime",
+      "size_bytes": 0,
+      "modified_at": "2021-04-20T18:15:14.314611",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "delete-candidate",
+      "reason": "Empty Kdenlive project backup file (0 bytes)",
+      "risk": "low",
+      "proposed_destination": null
+    },
+    {
+      "path": "/home/gabriel/Videos/digitalDiary/speedReader",
+      "extension": "",
+      "date_source": "mtime",
+      "size_bytes": 2120216,
+      "modified_at": "2024-07-31T17:41:52.444912",
+      "notes": [
+        "unclassified extension"
+      ],
+      "action": "organize-keep",
+      "reason": "MP4 container missing extension; keep and rename for proper classification",
+      "risk": "low",
+      "proposed_destination": "Library/2024/2024-07-31_digitalDiary/speedReader.mp4",
+      "proposed_rename": "speedReader.mp4"
+    }
+  ]
+}

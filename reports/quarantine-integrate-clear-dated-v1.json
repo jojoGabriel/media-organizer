@@ -1,0 +1,1475 @@
+{
+  "policy": "integrate clear dated camera batches (2006/2007/2009)",
+  "source_list": "/home/gabriel/Projects/media-organizer/reports/quarantine-unique-keep.txt",
+  "selected_count": 293,
+  "status_counts": {
+    "moved": 293
+  },
+  "results": [
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600033.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600033.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600034.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600034.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600035.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600035.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600036.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600036.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600037.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600037.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600038.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600038.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600039.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600039.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600040.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600040.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600041.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600041.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600043.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600043.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600044.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600044.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600045.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600045.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600046.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600046.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600047.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600047.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600050.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600050.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600051.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600051.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600052.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600052.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600053.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600053.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600055.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600055.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600056.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600056.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600057.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600057.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600060.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600060.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600062.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600062.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600065.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600065.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600067.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600067.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600068.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600068.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600069.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600069.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600070.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600070.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600071.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600071.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600072.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600072.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600073.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600073.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600074.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600074.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600075.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600075.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600076.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600076.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600077.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600077.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/08/08/200600078.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600078.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600001.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600001.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600002.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600002.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600004.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600004.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600005.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600005.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600006.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600006.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600008.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600008.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600009.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600009.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600010.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600010.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600011.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600011.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600012.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600012.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600014.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600014.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600015.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600015.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600016.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600016.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600018.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600018.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600019.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600019.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600020.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600020.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600021.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600021.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600022.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600022.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600023.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600023.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600024.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600024.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600025.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600025.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600026.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600026.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600027.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600027.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600028.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600028.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600029.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600029.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600030.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600030.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600031.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600031.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2006/12/16/200600032.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600032.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200600003.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600003.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200600007.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600007.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200600013.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600013.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200600017.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600017.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200600042.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600042.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200600048.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600048.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200600049.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600049.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200600054.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600054.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700001.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700001.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700002.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700002.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700003.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700003.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700004.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700004.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700005.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700005.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700006.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700006.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700007.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700007.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700008.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700008.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700009.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700009.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700010.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700010.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700011.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700011.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700012.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700012.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700013.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700013.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700014.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700014.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700015.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700015.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700016.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700016.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700017.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700017.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700018.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700018.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700019.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700019.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700020.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700020.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700021.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700021.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700022.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700022.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700023.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700023.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700024.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700024.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700025.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700025.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700026.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700026.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700027.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700027.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700028.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700028.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700029.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700029.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700030.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700030.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700031.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700031.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700032.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700032.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700033.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700033.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700034.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700034.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700035.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700035.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700036.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700036.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700037.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700037.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700038.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700038.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700039.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700039.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700040.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700040.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700041.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700041.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700042.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700042.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700043.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700043.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700045.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700045.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700046.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700046.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700047.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700047.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700048.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700048.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/07/200700049.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-01-01_Pictures/200700049.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/08/200600058.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600058.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/08/200600059.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600059.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/08/200600061.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600061.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/08/200600063.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600063.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/08/200600064.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600064.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/08/200600066.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600066.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/08/200600079.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600079.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/04/08/200600080.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2006/2006-01-01_Pictures/200600080.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0933.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0933.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0934.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0934.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0935.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0935.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0936.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0936.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0937.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0937.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0938.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0938.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0939.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0939.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0940.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0940.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0941.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0941.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0942.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0942.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0943.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0943.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0944.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0944.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0945.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0945.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0946.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0946.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0947.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0947.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0948.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0948.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0949.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0949.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0950.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0950.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0951.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0951.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0952.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0952.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0953.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0953.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0954.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0954.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0955.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0955.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0956.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0956.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0957.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0957.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0958.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0958.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0961.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0961.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0962.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0962.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/11/23/DSCF0964.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0964.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0933.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0933.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0934.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0934.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0935.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0935.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0936.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0936.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0937.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0937.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0938.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0938.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0939.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0939.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0940.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0940.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0941.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0941.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0942.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0942.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0943.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0943.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0944.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0944.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0945.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0945.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0946.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0946.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0947.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0947.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0948.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0948.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0949.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0949.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0950.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0950.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0951.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0951.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0952.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0952.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0953.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0953.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0954.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0954.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0955.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0955.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0956.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0956.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0957.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0957.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0958.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0958.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0961.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0961.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0962.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0962.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/2007-11-24--11.46.02/DSCF0964.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_2007-11-24--11.46.02/DSCF0964.JPG",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2007/Beng/VIDEO_070.mp4",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-10-08_Beng/VIDEO_070.mp4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/08/30/dscf6009-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-08-30_Pictures/dscf6009-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/08/30/dscf6009-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-08-30_Pictures/dscf6009-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/08/30/dscf6009.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-08-30_Pictures/dscf6009.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/08/30/dscf6010-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-08-30_Pictures/dscf6010-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/08/30/dscf6010-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-08-30_Pictures/dscf6010-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/08/30/dscf6010.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-08-30_Pictures/dscf6010.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6019-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6019-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6019-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6019-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6019.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6019.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6020-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6020-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6020-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6020-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6020.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6020.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6021-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6021-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6021-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6021-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6021.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6021.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6022-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6022-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6022-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6022-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6022.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6022.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6023-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6023-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6023-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6023-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6023.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6023.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6024-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6024-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6024-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6024-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6024.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6024.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6025-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6025-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6025-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6025-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6025.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6025.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6026-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6026-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6026-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6026-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6026.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6026.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6027-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6027-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6027-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6027-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6027.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6027.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6032-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6032-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6032-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6032-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6032.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6032.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6033-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6033-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6033-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6033-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6033.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6033.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6034-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6034-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6034-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6034-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6034.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6034.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6035-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6035-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6035-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6035-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6035.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6035.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6036-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6036-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6036-2.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6036-2.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/01/dscf6036.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-01_Pictures/dscf6036.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6044-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6044-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6044.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6044.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6045-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6045-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6045.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6045.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6046-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6046-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6046.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6046.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6050-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6050-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6050.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6050.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6051-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6051-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6051.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6051.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6052-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6052-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6052.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6052.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6053-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6053-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6053.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6053.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6054-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6054-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6054.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6054.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6055-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6055-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6055.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6055.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6056-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6056-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6056.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6056.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6057-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6057-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6057.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6057.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6058-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6058-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6058.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6058.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6059-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6059-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6059.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6059.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6060-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6060-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6060.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6060.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6061-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6061-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6061.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6061.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6062-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6062-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6062.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6062.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6063-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6063-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6063.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6063.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6064-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6064-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6064.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6064.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6065-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6065-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6065.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6065.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6066-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6066-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6066.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6066.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6067-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6067-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6067.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6067.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6068-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6068-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6068.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6068.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6069-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6069-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6069.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-03_Pictures/dscf6069.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6070-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6070-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6070.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6070.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6071-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6071-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6071.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6071.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6072-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6072-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6072.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6072.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6073-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6073-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6073.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6073.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6074-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6074-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6074.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6074.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6075-1.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6075-1.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/Photos/2009/10/04/dscf6075.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2009/2009-10-04_Pictures/dscf6075.jpg",
+      "status": "moved"
+    }
+  ]
+}

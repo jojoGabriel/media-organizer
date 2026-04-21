@@ -1,0 +1,269 @@
+{
+  "source": "/home/gabriel/Projects/media-organizer/reports/quarantine-unique-keep.txt",
+  "count": 612,
+  "total_bytes": 1103115191,
+  "by_extension": {
+    ".mp4": 21,
+    ".jpg": 585,
+    ".jpeg": 2,
+    ".gif": 3,
+    ".png": 1
+  },
+  "by_bucket": {
+    "home": 611,
+    "non-takeout-naytay-wallpaper-batch": 1
+  },
+  "by_year": {
+    "1903": 1,
+    "2006": 152,
+    "2007": 171,
+    "2009": 106,
+    "2019": 10,
+    "2021": 61,
+    "2022": 14,
+    "1918": 1,
+    "unknown": 3,
+    "2017": 2,
+    "2018": 4,
+    "2020": 2,
+    "2014": 84,
+    "2016": 1
+  },
+  "top_folders": [
+    [
+      "home/gabriel",
+      611
+    ],
+    [
+      "non-takeout-naytay-wallpaper-batch/home",
+      1
+    ]
+  ],
+  "batch_groups": [
+    {
+      "bucket": "home",
+      "year": "2007",
+      "extension": ".jpg",
+      "count": 170,
+      "sample_paths": [
+        "home/gabriel/Pictures/Photos/2007/04/07/200600003.jpg",
+        "home/gabriel/Pictures/Photos/2007/04/07/200600007.jpg",
+        "home/gabriel/Pictures/Photos/2007/04/07/200600013.jpg",
+        "home/gabriel/Pictures/Photos/2007/04/07/200600017.jpg",
+        "home/gabriel/Pictures/Photos/2007/04/07/200600042.jpg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2006",
+      "extension": ".jpg",
+      "count": 152,
+      "sample_paths": [
+        "home/gabriel/Pictures/Photos/2006/08/08/200600033.jpg",
+        "home/gabriel/Pictures/Photos/2006/08/08/200600034.jpg",
+        "home/gabriel/Pictures/Photos/2006/08/08/200600035.jpg",
+        "home/gabriel/Pictures/Photos/2006/08/08/200600036.jpg",
+        "home/gabriel/Pictures/Photos/2006/08/08/200600037.jpg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2009",
+      "extension": ".jpg",
+      "count": 106,
+      "sample_paths": [
+        "home/gabriel/Pictures/Photos/2009/08/30/dscf6009-1.jpg",
+        "home/gabriel/Pictures/Photos/2009/08/30/dscf6009-2.jpg",
+        "home/gabriel/Pictures/Photos/2009/08/30/dscf6009.jpg",
+        "home/gabriel/Pictures/Photos/2009/08/30/dscf6010-1.jpg",
+        "home/gabriel/Pictures/Photos/2009/08/30/dscf6010-2.jpg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2014",
+      "extension": ".jpg",
+      "count": 83,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20140615_105848-edited.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20140719_142707-edited.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20141214_114926-edited.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_070701-edited.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_071707-edited.jpg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2021",
+      "extension": ".jpg",
+      "count": 43,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165101665.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165401576_MP.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165417292.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165432132_MP.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165748298_MP.jpg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2021",
+      "extension": ".mp4",
+      "count": 18,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165401576_MP.MP4",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165432132_MP.MP4",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165748298_MP.MP4",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165834213_MP.MP4",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165841577_MP.MP4"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2022",
+      "extension": ".jpg",
+      "count": 14,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jojo, Joy/IMG_20220515_102412484_HDR.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jojo, Joy/IMG_20220704_145351549.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jojo, Joy/IMG_20220704_145419719_HDR.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(1)/IMG_20220514_182500828.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(1)/IMG_20220514_182506330.jpg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2019",
+      "extension": ".jpg",
+      "count": 9,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_173859.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_173904.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_174037.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_174530.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_180337.jpg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2018",
+      "extension": ".jpg",
+      "count": 4,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20180418_192415.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20180528_112717.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20180804_163357.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20181128_163941.jpg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2017",
+      "extension": ".jpg",
+      "count": 2,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20170529_182723.jpg",
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20171225_110855.jpg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "1903",
+      "extension": ".mp4",
+      "count": 1,
+      "sample_paths": [
+        "home/gabriel/Pictures/1903/12/31/VIDEO_070.mp4"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2007",
+      "extension": ".mp4",
+      "count": 1,
+      "sample_paths": [
+        "home/gabriel/Pictures/Photos/2007/Beng/VIDEO_070.mp4"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "1918",
+      "extension": ".jpeg",
+      "count": 1,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/received_265835921918004.jpeg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "unknown",
+      "extension": ".jpeg",
+      "count": 1,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/received_894992108014883.jpeg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2020",
+      "extension": ".jpg",
+      "count": 1,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20201231_195832.jpg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2016",
+      "extension": ".jpg",
+      "count": 1,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20160417_163349.jpg"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2020",
+      "extension": ".gif",
+      "count": 1,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(2)/20201127_163517-ANIMATION.gif"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2019",
+      "extension": ".gif",
+      "count": 1,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(3)/20190529_192131-ANIMATION.gif"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "2014",
+      "extension": ".gif",
+      "count": 1,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_190437-MOTION.gif"
+      ]
+    },
+    {
+      "bucket": "home",
+      "year": "unknown",
+      "extension": ".mp4",
+      "count": 1,
+      "sample_paths": [
+        "home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/video-f1863057a47fed78295a68cd0f01b8bb2f39b8754.mp4"
+      ]
+    },
+    {
+      "bucket": "non-takeout-naytay-wallpaper-batch",
+      "year": "unknown",
+      "extension": ".png",
+      "count": 1,
+      "sample_paths": [
+        "non-takeout-naytay-wallpaper-batch/home/gabriel/Pictures/NayTay.png"
+      ]
+    }
+  ]
+}

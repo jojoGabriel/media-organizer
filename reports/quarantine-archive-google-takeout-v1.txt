@@ -1,0 +1,3 @@
+quarantine archive google takeout residue v1
+selected_count: 181
+moved: 181

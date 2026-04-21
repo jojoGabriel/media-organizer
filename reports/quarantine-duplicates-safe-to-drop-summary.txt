@@ -1,0 +1,6 @@
+organized_media_root: /home/gabriel/organized-media-dry-run
+quarantine_root: /home/gabriel/media-organizer-quarantine-2026-04-14
+organized_media_files_seen: 8951
+quarantine_media_files_seen: 2369
+duplicates_safe_to_drop: 1757
+unique_quarantine_media: 612

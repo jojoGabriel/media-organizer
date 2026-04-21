@@ -1,0 +1,78 @@
+{
+  "report": "reports/v80.json",
+  "dest_root": "/home/gabriel/organized-media-dry-run",
+  "results": [
+    {
+      "source": "/home/gabriel/Pictures/Photos/2007/08/18/DSCF0266.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-08-17_Pictures/DSCF0266.JPG",
+      "status": "conflict",
+      "message": "destination exists with different content"
+    },
+    {
+      "source": "/home/gabriel/Pictures/Photos/2007/08/18/DSCF0274.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-08-18_Pictures/DSCF0274.JPG",
+      "status": "conflict",
+      "message": "destination exists with different content"
+    },
+    {
+      "source": "/home/gabriel/Pictures/Photos/2007/09/01/DSCF0546.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0546.JPG",
+      "status": "conflict",
+      "message": "destination exists with different content"
+    },
+    {
+      "source": "/home/gabriel/Pictures/Photos/2007/09/01/DSCF0547.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0547.JPG",
+      "status": "conflict",
+      "message": "destination exists with different content"
+    },
+    {
+      "source": "/home/gabriel/Pictures/Photos/2007/09/01/DSCF0548.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0548.JPG",
+      "status": "conflict",
+      "message": "destination exists with different content"
+    },
+    {
+      "source": "/home/gabriel/Pictures/Photos/2007/09/01/DSCF0549.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0549.JPG",
+      "status": "conflict",
+      "message": "destination exists with different content"
+    },
+    {
+      "source": "/home/gabriel/Pictures/Photos/2007/09/01/DSCF0551.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-08-31_Pictures/DSCF0551.JPG",
+      "status": "conflict",
+      "message": "destination exists with different content"
+    },
+    {
+      "source": "/home/gabriel/Pictures/Photos/2007/11/22/DSCF0920.JPG",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2007/2007-11-22_Pictures/DSCF0920.JPG",
+      "status": "conflict",
+      "message": "destination exists with different content"
+    },
+    {
+      "source": "/home/gabriel/Pictures/Youcam/Capture_20100716.wmv",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2010/2010-07-16_Youcam/Capture_20100716.wmv",
+      "status": "moved",
+      "message": "moved successfully"
+    },
+    {
+      "source": "/home/gabriel/Pictures/2011/08/03/Jahna.wmv",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2011/2011-08-03_Pictures/Jahna.wmv",
+      "status": "moved",
+      "message": "moved successfully"
+    },
+    {
+      "source": "/home/gabriel/Videos/2021-04-22 20-15-41.flv",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2021/2021-04-22_Videos/2021-04-22 20-15-41.flv",
+      "status": "moved",
+      "message": "moved successfully"
+    },
+    {
+      "source": "/home/gabriel/Videos/digitalDiary/speedReader.mp4",
+      "destination": "/home/gabriel/organized-media-dry-run/Library/2024/2024-07-31_digitalDiary/speedReader.mp4",
+      "status": "moved",
+      "message": "moved successfully"
+    }
+  ]
+}

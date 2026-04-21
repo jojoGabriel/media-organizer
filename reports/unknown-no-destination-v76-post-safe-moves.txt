@@ -1,0 +1,53 @@
+unknown-no-destination-v76 post-safe-moves status
+source_plan: reports/unknown-no-destination-v76-action-plan.json
+original_count: 27
+remaining_at_original_paths: 14
+moved_or_removed_from_original_paths: 13
+
+remaining by action:
+  delete-candidate: 11
+  organize-keep: 3
+
+remaining files:
+01. /home/gabriel/Pictures/2011/08/03/Jahna.wmv
+    action=organize-keep ext=.wmv size=8550075
+
+02. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/10_original
+    action=delete-candidate ext=<no-ext> size=70527
+
+03. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/20_original
+    action=delete-candidate ext=<no-ext> size=71003
+
+04. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/28_original
+    action=delete-candidate ext=<no-ext> size=110948
+
+05. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/36_original
+    action=delete-candidate ext=<no-ext> size=77737
+
+06. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/45_original
+    action=delete-candidate ext=<no-ext> size=25205
+
+07. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/53_original
+    action=delete-candidate ext=<no-ext> size=111358
+
+08. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/61_original
+    action=delete-candidate ext=<no-ext> size=97182
+
+09. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/68_original
+    action=delete-candidate ext=<no-ext> size=771081
+
+10. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/76_original
+    action=delete-candidate ext=<no-ext> size=69267
+
+11. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/84_original
+    action=delete-candidate ext=<no-ext> size=80056
+
+12. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/92_original
+    action=delete-candidate ext=<no-ext> size=28065
+
+13. /home/gabriel/Pictures/Youcam/Capture_20100716.wmv
+    action=organize-keep ext=.wmv size=7677910
+
+14. /home/gabriel/Videos/2021-04-22 20-15-41.flv
+    action=organize-keep ext=.flv size=344508
+

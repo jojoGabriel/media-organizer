@@ -1,0 +1,111 @@
+source_report: reports/scan-hash-v76-post-pleasantharmony-delete.json
+count: 27
+
+01. /home/gabriel/Pictures/2011/08/03/Jahna.wmv
+    ext=.wmv size=8550075 date_source=path modified_at=2011-08-03T19:47:54
+    notes=unclassified extension
+
+02. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel.phd
+    ext=.phd size=753664 date_source=mtime modified_at=2014-10-07T13:13:26
+    notes=unclassified extension
+
+03. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/10_original
+    ext=<no-ext> size=70527 date_source=mtime modified_at=2014-10-07T13:13:10
+    notes=unclassified extension
+
+04. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/20_original
+    ext=<no-ext> size=71003 date_source=mtime modified_at=2014-10-07T13:13:10
+    notes=unclassified extension
+
+05. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/28_original
+    ext=<no-ext> size=110948 date_source=mtime modified_at=2014-10-07T13:13:10
+    notes=unclassified extension
+
+06. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/36_original
+    ext=<no-ext> size=77737 date_source=mtime modified_at=2014-10-07T13:12:58
+    notes=unclassified extension
+
+07. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/45_original
+    ext=<no-ext> size=25205 date_source=mtime modified_at=2014-10-07T13:12:58
+    notes=unclassified extension
+
+08. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/53_original
+    ext=<no-ext> size=111358 date_source=mtime modified_at=2014-10-07T13:13:10
+    notes=unclassified extension
+
+09. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/61_original
+    ext=<no-ext> size=97182 date_source=mtime modified_at=2014-10-07T13:12:58
+    notes=unclassified extension
+
+10. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/68_original
+    ext=<no-ext> size=771081 date_source=mtime modified_at=2014-10-07T13:12:58
+    notes=unclassified extension
+
+11. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/76_original
+    ext=<no-ext> size=69267 date_source=mtime modified_at=2014-10-07T13:13:10
+    notes=unclassified extension
+
+12. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/84_original
+    ext=<no-ext> size=80056 date_source=mtime modified_at=2014-10-07T13:12:58
+    notes=unclassified extension
+
+13. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/92_original
+    ext=<no-ext> size=28065 date_source=mtime modified_at=2014-10-07T13:13:02
+    notes=unclassified extension
+
+14. /home/gabriel/Pictures/Photos/2010/05/09/mother's day.xcf
+    ext=.xcf size=9871287 date_source=path modified_at=2010-05-09T19:16:50
+    notes=unclassified extension
+
+15. /home/gabriel/Pictures/Scanned Document.pdf
+    ext=.pdf size=288169 date_source=mtime modified_at=2016-05-10T13:44:06
+    notes=unclassified extension
+
+16. /home/gabriel/Pictures/Youcam/Capture_20100716.wmv
+    ext=.wmv size=7677910 date_source=filename modified_at=2010-07-16T13:35:32
+    notes=unclassified extension
+
+17. /home/gabriel/Videos/2021-04-22 20-15-41.flv
+    ext=.flv size=344508 date_source=filename modified_at=2021-04-22T20:15:55.675757
+    notes=unclassified extension
+
+18. /home/gabriel/Videos/Kden/YTintroTemplate.kdenlive
+    ext=.kdenlive size=31424 date_source=mtime modified_at=2021-04-20T19:20:41.520855
+    notes=unclassified extension
+
+19. /home/gabriel/Videos/Kden/YTintroTemplate_backup0.kdenlive
+    ext=.kdenlive size=21994 date_source=mtime modified_at=2021-04-20T05:59:46.129994
+    notes=unclassified extension
+
+20. /home/gabriel/Videos/Kden/YTintroTemplate_backup1.kdenlive
+    ext=.kdenlive size=31503 date_source=mtime modified_at=2021-04-20T19:18:42.878874
+    notes=unclassified extension
+
+21. /home/gabriel/Videos/Kden/YTsub.kdenlive
+    ext=.kdenlive size=23050 date_source=mtime modified_at=2021-04-19T16:37:53.812893
+    notes=unclassified extension
+
+22. /home/gabriel/Videos/Kden/basicClipping-3000.kdenlive
+    ext=.kdenlive size=37972 date_source=mtime modified_at=2021-04-15T19:23:19.177331
+    notes=unclassified extension
+
+23. /home/gabriel/Videos/Kden/basicClipping.kdenlive
+    ext=.kdenlive size=21213 date_source=mtime modified_at=2021-04-15T16:10:14.110373
+    notes=unclassified extension
+
+24. /home/gabriel/Videos/Kden/kdenBasic-3000.kdenlive
+    ext=.kdenlive size=19269 date_source=mtime modified_at=2020-12-24T00:51:38
+    notes=unclassified extension
+
+25. /home/gabriel/Videos/Kden/kdenBasic.kdenlive
+    ext=.kdenlive size=19237 date_source=mtime modified_at=2020-12-24T00:51:38
+    notes=unclassified extension
+
+26. /home/gabriel/Videos/YTintroTemplate-3000.kdenlive
+    ext=.kdenlive size=0 date_source=mtime modified_at=2021-04-20T18:15:14.314611
+    notes=unclassified extension
+
+27. /home/gabriel/Videos/digitalDiary/speedReader
+    ext=<no-ext> size=2120216 date_source=mtime modified_at=2024-07-31T17:41:52.444912
+    notes=unclassified extension
+

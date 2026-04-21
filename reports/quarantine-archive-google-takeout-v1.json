@@ -1,0 +1,915 @@
+{
+  "policy": "archive uncertain Google Takeout event residue",
+  "source_list": "/home/gabriel/Projects/media-organizer/reports/quarantine-unique-keep.txt",
+  "selected_count": 181,
+  "status_counts": {
+    "moved": 181
+  },
+  "results": [
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_173859.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/25th/20190520_173859.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_173904.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/25th/20190520_173904.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_174037.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/25th/20190520_174037.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_174530.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/25th/20190520_174530.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_180337.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/25th/20190520_180337.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_180649.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/25th/20190520_180649.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/25th/20190520_181152.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/25th/20190520_181152.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165101665.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165101665.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165401576_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165401576_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165401576_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165401576_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165417292.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165417292.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165432132_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165432132_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165432132_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165432132_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165748298_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165748298_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165748298_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165748298_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165834213_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165834213_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165834213_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165834213_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165841577_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165841577_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165841577_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165841577_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165845963_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165845963_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165845963_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165845963_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165929770_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165929770_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165929770_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165929770_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165934237_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165934237_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165934237_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165934237_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165937389_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165937389_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165937389_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165937389_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165940186_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165940186_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165940186_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165940186_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165942665_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165942665_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165942665_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165942665_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165945190_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165945190_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165945190_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165945190_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165947764_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165947764_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_165947764_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_165947764_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_170002813_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_170002813_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_170002813_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_170002813_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_170020293_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_170020293_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_170020293_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_170020293_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_170033826_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_170033826_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_170033826_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_170033826_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_170050661_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_170050661_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_170050661_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_170050661_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_170122727_MP.MP4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_170122727_MP.MP4",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211026_170122727_MP.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211026_170122727_MP.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211027_174059339.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211027_174059339.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211105_095041305.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211105_095041305.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211105_152810244.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211105_152810244.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211105_152945684.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211105_152945684.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211108_071440583.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211108_071440583.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211108_144319630.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211108_144319630.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211112_115942164.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211112_115942164.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211112_120408866.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211112_120408866.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jab/IMG_20211122_160250883.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jab/IMG_20211122_160250883.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jojo, Joy/IMG_20210929_185924959.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jojo, Joy/IMG_20210929_185924959.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jojo, Joy/IMG_20211115_200144374.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jojo, Joy/IMG_20211115_200144374.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jojo, Joy/IMG_20220515_102412484_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jojo, Joy/IMG_20220515_102412484_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jojo, Joy/IMG_20220704_145351549.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jojo, Joy/IMG_20220704_145351549.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jojo, Joy/IMG_20220704_145419719_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jojo, Joy/IMG_20220704_145419719_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/20210419_165459.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jonel 26/20210419_165459.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/20210419_170046.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jonel 26/20210419_170046.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/20210419_175244.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jonel 26/20210419_175244.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/20210419_175552.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jonel 26/20210419_175552.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/20210419_175627.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jonel 26/20210419_175627.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/received_265835921918004.jpeg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jonel 26/received_265835921918004.jpeg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Jonel 26/received_894992108014883.jpeg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Jonel 26/received_894992108014883.jpeg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20170529_182723.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/20170529_182723.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20171225_110855.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/20171225_110855.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20180418_192415.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/20180418_192415.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20180528_112717.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/20180528_112717.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20180804_163357.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/20180804_163357.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20181128_163941.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/20181128_163941.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20190309_164401.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/20190309_164401.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20190520_181152.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/20190520_181152.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20201231_195832.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/20201231_195832.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20210131_144022.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/20210131_144022.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/20210521_180445.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/20210521_180445.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20140615_105848-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/IMG_20140615_105848-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20140719_142707-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/IMG_20140719_142707-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20141214_114926-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/IMG_20141214_114926-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Memories together (5-23-2021)/IMG_20160417_163349.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Memories together (5-23-2021)/IMG_20160417_163349.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/StarvedRock/20210403_111945.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/StarvedRock/20210403_111945.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/StarvedRock/20210403_114348.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/StarvedRock/20210403_114348.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/StarvedRock/20210403_114447.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/StarvedRock/20210403_114447.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/StarvedRock/20210403_114541.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/StarvedRock/20210403_114541.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/StarvedRock/20210403_115725.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/StarvedRock/20210403_115725.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_070701-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_070701-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_071707-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_071707-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_082711-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_082711-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_141107-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_141107-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_141225-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_141225-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_141531-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_141531-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_142251-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_142251-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_143446-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_143446-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_143822-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_143822-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_145328-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_145328-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_145748-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_145748-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_150041-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_150041-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_151335-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_151335-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_151508-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_151508-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_151710-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_151710-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_152254-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_152254-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_152501-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_152501-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140621_152550-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140621_152550-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140622_170341-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140622_170341-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Trip to Los Angeles and Anaheim/IMG_20140623_183822-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Trip to Los Angeles and Anaheim/IMG_20140623_183822-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(1)/IMG_20220514_182500828.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled(1)/IMG_20220514_182500828.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(1)/IMG_20220514_182506330.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled(1)/IMG_20220514_182506330.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(1)/IMG_20220514_182509943.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled(1)/IMG_20220514_182509943.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(2)/20201127_163517-ANIMATION.gif",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled(2)/20201127_163517-ANIMATION.gif",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(3)/20190529_192131-ANIMATION.gif",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled(3)/20190529_192131-ANIMATION.gif",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled(4)/IMG_20141115_114354-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled(4)/IMG_20141115_114354-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled/IMG_20220515_101444913_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled/IMG_20220515_101444913_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled/IMG_20220515_102302376_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled/IMG_20220515_102302376_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled/IMG_20220515_102314158_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled/IMG_20220515_102314158_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled/IMG_20220515_102403363_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled/IMG_20220515_102403363_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled/IMG_20220515_102412484_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled/IMG_20220515_102412484_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled/IMG_20220515_102948061_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled/IMG_20220515_102948061_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled/IMG_20220515_102951435_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled/IMG_20220515_102951435_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Untitled/IMG_20220515_112128325_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Untitled/IMG_20220515_112128325_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_122606939-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_122606939-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_122606939.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_122606939.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_134205121-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_134205121-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_134205121.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_134205121.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_134246903-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_134246903-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_134246903.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_134246903.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_134552739-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_134552739-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_134552739.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_134552739.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_151303201-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_151303201-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_151303201.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_151303201.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_151348309-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_151348309-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_151348309.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_151348309.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_151458777-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_151458777-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_151458777.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_151458777.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_151642776-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_151642776-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_151642776.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_151642776.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_151957763-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_151957763-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_151957763.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_151957763.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_152623089_HDR-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_152623089_HDR-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_152623089_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_152623089_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_152901036-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_152901036-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_152901036.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_152901036.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_153023290-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_153023290-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_153023290.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_153023290.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_153302793_HDR-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_153302793_HDR-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_153302793_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_153302793_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_153339412_HDR-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_153339412_HDR-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_153339412_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_153339412_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_153746873_HDR-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_153746873_HDR-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_153746873_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_153746873_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_153924497_HDR-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_153924497_HDR-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Wednesday morning in Chicago/IMG_20140528_153924497_HDR.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Wednesday morning in Chicago/IMG_20140528_153924497_HDR.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_142409-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_142409-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_142707-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_142707-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_142812-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_142812-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_144315-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_144315-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_145619-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_145619-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_153245-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_153245-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_153314-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_153314-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_163734-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_163734-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_163929-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_163929-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_164228-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_164228-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_165758-SMILE-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_165758-SMILE-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_165758-SMILE.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_165758-SMILE.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_170203-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_170203-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_170315-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_170315-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_170523-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_170523-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_170612-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_170612-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_181727-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_181727-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_182450-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_182450-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_182507-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_182507-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Fish Creek/IMG_20140719_190437-MOTION.gif",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Fish Creek/IMG_20140719_190437-MOTION.gif",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/IMG_20140829_144124-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Niagara Falls and Scarborough/IMG_20140829_144124-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/IMG_20140830_124724-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Niagara Falls and Scarborough/IMG_20140830_124724-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/IMG_20140830_135813-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Niagara Falls and Scarborough/IMG_20140830_135813-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/IMG_20140830_141644-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Niagara Falls and Scarborough/IMG_20140830_141644-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/IMG_20140830_141644.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Niagara Falls and Scarborough/IMG_20140830_141644.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/IMG_20140830_141701-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Niagara Falls and Scarborough/IMG_20140830_141701-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/IMG_20140830_195523-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Niagara Falls and Scarborough/IMG_20140830_195523-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/IMG_20140830_203003-edited.jpg",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Niagara Falls and Scarborough/IMG_20140830_203003-edited.jpg",
+      "status": "moved"
+    },
+    {
+      "source": "/home/gabriel/media-organizer-quarantine-2026-04-14/home/gabriel/Pictures/google-takeout/Takeout/Google Photos/Weekend in Niagara Falls and Scarborough/video-f1863057a47fed78295a68cd0f01b8bb2f39b8754.mp4",
+      "destination": "/home/gabriel/organized-media-dry-run/Archive/Quarantine-GoogleTakeout-Residue/Weekend in Niagara Falls and Scarborough/video-f1863057a47fed78295a68cd0f01b8bb2f39b8754.mp4",
+      "status": "moved"
+    }
+  ]
+}

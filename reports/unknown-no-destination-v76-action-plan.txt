@@ -1,0 +1,132 @@
+unknown-no-destination-v76 action plan
+source_report: reports/scan-hash-v76-post-pleasantharmony-delete.json
+count: 27
+summary:
+  organize-keep: 15
+  delete-candidate: 12
+  manual-review: 0
+
+01. /home/gabriel/Pictures/2011/08/03/Jahna.wmv
+    action=organize-keep risk=low ext=.wmv size=8550075
+    reason=Video file currently unclassified by scanner (filename/path-derived date)
+    proposed_destination=Library/2011/2011-XX-XX_legacy-video/Jahna.wmv
+
+02. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel.phd
+    action=organize-keep risk=low ext=.phd size=753664
+    reason=PhotoDirector project database; keep as project artifact
+    proposed_destination=Projects/PhotoDirector/gabriel/gabriel.phd
+
+03. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/10_original
+    action=delete-candidate risk=low ext=<no-ext> size=70527
+    reason=PhotoDirector cache JPEG derivative (small, non-library asset)
+
+04. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/20_original
+    action=delete-candidate risk=low ext=<no-ext> size=71003
+    reason=PhotoDirector cache JPEG derivative (small, non-library asset)
+
+05. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/28_original
+    action=delete-candidate risk=low ext=<no-ext> size=110948
+    reason=PhotoDirector cache JPEG derivative (small, non-library asset)
+
+06. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/36_original
+    action=delete-candidate risk=low ext=<no-ext> size=77737
+    reason=PhotoDirector cache JPEG derivative (small, non-library asset)
+
+07. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/45_original
+    action=delete-candidate risk=low ext=<no-ext> size=25205
+    reason=PhotoDirector cache JPEG derivative (small, non-library asset)
+
+08. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/53_original
+    action=delete-candidate risk=low ext=<no-ext> size=111358
+    reason=PhotoDirector cache JPEG derivative (small, non-library asset)
+
+09. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/61_original
+    action=delete-candidate risk=low ext=<no-ext> size=97182
+    reason=PhotoDirector cache JPEG derivative (small, non-library asset)
+
+10. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/68_original
+    action=delete-candidate risk=low ext=<no-ext> size=771081
+    reason=PhotoDirector cache JPEG derivative (small, non-library asset)
+
+11. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/76_original
+    action=delete-candidate risk=low ext=<no-ext> size=69267
+    reason=PhotoDirector cache JPEG derivative (small, non-library asset)
+
+12. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/84_original
+    action=delete-candidate risk=low ext=<no-ext> size=80056
+    reason=PhotoDirector cache JPEG derivative (small, non-library asset)
+
+13. /home/gabriel/Pictures/PhotoDirector/3.0/gabriel/gabriel_cache/92_original
+    action=delete-candidate risk=low ext=<no-ext> size=28065
+    reason=PhotoDirector cache JPEG derivative (small, non-library asset)
+
+14. /home/gabriel/Pictures/Photos/2010/05/09/mother's day.xcf
+    action=organize-keep risk=low ext=.xcf size=9871287
+    reason=GIMP source project image; keep as editable master asset
+    proposed_destination=Projects/GIMP/mothers-day/mother's day.xcf
+
+15. /home/gabriel/Pictures/Scanned Document.pdf
+    action=organize-keep risk=low ext=.pdf size=288169
+    reason=Document file; keep in reference docs bucket
+    proposed_destination=Reference/Documents/Scanned Document.pdf
+
+16. /home/gabriel/Pictures/Youcam/Capture_20100716.wmv
+    action=organize-keep risk=low ext=.wmv size=7677910
+    reason=Video file currently unclassified by scanner (filename/path-derived date)
+    proposed_destination=Library/2010/2010-XX-XX_legacy-video/Capture_20100716.wmv
+
+17. /home/gabriel/Videos/2021-04-22 20-15-41.flv
+    action=organize-keep risk=low ext=.flv size=344508
+    reason=Video file currently unclassified by scanner (filename/path-derived date)
+    proposed_destination=Library/2021/2021-XX-XX_legacy-video/2021-04-22 20-15-41.flv
+
+18. /home/gabriel/Videos/Kden/YTintroTemplate.kdenlive
+    action=organize-keep risk=low ext=.kdenlive size=31424
+    reason=Kdenlive project file; keep as project artifact
+    proposed_destination=Projects/Kdenlive/YTintroTemplate.kdenlive
+
+19. /home/gabriel/Videos/Kden/YTintroTemplate_backup0.kdenlive
+    action=organize-keep risk=low ext=.kdenlive size=21994
+    reason=Kdenlive project file; keep as project artifact
+    proposed_destination=Projects/Kdenlive/YTintroTemplate_backup0.kdenlive
+
+20. /home/gabriel/Videos/Kden/YTintroTemplate_backup1.kdenlive
+    action=organize-keep risk=low ext=.kdenlive size=31503
+    reason=Kdenlive project file; keep as project artifact
+    proposed_destination=Projects/Kdenlive/YTintroTemplate_backup1.kdenlive
+
+21. /home/gabriel/Videos/Kden/YTsub.kdenlive
+    action=organize-keep risk=low ext=.kdenlive size=23050
+    reason=Kdenlive project file; keep as project artifact
+    proposed_destination=Projects/Kdenlive/YTsub.kdenlive
+
+22. /home/gabriel/Videos/Kden/basicClipping-3000.kdenlive
+    action=organize-keep risk=low ext=.kdenlive size=37972
+    reason=Kdenlive project file; keep as project artifact
+    proposed_destination=Projects/Kdenlive/basicClipping-3000.kdenlive
+
+23. /home/gabriel/Videos/Kden/basicClipping.kdenlive
+    action=organize-keep risk=low ext=.kdenlive size=21213
+    reason=Kdenlive project file; keep as project artifact
+    proposed_destination=Projects/Kdenlive/basicClipping.kdenlive
+
+24. /home/gabriel/Videos/Kden/kdenBasic-3000.kdenlive
+    action=organize-keep risk=low ext=.kdenlive size=19269
+    reason=Kdenlive project file; keep as project artifact
+    proposed_destination=Projects/Kdenlive/kdenBasic-3000.kdenlive
+
+25. /home/gabriel/Videos/Kden/kdenBasic.kdenlive
+    action=organize-keep risk=low ext=.kdenlive size=19237
+    reason=Kdenlive project file; keep as project artifact
+    proposed_destination=Projects/Kdenlive/kdenBasic.kdenlive
+
+26. /home/gabriel/Videos/YTintroTemplate-3000.kdenlive
+    action=delete-candidate risk=low ext=.kdenlive size=0
+    reason=Empty Kdenlive project backup file (0 bytes)
+
+27. /home/gabriel/Videos/digitalDiary/speedReader
+    action=organize-keep risk=low ext=<no-ext> size=2120216
+    reason=MP4 container missing extension; keep and rename for proper classification
+    rename=speedReader.mp4
+    proposed_destination=Library/2024/2024-07-31_digitalDiary/speedReader.mp4
+
