@@ -6,3 +6,6 @@ __pycache__/
 .mypy_cache/
 .venv/
 venv/
+reports/*.json
+reports/*.txt
+reports/*.sh

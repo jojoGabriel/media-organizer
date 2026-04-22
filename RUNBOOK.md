@@ -1,6 +1,6 @@
 # Media Organizer Runbook
 
-Repeatable workflow for maintaining `~/Pictures` and `~/Videos`, importing new media, moving safe files into `~/organized-media-dry-run`, and backing up.
+Repeatable workflow for maintaining `~/Pictures` and `~/Videos`, importing new media, moving safe files into `~/Media`, and backing up.
 
 ## 0) Rules
 
@@ -15,7 +15,7 @@ Repeatable workflow for maintaining `~/Pictures` and `~/Videos`, importing new m
   - `~/Pictures`
   - `~/Videos`
 - Organized library root:
-  - `~/organized-media-dry-run`
+  - `~/Media`
 - Project repo:
   - `~/Projects/media-organizer`
 - Quarantine root (current):
@@ -55,7 +55,7 @@ Notes:
 cd ~/Projects/media-organizer
 python3 -m media_organizer apply \
   --report reports/scan-hash-vNN-description.json \
-  --dest-root ~/organized-media-dry-run \
+  --dest-root ~/Media \
   --manifest reports/apply-manifest-vNN-description.json
 ```
 
@@ -69,7 +69,7 @@ Notes:
 cd ~/Projects/media-organizer
 python3 -m media_organizer apply \
   --report reports/scan-hash-vNN-description.json \
-  --dest-root ~/organized-media-dry-run \
+  --dest-root ~/Media \
   --manifest reports/apply-manifest-vNN-description.json \
   --log reports/apply-log-vNN-description.json \
   --execute
@@ -132,7 +132,7 @@ Command:
 cd ~/Projects/media-organizer
 python3 scripts/move_takeout_unique_to_library.py \
   --scan-report reports/scan-hash-vNN-description.json \
-  --organized-root ~/organized-media-dry-run \
+  --organized-root ~/Media \
   --output-prefix reports/takeout-unique-to-library-move-vNN
 ```
 
@@ -163,40 +163,41 @@ Example hash check:
 ```bash
 sha256sum \
   ~/media-organizer-quarantine-2026-04-14/path/file.ext \
-  ~/organized-media-dry-run/path/file.ext
+  ~/Media/path/file.ext
 ```
 
 If hashes match and policy says duplicate-side file should be dropped, delete that quarantine copy.
 
-## 8) Backup (incremental, same drive)
+## 8) Backup (incremental mirror, same drive)
 
 Use this after any meaningful moves/imports.
 
+Low-space recommendation:
+- Use `--delete-before` so stale backup files are removed before new copies start.
+
+### 8.1 Dry-run (recommended first)
+
 ```bash
 cd /home/gabriel
-rsync -aHv --info=progress2 \
-  --exclude='Videos/PleasantHarmony/Hymns/hymns.m4v' \
-  --exclude='Videos/PleasantHarmony/Hymns/hymns.mp4' \
-  --exclude='Videos/PleasantHarmony/Hymns/production ID_4440821 (1) (1) (1).mkv' \
-  --exclude='Videos/PleasantHarmony/RM221115A/Untitled Project.mp4' \
-  Pictures Videos organized-media-dry-run Projects/media-organizer \
+rsync -aHvn --delete-before --itemize-changes --info=progress2 \
+  Pictures Videos Media Projects/media-organizer media-organizer-quarantine-2026-04-14 \
+  /media/gabriel/BACKUPHD250/
+```
+
+### 8.2 Real run
+
+```bash
+cd /home/gabriel
+rsync -aHv --delete-before --info=progress2 \
+  Pictures Videos Media Projects/media-organizer media-organizer-quarantine-2026-04-14 \
   /media/gabriel/BACKUPHD250/
 ```
 
 Notes:
-- `organized-media-dry-run` is included because this is where integrated files land.
-- Excludes are required for current FAT32 backup target.
-
-Optional verification pass:
-
-```bash
-cd /home/gabriel
-rsync -rltDvn --size-only \
-  --out-format='%n' \
-  --exclude='*/' \
-  Pictures Videos organized-media-dry-run Projects/media-organizer \
-  /media/gabriel/BACKUPHD250/
-```
+- `Media` is included because this is where integrated files land.
+- `media-organizer-quarantine-2026-04-14` is included for completeness (currently empty).
+- Old `PleasantHarmony` excludes were removed because that source path no longer exists.
+- If a source folder is renamed, the next `rsync --delete-before` run will copy the new path and remove the old backup path.
 
 ## 9) End-of-Session Checklist
 
@@ -215,14 +216,17 @@ rsync -rltDvn --size-only \
 python3 -m media_organizer scan --pictures-root ~/Pictures --videos-root ~/Videos --report reports/scan-hash-vNN.json
 
 # 2) apply dry-run
-python3 -m media_organizer apply --report reports/scan-hash-vNN.json --dest-root ~/organized-media-dry-run --manifest reports/apply-manifest-vNN.json
+python3 -m media_organizer apply --report reports/scan-hash-vNN.json --dest-root ~/Media --manifest reports/apply-manifest-vNN.json
 
 # 3) takeout unique move (optional)
-python3 scripts/move_takeout_unique_to_library.py --scan-report reports/scan-hash-vNN.json --organized-root ~/organized-media-dry-run --output-prefix reports/takeout-unique-to-library-move-vNN
+python3 scripts/move_takeout_unique_to_library.py --scan-report reports/scan-hash-vNN.json --organized-root ~/Media --output-prefix reports/takeout-unique-to-library-move-vNN
 
 # 4) rescan after changes
 python3 -m media_organizer scan --pictures-root ~/Pictures --videos-root ~/Videos --report reports/scan-hash-vNN-post.json
 
-# 5) backup
-cd /home/gabriel && rsync -aHv --info=progress2 --exclude='Videos/PleasantHarmony/Hymns/hymns.m4v' --exclude='Videos/PleasantHarmony/Hymns/hymns.mp4' --exclude='Videos/PleasantHarmony/Hymns/production ID_4440821 (1) (1) (1).mkv' --exclude='Videos/PleasantHarmony/RM221115A/Untitled Project.mp4' Pictures Videos organized-media-dry-run Projects/media-organizer /media/gabriel/BACKUPHD250/
+# 5) backup dry-run (delete-first mirror)
+cd /home/gabriel && rsync -aHvn --delete-before --itemize-changes --info=progress2 Pictures Videos Media Projects/media-organizer media-organizer-quarantine-2026-04-14 /media/gabriel/BACKUPHD250/
+
+# 6) backup real run
+cd /home/gabriel && rsync -aHv --delete-before --info=progress2 Pictures Videos Media Projects/media-organizer media-organizer-quarantine-2026-04-14 /media/gabriel/BACKUPHD250/
 ```
